@@ -1,0 +1,14 @@
+{
+    "name":"testcocos2d",
+    "version":"0.0.1",
+    "private":false,
+    "dependencies":{
+        "pomelo":"0.2.3"
+        , "crc" : ">=0.0.1"
+        ,"log4js": ">= 0.4.1"
+         , "generic-pool": ">=1.0.9"
+         , "pomelo-logger": "0.0.2"
+         , "mysql": ">=2.0"
+    }
+}
+

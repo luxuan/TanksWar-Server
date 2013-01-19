@@ -1,0 +1,317 @@
+[2013-01-05 19:07:14.793] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-05 19:07:15.052] [INFO] console - info: 'socket.io started'
+[2013-01-05 19:07:15.058] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-05 19:07:15.088] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-05 19:07:15.090] [INFO] console - info: 'socket.io started'
+[2013-01-05 19:07:15.090] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-05 21:13:42.353] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-05 21:13:42.926] [INFO] console - info: 'socket.io started'
+[2013-01-05 21:13:42.946] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-05 21:13:42.974] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-05 21:13:42.975] [INFO] console - info: 'socket.io started'
+[2013-01-05 21:13:42.975] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-06 18:28:28.356] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-06 18:28:28.875] [INFO] console - info: 'socket.io started'
+[2013-01-06 18:28:28.895] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-06 18:28:28.924] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-06 18:28:28.924] [INFO] console - info: 'socket.io started'
+[2013-01-06 18:28:28.925] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-06 20:11:02.741] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-06 20:11:03.131] [INFO] console - info: 'socket.io started'
+[2013-01-06 20:11:03.137] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-06 20:11:03.169] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-06 20:11:03.170] [INFO] console - info: 'socket.io started'
+[2013-01-06 20:11:03.171] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-06 20:28:10.196] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-06 20:28:10.515] [INFO] console - info: 'socket.io started'
+[2013-01-06 20:28:10.525] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-06 20:28:10.604] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-06 20:28:10.605] [INFO] console - info: 'socket.io started'
+[2013-01-06 20:28:10.606] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-06 20:31:43.612] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-06 20:31:43.939] [INFO] console - info: 'socket.io started'
+[2013-01-06 20:31:43.948] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-06 20:31:44.040] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-06 20:31:44.041] [INFO] console - info: 'socket.io started'
+[2013-01-06 20:31:44.042] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-06 20:38:11.834] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-06 20:38:12.148] [INFO] console - info: 'socket.io started'
+[2013-01-06 20:38:12.160] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-06 20:38:12.215] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-06 20:38:12.216] [INFO] console - info: 'socket.io started'
+[2013-01-06 20:38:12.216] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-06 20:40:29.652] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-06 20:40:29.954] [INFO] console - info: 'socket.io started'
+[2013-01-06 20:40:29.962] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-06 20:40:30.043] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-06 20:40:30.044] [INFO] console - info: 'socket.io started'
+[2013-01-06 20:40:30.045] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-06 20:41:47.713] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-06 20:41:48.070] [INFO] console - info: 'socket.io started'
+[2013-01-06 20:41:48.080] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-06 20:41:48.133] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-06 20:41:48.134] [INFO] console - info: 'socket.io started'
+[2013-01-06 20:41:48.135] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-06 20:44:42.723] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-06 20:44:43.059] [INFO] console - info: 'socket.io started'
+[2013-01-06 20:44:43.068] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-06 20:44:43.120] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-06 20:44:43.122] [INFO] console - info: 'socket.io started'
+[2013-01-06 20:44:43.122] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-06 20:47:59.608] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-06 20:47:59.944] [INFO] console - info: 'socket.io started'
+[2013-01-06 20:47:59.955] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-06 20:48:00.014] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-06 20:48:00.015] [INFO] console - info: 'socket.io started'
+[2013-01-06 20:48:00.015] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-06 20:56:18.072] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-06 20:56:18.393] [INFO] console - info: 'socket.io started'
+[2013-01-06 20:56:18.402] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-06 20:56:18.481] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-06 20:56:18.483] [INFO] console - info: 'socket.io started'
+[2013-01-06 20:56:18.483] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-06 20:58:32.200] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-06 20:58:32.538] [INFO] console - info: 'socket.io started'
+[2013-01-06 20:58:32.548] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-06 20:58:32.608] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-06 20:58:32.609] [INFO] console - info: 'socket.io started'
+[2013-01-06 20:58:32.610] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-06 21:02:26.028] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-06 21:02:26.488] [INFO] console - info: 'socket.io started'
+[2013-01-06 21:02:26.502] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-06 21:02:26.597] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-06 21:02:26.599] [INFO] console - info: 'socket.io started'
+[2013-01-06 21:02:26.599] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-06 21:25:20.202] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-06 21:25:20.592] [INFO] console - info: 'socket.io started'
+[2013-01-06 21:25:20.604] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-06 21:25:20.677] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-06 21:25:20.678] [INFO] console - info: 'socket.io started'
+[2013-01-06 21:25:20.679] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-07 20:04:42.489] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-07 20:04:43.259] [INFO] console - info: 'socket.io started'
+[2013-01-07 20:04:43.335] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-07 20:04:43.396] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-07 20:04:43.397] [INFO] console - info: 'socket.io started'
+[2013-01-07 20:04:43.398] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-07 20:57:17.728] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-07 20:57:18.180] [INFO] console - info: 'socket.io started'
+[2013-01-07 20:57:18.192] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-07 20:57:18.261] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-07 20:57:18.263] [INFO] console - info: 'socket.io started'
+[2013-01-07 20:57:18.263] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-07 21:06:11.507] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-07 21:06:11.966] [INFO] console - info: 'socket.io started'
+[2013-01-07 21:06:11.979] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-07 21:06:12.071] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-07 21:06:12.072] [INFO] console - info: 'socket.io started'
+[2013-01-07 21:06:12.073] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-07 21:15:31.188] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-07 21:15:31.606] [INFO] console - info: 'socket.io started'
+[2013-01-07 21:15:31.619] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-07 21:15:31.692] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-07 21:15:31.694] [INFO] console - info: 'socket.io started'
+[2013-01-07 21:15:31.694] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-07 22:07:59.399] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-07 22:07:59.824] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:07:59.834] [ERROR] console -  Caught exception: Error: Cannot find module 'pomelo-logger'
+    at Function.Module._resolveFilename (module.js:338:15)
+    at Function.Module._load (module.js:280:25)
+    at Module.require (module.js:362:17)
+    at require (module.js:378:17)
+    at Object.<anonymous> (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/app/dao/architectureDAO.js:2:14)
+    at Module._compile (module.js:449:26)
+    at Object.Module._extensions..js (module.js:467:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:362:17)
+[2013-01-07 22:09:18.286] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-07 22:09:18.777] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:09:18.806] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-07 22:09:18.860] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-07 22:09:18.861] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:09:18.861] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-07 22:10:36.055] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-07 22:10:36.522] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:10:36.557] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-07 22:10:36.599] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-07 22:10:36.600] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:10:36.601] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-07 22:11:37.534] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-07 22:11:38.024] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:11:38.058] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-07 22:11:38.126] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-07 22:11:38.127] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:11:38.128] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-07 22:13:59.682] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-07 22:14:00.113] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:14:00.139] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-07 22:14:00.220] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-07 22:14:00.221] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:14:00.222] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-07 22:14:41.557] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-07 22:14:41.997] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:14:42.029] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-07 22:14:42.099] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-07 22:14:42.100] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:14:42.101] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-07 22:15:50.456] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-07 22:15:50.887] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:15:50.916] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-07 22:15:50.986] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-07 22:15:50.987] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:15:50.987] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-07 22:17:21.384] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-07 22:17:21.810] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:17:21.837] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-07 22:17:21.898] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-07 22:17:21.901] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:17:21.901] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-07 22:24:00.923] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-07 22:24:01.363] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:24:01.394] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-07 22:24:01.456] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-07 22:24:01.458] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:24:01.458] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-07 22:40:04.890] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-07 22:40:05.339] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:40:05.345] [ERROR] console -  Caught exception: SyntaxError: Unexpected token }
+    at Module._compile (module.js:437:25)
+    at Object.Module._extensions..js (module.js:467:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:362:17)
+    at require (module.js:378:17)
+    at loadFile (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:43:10)
+    at loadPath (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:79:7)
+    at Object.module.exports.load (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:39:9)
+    at loadHandlers (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/server/server.js:106:19)
+[2013-01-07 22:42:41.697] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-07 22:42:42.125] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:42:42.134] [ERROR] console -  Caught exception: SyntaxError: Unexpected token }
+    at Module._compile (module.js:437:25)
+    at Object.Module._extensions..js (module.js:467:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:362:17)
+    at require (module.js:378:17)
+    at loadFile (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:43:10)
+    at loadPath (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:79:7)
+    at Object.module.exports.load (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:39:9)
+    at loadHandlers (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/server/server.js:106:19)
+[2013-01-07 22:43:51.833] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-07 22:43:52.265] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:43:52.270] [ERROR] console -  Caught exception: SyntaxError: Unexpected token }
+    at Module._compile (module.js:437:25)
+    at Object.Module._extensions..js (module.js:467:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:362:17)
+    at require (module.js:378:17)
+    at loadFile (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:43:10)
+    at loadPath (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:79:7)
+    at Object.module.exports.load (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:39:9)
+    at loadHandlers (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/server/server.js:106:19)
+[2013-01-07 22:44:41.516] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-07 22:44:41.970] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:44:42.001] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-07 22:44:42.066] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-07 22:44:42.068] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:44:42.068] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-07 22:45:30.882] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-07 22:45:31.306] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:45:31.312] [ERROR] console -  Caught exception: SyntaxError: Unexpected token }
+    at Module._compile (module.js:437:25)
+    at Object.Module._extensions..js (module.js:467:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:362:17)
+    at require (module.js:378:17)
+    at loadFile (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:43:10)
+    at loadPath (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:79:7)
+    at Object.module.exports.load (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:39:9)
+    at loadHandlers (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/server/server.js:106:19)
+[2013-01-07 22:45:58.570] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-07 22:45:59.021] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:45:59.046] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-07 22:45:59.144] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-07 22:45:59.145] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:45:59.146] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-07 22:48:02.560] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-07 22:48:03.012] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:48:03.056] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-07 22:48:03.116] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-07 22:48:03.118] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:48:03.118] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-08 09:30:49.978] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-08 09:30:50.718] [INFO] console - info: 'socket.io started'
+[2013-01-08 09:30:50.881] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-08 09:30:50.912] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-08 09:30:50.913] [INFO] console - info: 'socket.io started'
+[2013-01-08 09:30:50.913] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-10 17:10:34.372] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-10 17:10:35.044] [INFO] console - info: 'socket.io started'
+[2013-01-10 17:10:35.147] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-10 17:10:35.185] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-10 17:10:35.187] [INFO] console - info: 'socket.io started'
+[2013-01-10 17:10:35.187] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-10 17:12:11.930] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-10 17:12:12.365] [INFO] console - info: 'socket.io started'
+[2013-01-10 17:12:12.393] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-10 17:12:12.438] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-10 17:12:12.439] [INFO] console - info: 'socket.io started'
+[2013-01-10 17:12:12.440] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-10 19:35:15.344] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-10 19:35:15.781] [INFO] console - info: 'socket.io started'
+[2013-01-10 19:35:15.806] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-10 19:35:15.869] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-10 19:35:15.871] [INFO] console - info: 'socket.io started'
+[2013-01-10 19:35:15.871] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-10 20:17:02.913] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-10 20:17:03.342] [INFO] console - info: 'socket.io started'
+[2013-01-10 20:17:03.375] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-10 20:17:03.452] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-10 20:17:03.454] [INFO] console - info: 'socket.io started'
+[2013-01-10 20:17:03.454] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-13 15:22:36.735] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-13 15:22:37.454] [INFO] console - info: 'socket.io started'
+[2013-01-13 15:22:37.565] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-13 15:22:37.595] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-13 15:22:37.597] [INFO] console - info: 'socket.io started'
+[2013-01-13 15:22:37.597] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-14 15:18:58.253] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-14 15:18:58.868] [INFO] console - info: 'socket.io started'
+[2013-01-14 15:18:59.001] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-14 15:18:59.050] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-14 15:18:59.051] [INFO] console - info: 'socket.io started'
+[2013-01-14 15:18:59.052] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-14 16:47:29.361] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-14 16:47:30.010] [INFO] console - info: 'socket.io started'
+[2013-01-14 16:47:30.274] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-14 16:47:30.304] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-14 16:47:30.306] [INFO] console - info: 'socket.io started'
+[2013-01-14 16:47:30.306] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-14 18:45:18.380] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-14 18:45:18.774] [INFO] console - info: 'socket.io started'
+[2013-01-14 18:45:18.799] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-14 18:45:18.856] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-14 18:45:18.858] [INFO] console - info: 'socket.io started'
+[2013-01-14 18:45:18.858] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-15 08:19:34.572] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-15 08:19:35.238] [INFO] console - info: 'socket.io started'
+[2013-01-15 08:19:35.523] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-15 08:19:35.554] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-15 08:19:35.555] [INFO] console - info: 'socket.io started'
+[2013-01-15 08:19:35.556] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-17 18:22:30.138] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-17 18:22:30.664] [INFO] console - info: 'socket.io started'
+[2013-01-17 18:22:30.776] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-17 18:22:30.807] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-17 18:22:30.808] [INFO] console - info: 'socket.io started'
+[2013-01-17 18:22:30.809] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-01-17 19:46:52.849] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-01-17 19:46:53.246] [INFO] console - info: 'socket.io started'
+[2013-01-17 19:46:53.272] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-17 19:46:53.340] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-01-17 19:46:53.341] [INFO] console - info: 'socket.io started'
+[2013-01-17 19:46:53.342] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.

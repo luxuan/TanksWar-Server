@@ -1,0 +1,1924 @@
+[2013-01-06 21:02:26.037] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-06 21:02:26.497] [INFO] console - info: 'socket.io started'
+[2013-01-06 21:02:26.509] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-06 21:02:26.597] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-06 21:02:26.599] [INFO] console - info: 'socket.io started'
+[2013-01-06 21:02:26.599] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-06 21:25:20.208] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-06 21:25:20.594] [INFO] console - info: 'socket.io started'
+[2013-01-06 21:25:20.606] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-06 21:25:20.677] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-06 21:25:20.678] [INFO] console - info: 'socket.io started'
+[2013-01-06 21:25:20.679] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-07 20:04:42.471] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-07 20:04:43.255] [INFO] console - info: 'socket.io started'
+[2013-01-07 20:04:43.336] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-07 20:04:43.396] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-07 20:04:43.397] [INFO] console - info: 'socket.io started'
+[2013-01-07 20:04:43.398] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-07 20:57:17.712] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-07 20:57:18.163] [INFO] console - info: 'socket.io started'
+[2013-01-07 20:57:18.174] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-07 20:57:18.260] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-07 20:57:18.262] [INFO] console - info: 'socket.io started'
+[2013-01-07 20:57:18.263] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-07 20:57:28.987] [INFO] console - { username: 'chenyl107',
+  rid: 'junshi',
+  __route__: 'connector.entryHandler.enter' }
+[2013-01-07 20:58:26.618] [INFO] console - { username: 'chenyl107',
+  rid: 'junshi',
+  d: 'dd',
+  __route__: 'connector.entryHandler.enter' }
+[2013-01-07 20:59:00.335] [INFO] console - { username: 'chenyl107',
+  rid: 'junshi',
+  d: 'building1',
+  __route__: 'connector.entryHandler.enter' }
+[2013-01-07 21:00:41.649] [INFO] console - { username: 'chenyl107',
+  rid: 'junshi',
+  d: 'building1',
+  __route__: 'connector.entryHandler.enter' }
+[2013-01-07 21:03:46.920] [INFO] console - { rid: 'junshi',
+  myy: 460.8,
+  username: 'chenyl107',
+  d: 'building1',
+  myx: 341.3333,
+  __route__: 'connector.entryHandler.enter' }
+[2013-01-07 21:05:34.680] [INFO] console - { rid: 'junshi',
+  myy: 460.8,
+  username: 'chenyl107',
+  d: 'building1',
+  myx: 426.6667,
+  __route__: 'connector.entryHandler.enter' }
+[2013-01-07 21:06:11.528] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-07 21:06:11.982] [INFO] console - info: 'socket.io started'
+[2013-01-07 21:06:11.994] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-07 21:06:12.071] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-07 21:06:12.072] [INFO] console - info: 'socket.io started'
+[2013-01-07 21:06:12.073] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-07 21:15:19.722] [INFO] console - { rid: 'junshi',
+  myy: 460.8,
+  username: 'chenyl107',
+  d: 'building1',
+  myx: 341.3333,
+  __route__: 'connector.entryHandler.enter' }
+[2013-01-07 21:15:31.177] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-07 21:15:31.595] [INFO] console - info: 'socket.io started'
+[2013-01-07 21:15:31.607] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-07 21:15:31.692] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-07 21:15:31.694] [INFO] console - info: 'socket.io started'
+[2013-01-07 21:15:31.694] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-07 21:15:44.146] [INFO] console - { rid: 'junshi',
+  myy: 230.4,
+  username: 'chenyl107',
+  d: 'building1',
+  myx: 426.6667,
+  __route__: 'connector.entryHandler.enter' }
+[2013-01-07 21:16:08.331] [INFO] console - { rid: 'junshi',
+  myy: 384,
+  username: 'chenyl107',
+  d: 'building1',
+  myx: 426.6667,
+  __route__: 'connector.entryHandler.enter' }
+[2013-01-07 21:16:34.121] [INFO] console - { rid: 'junshi',
+  myy: 230.4,
+  username: 'chenyl107',
+  d: 'building1',
+  myx: 426.6667,
+  __route__: 'connector.entryHandler.enter' }
+[2013-01-07 21:17:05.270] [INFO] console - { rid: 'junshi',
+  myy: 307.2,
+  username: 'chenyl107',
+  d: 'building2',
+  myx: 426.6667,
+  __route__: 'connector.entryHandler.enter' }
+[2013-01-07 22:07:59.414] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-07 22:07:59.847] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:07:59.857] [ERROR] console -  Caught exception: Error: Cannot find module 'pomelo-logger'
+    at Function.Module._resolveFilename (module.js:338:15)
+    at Function.Module._load (module.js:280:25)
+    at Module.require (module.js:362:17)
+    at require (module.js:378:17)
+    at Object.<anonymous> (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/app/dao/architectureDAO.js:2:14)
+    at Module._compile (module.js:449:26)
+    at Object.Module._extensions..js (module.js:467:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:362:17)
+[2013-01-07 22:09:18.271] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-07 22:09:18.727] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:09:18.805] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-07 22:09:18.860] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-07 22:09:18.861] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:09:18.861] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-07 22:09:25.785] [ERROR] /node_modules/pomelo/lib/common/service/handlerService.js - [handleManager]: fail to find handler for "connector.entryHandler.add"
+[2013-01-07 22:09:25.787] [DEBUG] /node_modules/pomelo/lib/server/server.js - no default error handler to resolve unknown exception. Error: fail to find handler for connector.entryHandler.add
+    at Service.handle (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/common/service/handlerService.js:29:8)
+    at handle (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+[2013-01-07 22:09:25.788] [INFO] console - { username: 'chenyl107',
+  rid: 'junshi',
+  __route__: 'connector.entryHandler.enter' }
+[2013-01-07 22:10:11.230] [ERROR] console -  Caught exception: ReferenceError: architectureDAO is not defined
+    at handler.addArchitecture (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/app/servers/connector/handler/entryHandler.js:23:2)
+    at Service.handle (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-07 22:10:14.229] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.addArchitecture" timeout.
+[2013-01-07 22:10:36.022] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-07 22:10:36.472] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:10:36.503] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-07 22:10:36.598] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-07 22:10:36.599] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:10:36.600] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-07 22:10:51.832] [ERROR] console -  Caught exception: ReferenceError: architectureDAO is not defined
+    at handler.addArchitecture (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/app/servers/connector/handler/entryHandler.js:23:2)
+    at Service.handle (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-07 22:10:54.829] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.addArchitecture" timeout.
+[2013-01-07 22:11:37.515] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-07 22:11:38.019] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:11:38.050] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-07 22:11:38.125] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-07 22:11:38.126] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:11:38.126] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-07 22:11:54.530] [ERROR] console -  Caught exception: ReferenceError: architectureDAO is not defined
+    at handler.addArchitecture (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/app/servers/connector/handler/entryHandler.js:23:2)
+    at Service.handle (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-07 22:11:57.528] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.addArchitecture" timeout.
+[2013-01-07 22:13:59.699] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-07 22:14:00.121] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:14:00.154] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-07 22:14:00.221] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-07 22:14:00.222] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:14:00.222] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-07 22:14:07.847] [ERROR] console -  Caught exception: Error: Cannot find module 'mysql'
+    at Function.Module._resolveFilename (module.js:338:15)
+    at Function.Module._load (module.js:280:25)
+    at Module.require (module.js:362:17)
+    at require (module.js:378:17)
+    at Object._poolModule.Pool.create (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/app/dao/mysql/dao-pool.js:11:16)
+    at createResource (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/generic-pool/lib/generic-pool.js:246:13)
+    at dispense (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/generic-pool/lib/generic-pool.js:238:9)
+    at Object.exports.Pool.me.acquire (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/generic-pool/lib/generic-pool.js:304:5)
+    at Object.NND.query (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/app/dao/mysql/mysql.js:24:8)
+    at Object.architectureDao.createArchitecture (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/app/dao/architectureDAO.js:44:29)
+[2013-01-07 22:14:10.841] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.addArchitecture" timeout.
+[2013-01-07 22:14:41.557] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-07 22:14:42.009] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:14:42.041] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-07 22:14:42.100] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-07 22:14:42.102] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:14:42.102] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-07 22:14:48.044] [ERROR] console -  Caught exception: Error: Cannot find module 'mysql'
+    at Function.Module._resolveFilename (module.js:338:15)
+    at Function.Module._load (module.js:280:25)
+    at Module.require (module.js:362:17)
+    at require (module.js:378:17)
+    at Object._poolModule.Pool.create (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/app/dao/mysql/dao-pool.js:11:16)
+    at createResource (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/generic-pool/lib/generic-pool.js:246:13)
+    at dispense (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/generic-pool/lib/generic-pool.js:238:9)
+    at Object.exports.Pool.me.acquire (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/generic-pool/lib/generic-pool.js:304:5)
+    at Object.NND.query (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/app/dao/mysql/mysql.js:24:8)
+    at Object.architectureDao.createArchitecture (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/app/dao/architectureDAO.js:44:29)
+[2013-01-07 22:14:51.039] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.addArchitecture" timeout.
+[2013-01-07 22:15:50.476] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-07 22:15:50.910] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:15:50.946] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-07 22:15:50.986] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-07 22:15:50.987] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:15:50.987] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-07 22:15:56.918] [INFO] console - { username: 'chenyl107',
+  rid: 'junshi',
+  __route__: 'connector.entryHandler.enter' }
+[2013-01-07 22:15:56.943] [ERROR] console -  Caught exception: ReferenceError: Bag is not defined
+    at architectureDao.createArchitecture (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/app/dao/architectureDAO.js:49:18)
+    at Query.NND.query (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/app/dao/mysql/mysql.js:31:4)
+    at Query.Sequence.end (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/mysql/lib/protocol/sequences/Sequence.js:66:24)
+    at Query._handleFinalResultPacket (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/mysql/lib/protocol/sequences/Query.js:138:8)
+    at Query.OkPacket (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/mysql/lib/protocol/sequences/Query.js:72:10)
+    at Protocol._parsePacket (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/mysql/lib/protocol/Protocol.js:165:24)
+    at Parser.write (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/mysql/lib/protocol/Parser.js:60:12)
+    at Protocol.write (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/mysql/lib/protocol/Protocol.js:32:16)
+    at Socket.ondata (stream.js:38:26)
+    at Socket.EventEmitter.emit (events.js:96:17)
+[2013-01-07 22:15:59.862] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.addArchitecture" timeout.
+[2013-01-07 22:17:21.359] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-07 22:17:21.803] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:17:21.830] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-07 22:17:21.898] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-07 22:17:21.900] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:17:21.900] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-07 22:19:27.710] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.addArchitecture" timeout.
+[2013-01-07 22:24:00.919] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-07 22:24:01.350] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:24:01.378] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-07 22:24:01.455] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-07 22:24:01.457] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:24:01.457] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-07 22:24:10.017] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 3,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  changedRows: 0 }
+[2013-01-07 22:24:10.019] [ERROR] console -  Caught exception: TypeError: Cannot read property 'gold' of undefined
+    at handler.addArchitecture (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/app/servers/connector/handler/entryHandler.js:41:41)
+    at Object.utils.invokeCallback (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/app/util/utils.js:8:6)
+    at architectureDao.createArchitecture (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/app/dao/architectureDAO.js:51:16)
+    at Query.NND.query (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/app/dao/mysql/mysql.js:31:4)
+    at Query.Sequence.end (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/mysql/lib/protocol/sequences/Sequence.js:66:24)
+    at Query._handleFinalResultPacket (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/mysql/lib/protocol/sequences/Query.js:138:8)
+    at Query.OkPacket (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/mysql/lib/protocol/sequences/Query.js:72:10)
+    at Protocol._parsePacket (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/mysql/lib/protocol/Protocol.js:165:24)
+    at Parser.write (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/mysql/lib/protocol/Parser.js:60:12)
+    at Protocol.write (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/mysql/lib/protocol/Protocol.js:32:16)
+[2013-01-07 22:24:12.956] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.addArchitecture" timeout.
+[2013-01-07 22:40:04.887] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-07 22:40:05.328] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:40:05.334] [ERROR] console -  Caught exception: SyntaxError: Unexpected token }
+    at Module._compile (module.js:437:25)
+    at Object.Module._extensions..js (module.js:467:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:362:17)
+    at require (module.js:378:17)
+    at loadFile (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:43:10)
+    at loadPath (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:79:7)
+    at Object.module.exports.load (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:39:9)
+    at loadHandlers (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/server/server.js:106:19)
+[2013-01-07 22:42:41.718] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-07 22:42:42.156] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:42:42.162] [ERROR] console -  Caught exception: SyntaxError: Unexpected token }
+    at Module._compile (module.js:437:25)
+    at Object.Module._extensions..js (module.js:467:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:362:17)
+    at require (module.js:378:17)
+    at loadFile (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:43:10)
+    at loadPath (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:79:7)
+    at Object.module.exports.load (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:39:9)
+    at loadHandlers (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/server/server.js:106:19)
+[2013-01-07 22:43:51.825] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-07 22:43:52.255] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:43:52.263] [ERROR] console -  Caught exception: SyntaxError: Unexpected token }
+    at Module._compile (module.js:437:25)
+    at Object.Module._extensions..js (module.js:467:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:362:17)
+    at require (module.js:378:17)
+    at loadFile (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:43:10)
+    at loadPath (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:79:7)
+    at Object.module.exports.load (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:39:9)
+    at loadHandlers (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/server/server.js:106:19)
+[2013-01-07 22:44:41.525] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-07 22:44:41.974] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:44:42.006] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-07 22:44:42.067] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-07 22:44:42.069] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:44:42.069] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-07 22:45:30.892] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-07 22:45:31.328] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:45:31.334] [ERROR] console -  Caught exception: SyntaxError: Unexpected token }
+    at Module._compile (module.js:437:25)
+    at Object.Module._extensions..js (module.js:467:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:362:17)
+    at require (module.js:378:17)
+    at loadFile (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:43:10)
+    at loadPath (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:79:7)
+    at Object.module.exports.load (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:39:9)
+    at loadHandlers (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/server/server.js:106:19)
+[2013-01-07 22:45:58.597] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-07 22:45:59.064] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:45:59.102] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-07 22:45:59.145] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-07 22:45:59.146] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:45:59.147] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-07 22:48:02.589] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-07 22:48:03.024] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:48:03.054] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-07 22:48:03.116] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-07 22:48:03.118] [INFO] console - info: 'socket.io started'
+[2013-01-07 22:48:03.118] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-07 22:48:24.602] [INFO] console - invoke enter
+[2013-01-07 22:51:27.331] [INFO] console - invoke enter
+[2013-01-07 22:53:50.385] [INFO] console - invoke enter
+[2013-01-07 22:55:11.565] [INFO] console - invoke enter
+[2013-01-07 22:55:13.148] [INFO] console - invoke addArchitecture
+[2013-01-07 22:55:30.550] [INFO] console - invoke addArchitecture
+[2013-01-08 09:30:50.004] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-08 09:30:50.719] [INFO] console - info: 'socket.io started'
+[2013-01-08 09:30:50.882] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-08 09:30:50.912] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-08 09:30:50.913] [INFO] console - info: 'socket.io started'
+[2013-01-08 09:30:50.913] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-08 09:34:05.489] [INFO] console - invoke enter
+[2013-01-08 09:34:26.990] [INFO] console - invoke enter
+[2013-01-08 09:34:37.089] [INFO] console - invoke addArchitecture
+[2013-01-08 09:41:13.770] [INFO] console - invoke enter
+[2013-01-08 09:41:17.283] [INFO] console - invoke addArchitecture
+[2013-01-08 09:41:19.585] [INFO] console - invoke addArchitecture
+[2013-01-08 09:41:22.567] [INFO] console - invoke addArchitecture
+[2013-01-08 09:41:24.534] [INFO] console - invoke addArchitecture
+[2013-01-08 09:49:38.930] [INFO] console - invoke enter
+[2013-01-08 09:49:40.559] [INFO] console - invoke addArchitecture
+[2013-01-08 09:49:42.241] [INFO] console - invoke addArchitecture
+[2013-01-10 17:10:34.393] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-10 17:10:35.046] [INFO] console - info: 'socket.io started'
+[2013-01-10 17:10:35.147] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-10 17:10:35.185] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-10 17:10:35.187] [INFO] console - info: 'socket.io started'
+[2013-01-10 17:10:35.187] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-10 17:11:07.966] [INFO] console - invoke enter
+[2013-01-10 17:11:08.301] [INFO] console - invoke getArchitecture
+[2013-01-10 17:11:08.304] [ERROR] console -  Caught exception: ReferenceError: architectureDao is not defined
+    at handler.getArchitecture (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/app/servers/connector/handler/entryHandler.js:24:2)
+    at Service.handle (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/workspace/testCocos2d/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-10 17:11:11.301] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.getArchitecture" timeout.
+[2013-01-10 17:12:11.951] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-10 17:12:12.367] [INFO] console - info: 'socket.io started'
+[2013-01-10 17:12:12.397] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-10 17:12:12.437] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-10 17:12:12.438] [INFO] console - info: 'socket.io started'
+[2013-01-10 17:12:12.438] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-10 17:12:18.459] [INFO] console - invoke enter
+[2013-01-10 17:12:18.524] [INFO] console - invoke getArchitecture
+[2013-01-10 17:12:18.625] [INFO] console - [ { id: 1,
+    pointx: 427,
+    pointy: 384,
+    png: 'building1',
+    category: 'military' },
+  { id: 2,
+    pointx: 427,
+    pointy: 307,
+    png: 'building1',
+    category: 'military' },
+  { id: 3,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1',
+    category: 'military' },
+  { id: 4,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1',
+    category: 'military' },
+  { id: 5,
+    pointx: 512,
+    pointy: 230,
+    png: 'building2',
+    category: 'military' },
+  { id: 6,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2',
+    category: 'military' },
+  { id: 7,
+    pointx: 341,
+    pointy: 461,
+    png: 'building1',
+    category: 'military' },
+  { id: 8,
+    pointx: 341,
+    pointy: 461,
+    png: 'building2',
+    category: 'military' },
+  { id: 9,
+    pointx: 512,
+    pointy: 384,
+    png: 'building1',
+    category: 'military' },
+  { id: 10,
+    pointx: 512,
+    pointy: 461,
+    png: 'building1',
+    category: 'military' },
+  { id: 11,
+    pointx: 512,
+    pointy: 461,
+    png: 'building1',
+    category: 'military' },
+  { id: 12,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2',
+    category: 'military' } ]
+[2013-01-10 19:28:04.100] [INFO] console - invoke enter
+[2013-01-10 19:28:04.139] [INFO] console - invoke getArchitecture
+[2013-01-10 19:28:04.143] [INFO] console - [ { id: 1,
+    pointx: 427,
+    pointy: 384,
+    png: 'building1',
+    category: 'military' },
+  { id: 2,
+    pointx: 427,
+    pointy: 307,
+    png: 'building1',
+    category: 'military' },
+  { id: 3,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1',
+    category: 'military' },
+  { id: 4,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1',
+    category: 'military' },
+  { id: 5,
+    pointx: 512,
+    pointy: 230,
+    png: 'building2',
+    category: 'military' },
+  { id: 6,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2',
+    category: 'military' },
+  { id: 7,
+    pointx: 341,
+    pointy: 461,
+    png: 'building1',
+    category: 'military' },
+  { id: 8,
+    pointx: 341,
+    pointy: 461,
+    png: 'building2',
+    category: 'military' },
+  { id: 9,
+    pointx: 512,
+    pointy: 384,
+    png: 'building1',
+    category: 'military' },
+  { id: 10,
+    pointx: 512,
+    pointy: 461,
+    png: 'building1',
+    category: 'military' },
+  { id: 11,
+    pointx: 512,
+    pointy: 461,
+    png: 'building1',
+    category: 'military' },
+  { id: 12,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2',
+    category: 'military' } ]
+[2013-01-10 19:29:46.436] [INFO] console - invoke enter
+[2013-01-10 19:29:46.475] [INFO] console - invoke getArchitecture
+[2013-01-10 19:29:46.479] [INFO] console - [ { id: 1,
+    pointx: 427,
+    pointy: 384,
+    png: 'building1',
+    category: 'military' },
+  { id: 2,
+    pointx: 427,
+    pointy: 307,
+    png: 'building1',
+    category: 'military' },
+  { id: 3,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1',
+    category: 'military' },
+  { id: 4,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1',
+    category: 'military' },
+  { id: 5,
+    pointx: 512,
+    pointy: 230,
+    png: 'building2',
+    category: 'military' },
+  { id: 6,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2',
+    category: 'military' },
+  { id: 7,
+    pointx: 341,
+    pointy: 461,
+    png: 'building1',
+    category: 'military' },
+  { id: 8,
+    pointx: 341,
+    pointy: 461,
+    png: 'building2',
+    category: 'military' },
+  { id: 9,
+    pointx: 512,
+    pointy: 384,
+    png: 'building1',
+    category: 'military' },
+  { id: 10,
+    pointx: 512,
+    pointy: 461,
+    png: 'building1',
+    category: 'military' },
+  { id: 11,
+    pointx: 512,
+    pointy: 461,
+    png: 'building1',
+    category: 'military' },
+  { id: 12,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2',
+    category: 'military' } ]
+[2013-01-10 19:30:15.781] [INFO] console - invoke enter
+[2013-01-10 19:30:15.818] [INFO] console - invoke getArchitecture
+[2013-01-10 19:30:15.820] [INFO] console - [ { id: 1,
+    pointx: 427,
+    pointy: 384,
+    png: 'building1',
+    category: 'military' },
+  { id: 2,
+    pointx: 427,
+    pointy: 307,
+    png: 'building1',
+    category: 'military' },
+  { id: 3,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1',
+    category: 'military' },
+  { id: 4,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1',
+    category: 'military' },
+  { id: 5,
+    pointx: 512,
+    pointy: 230,
+    png: 'building2',
+    category: 'military' },
+  { id: 6,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2',
+    category: 'military' },
+  { id: 7,
+    pointx: 341,
+    pointy: 461,
+    png: 'building1',
+    category: 'military' },
+  { id: 8,
+    pointx: 341,
+    pointy: 461,
+    png: 'building2',
+    category: 'military' },
+  { id: 9,
+    pointx: 512,
+    pointy: 384,
+    png: 'building1',
+    category: 'military' },
+  { id: 10,
+    pointx: 512,
+    pointy: 461,
+    png: 'building1',
+    category: 'military' },
+  { id: 11,
+    pointx: 512,
+    pointy: 461,
+    png: 'building1',
+    category: 'military' },
+  { id: 12,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2',
+    category: 'military' } ]
+[2013-01-10 19:32:13.778] [INFO] console - invoke enter
+[2013-01-10 19:32:13.816] [INFO] console - invoke getArchitecture
+[2013-01-10 19:32:13.818] [INFO] console - [ { id: 1,
+    pointx: 427,
+    pointy: 384,
+    png: 'building1',
+    category: 'military' },
+  { id: 2,
+    pointx: 427,
+    pointy: 307,
+    png: 'building1',
+    category: 'military' },
+  { id: 3,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1',
+    category: 'military' },
+  { id: 4,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1',
+    category: 'military' },
+  { id: 5,
+    pointx: 512,
+    pointy: 230,
+    png: 'building2',
+    category: 'military' },
+  { id: 6,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2',
+    category: 'military' },
+  { id: 7,
+    pointx: 341,
+    pointy: 461,
+    png: 'building1',
+    category: 'military' },
+  { id: 8,
+    pointx: 341,
+    pointy: 461,
+    png: 'building2',
+    category: 'military' },
+  { id: 9,
+    pointx: 512,
+    pointy: 384,
+    png: 'building1',
+    category: 'military' },
+  { id: 10,
+    pointx: 512,
+    pointy: 461,
+    png: 'building1',
+    category: 'military' },
+  { id: 11,
+    pointx: 512,
+    pointy: 461,
+    png: 'building1',
+    category: 'military' },
+  { id: 12,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2',
+    category: 'military' } ]
+[2013-01-10 19:32:16.129] [INFO] console - invoke addArchitecture
+[2013-01-10 19:33:15.544] [INFO] console - invoke enter
+[2013-01-10 19:33:15.582] [INFO] console - invoke getArchitecture
+[2013-01-10 19:33:15.585] [INFO] console - [ { id: 1,
+    pointx: 427,
+    pointy: 384,
+    png: 'building1',
+    category: 'military' },
+  { id: 2,
+    pointx: 427,
+    pointy: 307,
+    png: 'building1',
+    category: 'military' },
+  { id: 3,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1',
+    category: 'military' },
+  { id: 4,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1',
+    category: 'military' },
+  { id: 5,
+    pointx: 512,
+    pointy: 230,
+    png: 'building2',
+    category: 'military' },
+  { id: 6,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2',
+    category: 'military' },
+  { id: 7,
+    pointx: 341,
+    pointy: 461,
+    png: 'building1',
+    category: 'military' },
+  { id: 8,
+    pointx: 341,
+    pointy: 461,
+    png: 'building2',
+    category: 'military' },
+  { id: 9,
+    pointx: 512,
+    pointy: 384,
+    png: 'building1',
+    category: 'military' },
+  { id: 10,
+    pointx: 512,
+    pointy: 461,
+    png: 'building1',
+    category: 'military' },
+  { id: 11,
+    pointx: 512,
+    pointy: 461,
+    png: 'building1',
+    category: 'military' },
+  { id: 12,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2',
+    category: 'military' },
+  { id: 13,
+    pointx: 341,
+    pointy: 461,
+    png: 'building2',
+    category: 'military' } ]
+[2013-01-10 19:33:54.576] [INFO] console - invoke enter
+[2013-01-10 19:33:54.584] [INFO] console - invoke getArchitecture
+[2013-01-10 19:33:54.587] [INFO] console - [ { id: 1,
+    pointx: 427,
+    pointy: 384,
+    png: 'building1',
+    category: 'military' },
+  { id: 2,
+    pointx: 427,
+    pointy: 307,
+    png: 'building1',
+    category: 'military' },
+  { id: 3,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1',
+    category: 'military' },
+  { id: 4,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1',
+    category: 'military' },
+  { id: 5,
+    pointx: 512,
+    pointy: 230,
+    png: 'building2',
+    category: 'military' },
+  { id: 6,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2',
+    category: 'military' },
+  { id: 7,
+    pointx: 341,
+    pointy: 461,
+    png: 'building1',
+    category: 'military' },
+  { id: 8,
+    pointx: 341,
+    pointy: 461,
+    png: 'building2',
+    category: 'military' },
+  { id: 9,
+    pointx: 512,
+    pointy: 384,
+    png: 'building1',
+    category: 'military' },
+  { id: 10,
+    pointx: 512,
+    pointy: 461,
+    png: 'building1',
+    category: 'military' },
+  { id: 11,
+    pointx: 512,
+    pointy: 461,
+    png: 'building1',
+    category: 'military' },
+  { id: 12,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2',
+    category: 'military' },
+  { id: 13,
+    pointx: 341,
+    pointy: 461,
+    png: 'building2',
+    category: 'military' } ]
+[2013-01-10 19:34:12.674] [INFO] console - invoke enter
+[2013-01-10 19:34:12.710] [INFO] console - invoke getArchitecture
+[2013-01-10 19:34:12.712] [INFO] console - [ { id: 1,
+    pointx: 427,
+    pointy: 384,
+    png: 'building1',
+    category: 'military' },
+  { id: 2,
+    pointx: 427,
+    pointy: 307,
+    png: 'building1',
+    category: 'military' },
+  { id: 3,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1',
+    category: 'military' },
+  { id: 4,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1',
+    category: 'military' },
+  { id: 5,
+    pointx: 512,
+    pointy: 230,
+    png: 'building2',
+    category: 'military' },
+  { id: 6,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2',
+    category: 'military' },
+  { id: 7,
+    pointx: 341,
+    pointy: 461,
+    png: 'building1',
+    category: 'military' },
+  { id: 8,
+    pointx: 341,
+    pointy: 461,
+    png: 'building2',
+    category: 'military' },
+  { id: 9,
+    pointx: 512,
+    pointy: 384,
+    png: 'building1',
+    category: 'military' },
+  { id: 10,
+    pointx: 512,
+    pointy: 461,
+    png: 'building1',
+    category: 'military' },
+  { id: 11,
+    pointx: 512,
+    pointy: 461,
+    png: 'building1',
+    category: 'military' },
+  { id: 12,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2',
+    category: 'military' },
+  { id: 13,
+    pointx: 341,
+    pointy: 461,
+    png: 'building2',
+    category: 'military' } ]
+[2013-01-10 19:35:15.359] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-10 19:35:15.784] [INFO] console - info: 'socket.io started'
+[2013-01-10 19:35:15.810] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-10 19:35:15.869] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-10 19:35:15.871] [INFO] console - info: 'socket.io started'
+[2013-01-10 19:35:15.871] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-10 19:35:26.585] [INFO] console - invoke enter
+[2013-01-10 19:35:26.654] [INFO] console - invoke getArchitecture
+[2013-01-10 19:35:26.709] [INFO] console - [ { id: 1,
+    pointx: 427,
+    pointy: 384,
+    png: 'building1',
+    category: 'military' },
+  { id: 2,
+    pointx: 427,
+    pointy: 307,
+    png: 'building1',
+    category: 'military' },
+  { id: 3,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1',
+    category: 'military' },
+  { id: 4,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1',
+    category: 'military' },
+  { id: 5,
+    pointx: 512,
+    pointy: 230,
+    png: 'building2',
+    category: 'military' },
+  { id: 6,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2',
+    category: 'military' },
+  { id: 7,
+    pointx: 341,
+    pointy: 461,
+    png: 'building1',
+    category: 'military' },
+  { id: 8,
+    pointx: 341,
+    pointy: 461,
+    png: 'building2',
+    category: 'military' },
+  { id: 9,
+    pointx: 512,
+    pointy: 384,
+    png: 'building1',
+    category: 'military' },
+  { id: 10,
+    pointx: 512,
+    pointy: 461,
+    png: 'building1',
+    category: 'military' },
+  { id: 11,
+    pointx: 512,
+    pointy: 461,
+    png: 'building1',
+    category: 'military' },
+  { id: 12,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2',
+    category: 'military' },
+  { id: 13,
+    pointx: 341,
+    pointy: 461,
+    png: 'building2',
+    category: 'military' } ]
+[2013-01-10 19:48:36.225] [INFO] console - invoke enter
+[2013-01-10 19:48:36.257] [INFO] console - invoke getArchitecture
+[2013-01-10 19:48:36.261] [INFO] console - [ { id: 1,
+    pointx: 427,
+    pointy: 384,
+    png: 'building1',
+    category: 'military' },
+  { id: 2,
+    pointx: 427,
+    pointy: 307,
+    png: 'building1',
+    category: 'military' },
+  { id: 3,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1',
+    category: 'military' },
+  { id: 4,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1',
+    category: 'military' },
+  { id: 5,
+    pointx: 512,
+    pointy: 230,
+    png: 'building2',
+    category: 'military' },
+  { id: 6,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2',
+    category: 'military' },
+  { id: 7,
+    pointx: 341,
+    pointy: 461,
+    png: 'building1',
+    category: 'military' },
+  { id: 8,
+    pointx: 341,
+    pointy: 461,
+    png: 'building2',
+    category: 'military' },
+  { id: 9,
+    pointx: 512,
+    pointy: 384,
+    png: 'building1',
+    category: 'military' },
+  { id: 10,
+    pointx: 512,
+    pointy: 461,
+    png: 'building1',
+    category: 'military' },
+  { id: 11,
+    pointx: 512,
+    pointy: 461,
+    png: 'building1',
+    category: 'military' },
+  { id: 12,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2',
+    category: 'military' },
+  { id: 13,
+    pointx: 341,
+    pointy: 461,
+    png: 'building2',
+    category: 'military' } ]
+[2013-01-10 20:08:57.445] [INFO] console - invoke enter
+[2013-01-10 20:08:57.523] [INFO] console - invoke getArchitecture
+[2013-01-10 20:08:57.526] [INFO] console - [ { id: 1,
+    pointx: 427,
+    pointy: 384,
+    png: 'building1',
+    category: 'military' } ]
+[2013-01-10 20:09:37.986] [INFO] console - invoke enter
+[2013-01-10 20:09:38.025] [INFO] console - invoke getArchitecture
+[2013-01-10 20:09:38.028] [INFO] console - [ { id: 1,
+    pointx: 427,
+    pointy: 384,
+    png: 'building1',
+    category: 'military' } ]
+[2013-01-10 20:10:25.515] [INFO] console - invoke enter
+[2013-01-10 20:10:25.555] [INFO] console - invoke getArchitecture
+[2013-01-10 20:10:25.557] [INFO] console - [ { id: 1,
+    pointx: 427,
+    pointy: 384,
+    png: 'building1',
+    category: 'military' } ]
+[2013-01-10 20:10:27.019] [INFO] console - invoke addArchitecture
+[2013-01-10 20:12:02.646] [INFO] console - invoke enter
+[2013-01-10 20:12:02.687] [INFO] console - invoke getArchitecture
+[2013-01-10 20:12:02.689] [INFO] console - [ { id: 1,
+    pointx: 427,
+    pointy: 384,
+    png: 'building1',
+    category: 'military' },
+  { id: 14,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2',
+    category: 'military' } ]
+[2013-01-10 20:13:36.068] [INFO] console - invoke enter
+[2013-01-10 20:13:36.106] [INFO] console - invoke getArchitecture
+[2013-01-10 20:13:36.109] [INFO] console - [ { id: 1,
+    pointx: 427,
+    pointy: 384,
+    png: 'building1',
+    category: 'military' },
+  { id: 14,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2',
+    category: 'military' } ]
+[2013-01-10 20:14:34.271] [INFO] console - invoke addArchitecture
+[2013-01-10 20:14:44.220] [INFO] console - invoke enter
+[2013-01-10 20:14:44.255] [INFO] console - invoke getArchitecture
+[2013-01-10 20:14:44.257] [INFO] console - [ { id: 1,
+    pointx: 427,
+    pointy: 384,
+    png: 'building1',
+    category: 'military' },
+  { id: 14,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2',
+    category: 'military' },
+  { id: 15,
+    pointx: 171,
+    pointy: 461,
+    png: 'building2',
+    category: 'military' } ]
+[2013-01-10 20:14:46.581] [INFO] console - invoke addArchitecture
+[2013-01-10 20:15:56.131] [INFO] console - invoke addArchitecture
+[2013-01-10 20:17:02.947] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-10 20:17:03.392] [INFO] console - info: 'socket.io started'
+[2013-01-10 20:17:03.420] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-10 20:17:03.453] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-10 20:17:03.454] [INFO] console - info: 'socket.io started'
+[2013-01-10 20:17:03.455] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-10 20:17:21.164] [INFO] console - invoke enter
+[2013-01-10 20:17:21.234] [INFO] console - invoke getArchitecture
+[2013-01-10 20:17:21.287] [INFO] console - [ { id: 17,
+    pointx: 171,
+    pointy: 230,
+    png: 'building1',
+    category: 'military' } ]
+[2013-01-10 20:17:24.298] [INFO] console - invoke addArchitecture
+[2013-01-10 20:17:24.298] [INFO] console - 170.6667
+[2013-01-10 20:17:43.645] [INFO] console - invoke enter
+[2013-01-10 20:17:43.681] [INFO] console - invoke getArchitecture
+[2013-01-10 20:17:43.683] [INFO] console - [ { id: 17,
+    pointx: 171,
+    pointy: 230,
+    png: 'building1',
+    category: 'military' },
+  { id: 18,
+    pointx: 171,
+    pointy: 230,
+    png: 'building1',
+    category: 'military' } ]
+[2013-01-10 20:17:45.945] [INFO] console - invoke addArchitecture
+[2013-01-10 20:17:45.945] [INFO] console - 170.6667
+[2013-01-10 20:20:10.787] [INFO] console - invoke enter
+[2013-01-10 20:20:10.820] [INFO] console - invoke getArchitecture
+[2013-01-10 20:20:10.823] [INFO] console - [ { id: 17,
+    pointx: 171,
+    pointy: 230,
+    png: 'building1',
+    category: 'military' } ]
+[2013-01-10 20:20:49.469] [INFO] console - invoke enter
+[2013-01-10 20:20:49.506] [INFO] console - invoke getArchitecture
+[2013-01-10 20:20:49.508] [INFO] console - [ { id: 17,
+    pointx: 171,
+    pointy: 230,
+    png: 'building1',
+    category: 'military' } ]
+[2013-01-10 20:21:55.127] [INFO] console - invoke enter
+[2013-01-10 20:21:55.162] [INFO] console - invoke getArchitecture
+[2013-01-10 20:21:55.165] [INFO] console - [ { id: 17,
+    pointx: 171,
+    pointy: 230,
+    png: 'building1',
+    category: 'military' } ]
+[2013-01-10 20:25:00.541] [INFO] console - invoke enter
+[2013-01-10 20:25:00.580] [INFO] console - invoke getArchitecture
+[2013-01-10 20:25:00.583] [INFO] console - [ { id: 17,
+    pointx: 171,
+    pointy: 230,
+    png: 'building1',
+    category: 'military' } ]
+[2013-01-10 20:26:50.206] [INFO] console - invoke enter
+[2013-01-10 20:26:50.243] [INFO] console - invoke getArchitecture
+[2013-01-10 20:26:50.245] [INFO] console - [ { id: 17,
+    pointx: 171,
+    pointy: 230,
+    png: 'building1',
+    category: 'military' } ]
+[2013-01-10 20:30:09.415] [INFO] console - invoke enter
+[2013-01-10 20:30:09.452] [INFO] console - invoke getArchitecture
+[2013-01-10 20:30:09.455] [INFO] console - [ { id: 17,
+    pointx: 171,
+    pointy: 230,
+    png: 'building1',
+    category: 'military' } ]
+[2013-01-10 20:32:03.450] [INFO] console - invoke enter
+[2013-01-10 20:32:03.489] [INFO] console - invoke getArchitecture
+[2013-01-10 20:32:03.492] [INFO] console - [ { id: 17,
+    pointx: 171,
+    pointy: 230,
+    png: 'building1.png',
+    category: 'military' } ]
+[2013-01-10 20:32:51.734] [INFO] console - invoke enter
+[2013-01-10 20:32:51.773] [INFO] console - invoke getArchitecture
+[2013-01-10 20:32:51.776] [INFO] console - [ { id: 17,
+    pointx: 171,
+    pointy: 230,
+    png: 'building1.png',
+    category: 'military' } ]
+[2013-01-10 20:32:54.475] [INFO] console - invoke addArchitecture
+[2013-01-10 20:32:54.476] [INFO] console - 256
+[2013-01-10 20:32:56.108] [INFO] console - invoke addArchitecture
+[2013-01-10 20:32:56.109] [INFO] console - 341.3333
+[2013-01-10 20:32:57.422] [INFO] console - invoke addArchitecture
+[2013-01-10 20:32:57.422] [INFO] console - 426.6667
+[2013-01-10 20:32:58.589] [INFO] console - invoke addArchitecture
+[2013-01-10 20:32:58.589] [INFO] console - 426.6667
+[2013-01-10 20:33:06.907] [INFO] console - invoke enter
+[2013-01-10 20:33:06.946] [INFO] console - invoke getArchitecture
+[2013-01-10 20:33:06.947] [INFO] console - [ { id: 17,
+    pointx: 171,
+    pointy: 230,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 20,
+    pointx: 256,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 21,
+    pointx: 341,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 22,
+    pointx: 427,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 23,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-13 15:22:36.747] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-13 15:22:37.452] [INFO] console - info: 'socket.io started'
+[2013-01-13 15:22:37.565] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-13 15:22:37.595] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-13 15:22:37.596] [INFO] console - info: 'socket.io started'
+[2013-01-13 15:22:37.597] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-13 15:23:08.296] [INFO] console - invoke enter
+[2013-01-13 15:23:08.418] [INFO] console - invoke getArchitecture
+[2013-01-13 15:23:08.735] [INFO] console - [ { id: 17,
+    pointx: 171,
+    pointy: 230,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 20,
+    pointx: 256,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 21,
+    pointx: 341,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 22,
+    pointx: 427,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 23,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-13 15:25:03.452] [INFO] console - invoke addArchitecture
+[2013-01-13 15:25:03.453] [INFO] console - 597.3333
+[2013-01-13 15:25:08.902] [INFO] console - invoke addArchitecture
+[2013-01-13 15:25:08.902] [INFO] console - 597.3333
+[2013-01-13 15:25:10.688] [INFO] console - invoke addArchitecture
+[2013-01-13 15:25:10.689] [INFO] console - 256
+[2013-01-13 15:25:18.522] [INFO] console - invoke enter
+[2013-01-13 15:25:18.558] [INFO] console - invoke getArchitecture
+[2013-01-13 15:25:18.560] [INFO] console - [ { id: 17,
+    pointx: 171,
+    pointy: 230,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 20,
+    pointx: 256,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 21,
+    pointx: 341,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 22,
+    pointx: 427,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 23,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 24,
+    pointx: 597,
+    pointy: 461,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 25,
+    pointx: 597,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 26,
+    pointx: 256,
+    pointy: 461,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-13 20:09:53.850] [INFO] console - invoke enter
+[2013-01-13 20:09:53.888] [INFO] console - invoke getArchitecture
+[2013-01-13 20:09:53.891] [INFO] console - [ { id: 17,
+    pointx: 171,
+    pointy: 230,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 20,
+    pointx: 256,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 21,
+    pointx: 341,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 22,
+    pointx: 427,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 23,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 24,
+    pointx: 597,
+    pointy: 461,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 25,
+    pointx: 597,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 26,
+    pointx: 256,
+    pointy: 461,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-13 20:09:56.166] [INFO] console - invoke addArchitecture
+[2013-01-13 20:09:56.166] [INFO] console - 597.3333
+[2013-01-14 15:18:58.264] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-14 15:18:58.871] [INFO] console - info: 'socket.io started'
+[2013-01-14 15:18:59.003] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-14 15:18:59.050] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-14 15:18:59.053] [INFO] console - info: 'socket.io started'
+[2013-01-14 15:18:59.053] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-14 15:20:28.639] [INFO] console - invoke enter
+[2013-01-14 15:20:29.808] [INFO] console - invoke getArchitecture
+[2013-01-14 15:20:30.232] [INFO] console - []
+[2013-01-14 15:20:32.271] [INFO] console - invoke addArchitecture
+[2013-01-14 15:20:32.272] [INFO] console - 597.3333
+[2013-01-14 15:20:34.305] [INFO] console - invoke addArchitecture
+[2013-01-14 15:20:34.305] [INFO] console - 512
+[2013-01-14 15:20:36.291] [INFO] console - invoke addArchitecture
+[2013-01-14 15:20:36.292] [INFO] console - 512
+[2013-01-14 15:20:44.757] [INFO] console - invoke addArchitecture
+[2013-01-14 15:20:44.757] [INFO] console - 426.6667
+[2013-01-14 15:20:48.455] [INFO] console - invoke addArchitecture
+[2013-01-14 15:20:48.455] [INFO] console - 597.3333
+[2013-01-14 15:20:58.047] [INFO] console - invoke enter
+[2013-01-14 15:20:58.086] [INFO] console - invoke getArchitecture
+[2013-01-14 15:20:58.088] [INFO] console - [ { id: 28,
+    pointx: 597,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 29,
+    pointx: 512,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 30,
+    pointx: 512,
+    pointy: 230,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 31,
+    pointx: 427,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 32,
+    pointx: 597,
+    pointy: 230,
+    png: 'building1.png',
+    category: 'military' } ]
+[2013-01-14 15:21:04.688] [INFO] console - invoke addArchitecture
+[2013-01-14 15:21:04.689] [INFO] console - 512
+[2013-01-14 15:21:10.504] [INFO] console - invoke addArchitecture
+[2013-01-14 15:21:10.505] [INFO] console - 426.6667
+[2013-01-14 15:21:27.054] [INFO] console - invoke addArchitecture
+[2013-01-14 15:21:27.054] [INFO] console - 170.6667
+[2013-01-14 15:21:50.272] [INFO] console - invoke enter
+[2013-01-14 15:21:50.312] [INFO] console - invoke getArchitecture
+[2013-01-14 15:21:50.315] [INFO] console - [ { id: 28,
+    pointx: 597,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 29,
+    pointx: 512,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 30,
+    pointx: 512,
+    pointy: 230,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 31,
+    pointx: 427,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 32,
+    pointx: 597,
+    pointy: 230,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 33,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 34,
+    pointx: 427,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 35,
+    pointx: 171,
+    pointy: 461,
+    png: 'building1.png',
+    category: 'military' } ]
+[2013-01-14 15:38:12.118] [INFO] console - invoke addArchitecture
+[2013-01-14 15:38:12.119] [INFO] console - 341.3333
+[2013-01-14 15:38:15.520] [INFO] console - invoke addArchitecture
+[2013-01-14 15:38:15.520] [INFO] console - 170.6667
+[2013-01-14 16:47:29.368] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-14 16:47:30.012] [INFO] console - info: 'socket.io started'
+[2013-01-14 16:47:30.273] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-14 16:47:30.304] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-14 16:47:30.306] [INFO] console - info: 'socket.io started'
+[2013-01-14 16:47:30.306] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-14 16:48:11.856] [INFO] console - invoke enter
+[2013-01-14 16:48:11.993] [INFO] console - invoke getArchitecture
+[2013-01-14 16:48:12.153] [INFO] console - [ { id: 28,
+    pointx: 597,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 29,
+    pointx: 512,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 30,
+    pointx: 512,
+    pointy: 230,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 31,
+    pointx: 427,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 32,
+    pointx: 597,
+    pointy: 230,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 33,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 34,
+    pointx: 427,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 35,
+    pointx: 171,
+    pointy: 461,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 36,
+    pointx: 341,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 37,
+    pointx: 171,
+    pointy: 230,
+    png: 'building1.png',
+    category: 'military' } ]
+[2013-01-14 16:49:06.066] [INFO] console - invoke enter
+[2013-01-14 16:49:06.130] [INFO] console - invoke getArchitecture
+[2013-01-14 16:49:06.135] [INFO] console - [ { id: 28,
+    pointx: 597,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 29,
+    pointx: 512,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 30,
+    pointx: 512,
+    pointy: 230,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 31,
+    pointx: 427,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 32,
+    pointx: 597,
+    pointy: 230,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 33,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 34,
+    pointx: 427,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 35,
+    pointx: 171,
+    pointy: 461,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 36,
+    pointx: 341,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 37,
+    pointx: 171,
+    pointy: 230,
+    png: 'building1.png',
+    category: 'military' } ]
+[2013-01-14 18:45:18.393] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-14 18:45:18.779] [INFO] console - info: 'socket.io started'
+[2013-01-14 18:45:18.804] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-14 18:45:18.856] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-14 18:45:18.858] [INFO] console - info: 'socket.io started'
+[2013-01-14 18:45:18.858] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-14 18:45:25.918] [INFO] console - invoke enter
+[2013-01-14 18:45:25.989] [INFO] console - invoke getArchitecture
+[2013-01-14 18:45:26.041] [INFO] console - [ { id: 28,
+    pointx: 597,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 29,
+    pointx: 512,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 30,
+    pointx: 512,
+    pointy: 230,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 31,
+    pointx: 427,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 32,
+    pointx: 597,
+    pointy: 230,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 33,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 34,
+    pointx: 427,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 35,
+    pointx: 171,
+    pointy: 461,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 36,
+    pointx: 341,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 37,
+    pointx: 171,
+    pointy: 230,
+    png: 'building1.png',
+    category: 'military' } ]
+[2013-01-14 18:45:29.157] [INFO] console - invoke addArchitecture
+[2013-01-14 18:45:29.157] [INFO] console - 341.3333
+[2013-01-14 18:45:30.933] [INFO] console - invoke addArchitecture
+[2013-01-14 18:45:30.934] [INFO] console - 341.3333
+[2013-01-14 18:45:32.464] [INFO] console - invoke addArchitecture
+[2013-01-14 18:45:32.464] [INFO] console - 426.6667
+[2013-01-14 18:45:34.532] [INFO] console - invoke addArchitecture
+[2013-01-14 18:45:34.532] [INFO] console - 512
+[2013-01-14 18:45:35.965] [INFO] console - invoke addArchitecture
+[2013-01-14 18:45:35.965] [INFO] console - 597.3333
+[2013-01-14 18:45:44.365] [INFO] console - invoke enter
+[2013-01-14 18:45:44.434] [INFO] console - invoke getArchitecture
+[2013-01-14 18:45:44.436] [INFO] console - [ { id: 28,
+    pointx: 597,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 29,
+    pointx: 512,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 30,
+    pointx: 512,
+    pointy: 230,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 31,
+    pointx: 427,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 32,
+    pointx: 597,
+    pointy: 230,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 33,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 34,
+    pointx: 427,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 35,
+    pointx: 171,
+    pointy: 461,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 36,
+    pointx: 341,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 37,
+    pointx: 171,
+    pointy: 230,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 38,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 39,
+    pointx: 341,
+    pointy: 461,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 40,
+    pointx: 427,
+    pointy: 461,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 41,
+    pointx: 512,
+    pointy: 461,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 42,
+    pointx: 597,
+    pointy: 461,
+    png: 'building1.png',
+    category: 'military' } ]
+[2013-01-14 18:45:50.832] [INFO] console - invoke addArchitecture
+[2013-01-14 18:45:50.833] [INFO] console - 256
+[2013-01-14 18:45:52.502] [INFO] console - invoke addArchitecture
+[2013-01-14 18:45:52.502] [INFO] console - 170.6667
+[2013-01-14 18:45:53.782] [INFO] console - invoke addArchitecture
+[2013-01-14 18:45:53.782] [INFO] console - 170.6667
+[2013-01-14 18:46:00.429] [INFO] console - invoke enter
+[2013-01-14 18:46:00.495] [INFO] console - invoke getArchitecture
+[2013-01-14 18:46:00.497] [INFO] console - [ { id: 28,
+    pointx: 597,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 29,
+    pointx: 512,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 30,
+    pointx: 512,
+    pointy: 230,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 31,
+    pointx: 427,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 32,
+    pointx: 597,
+    pointy: 230,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 33,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 34,
+    pointx: 427,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 35,
+    pointx: 171,
+    pointy: 461,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 36,
+    pointx: 341,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 37,
+    pointx: 171,
+    pointy: 230,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 38,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 39,
+    pointx: 341,
+    pointy: 461,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 40,
+    pointx: 427,
+    pointy: 461,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 41,
+    pointx: 512,
+    pointy: 461,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 42,
+    pointx: 597,
+    pointy: 461,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 43,
+    pointx: 256,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 44,
+    pointx: 171,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 45,
+    pointx: 171,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-14 18:46:21.631] [INFO] console - invoke enter
+[2013-01-14 18:46:21.694] [INFO] console - invoke getArchitecture
+[2013-01-14 18:46:21.697] [INFO] console - []
+[2013-01-14 19:16:01.393] [INFO] console - invoke addArchitecture
+[2013-01-14 19:16:01.393] [INFO] console - 426.6667
+[2013-01-15 08:19:34.589] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-15 08:19:35.234] [INFO] console - info: 'socket.io started'
+[2013-01-15 08:19:35.523] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-15 08:19:35.554] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-15 08:19:35.556] [INFO] console - info: 'socket.io started'
+[2013-01-15 08:19:35.556] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-15 08:20:30.083] [INFO] console - invoke enter
+[2013-01-15 08:20:33.879] [INFO] console - invoke addArchitecture
+[2013-01-15 08:20:33.880] [INFO] console - 426.6667
+[2013-01-15 08:20:35.497] [INFO] console - invoke addArchitecture
+[2013-01-15 08:20:35.498] [INFO] console - 426.6667
+[2013-01-15 08:20:40.975] [INFO] console - invoke enter
+[2013-01-15 08:21:20.437] [INFO] console - invoke enter
+[2013-01-15 08:21:20.477] [INFO] console - invoke getArchitecture
+[2013-01-15 08:21:20.481] [INFO] console - [ { id: 46,
+    pointx: 427,
+    pointy: 461,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 47,
+    pointx: 427,
+    pointy: 461,
+    png: 'building1',
+    category: 'military' },
+  { id: 48,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2',
+    category: 'military' } ]
+[2013-01-15 08:21:46.611] [INFO] console - invoke enter
+[2013-01-15 08:21:46.617] [INFO] console - invoke getArchitecture
+[2013-01-15 08:21:46.620] [INFO] console - []
+[2013-01-15 08:21:48.735] [INFO] console - invoke addArchitecture
+[2013-01-15 08:21:48.735] [INFO] console - 341.3333
+[2013-01-15 08:21:50.684] [INFO] console - invoke addArchitecture
+[2013-01-15 08:21:50.685] [INFO] console - 426.6667
+[2013-01-15 08:21:56.167] [INFO] console - invoke enter
+[2013-01-15 08:21:56.200] [INFO] console - invoke getArchitecture
+[2013-01-15 08:21:56.201] [INFO] console - [ { id: 49,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 50,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-17 18:22:30.157] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-17 18:22:30.670] [INFO] console - info: 'socket.io started'
+[2013-01-17 18:22:30.775] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-17 18:22:30.807] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-17 18:22:30.808] [INFO] console - info: 'socket.io started'
+[2013-01-17 18:22:30.809] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-17 18:23:03.367] [INFO] console - invoke enter
+[2013-01-17 18:23:03.465] [INFO] console - invoke getArchitecture
+[2013-01-17 18:23:03.599] [INFO] console - [ { id: 49,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 50,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-17 18:23:05.764] [INFO] console - invoke addArchitecture
+[2013-01-17 18:23:05.764] [INFO] console - 512
+[2013-01-17 19:46:52.860] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-17 19:46:53.236] [INFO] console - info: 'socket.io started'
+[2013-01-17 19:46:53.264] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-17 19:46:53.340] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-17 19:46:53.341] [INFO] console - info: 'socket.io started'
+[2013-01-17 19:46:53.342] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-17 19:47:01.308] [INFO] console - invoke enter
+[2013-01-17 19:47:01.378] [INFO] console - invoke getArchitecture
+[2013-01-17 19:47:01.433] [INFO] console - [ { id: 49,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 50,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-17 19:47:07.460] [INFO] console - invoke addArchitecture
+[2013-01-17 19:47:07.460] [INFO] console - 341.3333
+[2013-01-17 19:47:13.415] [INFO] console - invoke addArchitecture
+[2013-01-17 19:47:13.415] [INFO] console - 512
+[2013-01-17 19:47:20.058] [INFO] console - invoke enter
+[2013-01-17 19:47:20.098] [INFO] console - invoke getArchitecture
+[2013-01-17 19:47:20.100] [INFO] console - [ { id: 49,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 50,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 52,
+    pointx: 341,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' } ]
