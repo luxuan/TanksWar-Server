@@ -21,6 +21,7 @@ var handler = Handler.prototype;
 
 handler.getArchitecture = function(msg, session, next) {
 	console.log("invoke getArchitecture");
+    //得到数据库的建筑的信息
 	architectureDAO.getResourceByCategory(msg.category,function(err,Resources) {
 		if (err) {
 			logger.error('getResourceByCategory failed!');
@@ -35,7 +36,10 @@ handler.getArchitecture = function(msg, session, next) {
 				
 			}
 
-			
+//            //得到最大的ID，用于新增建筑的时候
+//            architectureDao.getMaxResourceIDByCategory(msg.category,function(err,Resources) {
+//
+//            }
 			next(null, {code: 200, Resources: Resources});
 		}
 	});
@@ -69,6 +73,33 @@ handler.addArchitecture  = function(msg, session, next) {
 
 }
 
+
+handler.deleteArchitecture  = function(msg, session, next) {
+    console.log("invoke deleteArchitecture");
+    console.log(msg.id);
+    architectureDAO.deleteArchitecture(msg.id, function(err,Resources) {
+        if (err) {
+            logger.error('deleteArchitecture failed!');
+            next(new Error('fail to deleteArchitecture'));
+        } else {
+
+            var length = Resources.length;
+            var reTasks = [];
+            var Resource;
+
+            for (var i = 0; i < length; i++) {
+                Resource = Resources[i];
+
+            }
+            //		logger.error('length='+length);
+
+            //		pomelo.pushMessage({route: 'updateGold', gold: Resource.gold});
+
+            next(null, {code: 200, gold: Resource});
+        }
+    });
+
+}
 
 handler.enter = function(msg, session, next) {
 	console.log("invoke enter");

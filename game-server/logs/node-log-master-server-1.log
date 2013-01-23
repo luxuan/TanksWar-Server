@@ -6430,3 +6430,2578 @@
     png: 'building1.png',
     category: 'military' } ]
 
+[2013-01-23 14:52:59.850] [INFO] /node_modules/pomelo/lib/application.js - application inited: "master-server-1"
+[2013-01-23 14:53:00.013] [INFO] console - info: 'socket.io started'
+[2013-01-23 14:53:00.016] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-1 locally
+[2013-01-23 14:53:00.019] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-2 locally
+[2013-01-23 14:53:00.021] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-3 locally
+[2013-01-23 14:53:00.022] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-1 locally
+[2013-01-23 14:53:00.024] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-2 locally
+[2013-01-23 14:53:00.025] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-3 locally
+[2013-01-23 14:53:00.027] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=gate serverId=gate-server-1 locally
+[2013-01-23 14:53:00.031] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "master", "127.0.0.1", 3005
+[2013-01-23 14:53:00.139] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "master-server-1", "master"
+[2013-01-23 14:53:00.157] [INFO] console - [32m[2013-01-23 14:53:00.143] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 14:53:00.162] [INFO] console - [32m[2013-01-23 14:53:00.143] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 14:53:00.166] [INFO] console - [32m[2013-01-23 14:53:00.147] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 14:53:00.169] [INFO] console - [32m[2013-01-23 14:53:00.168] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-2"
+
+[2013-01-23 14:53:00.173] [INFO] console - [32m[2013-01-23 14:53:00.147] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 14:53:00.175] [INFO] console - [32m[2013-01-23 14:53:00.174] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-3"
+
+[2013-01-23 14:53:00.179] [INFO] console - [32m[2013-01-23 14:53:00.149] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 14:53:00.182] [INFO] console - [32m[2013-01-23 14:53:00.181] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-1"
+
+[2013-01-23 14:53:00.185] [INFO] console - [32m[2013-01-23 14:53:00.151] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 14:53:00.191] [INFO] console - [32m[2013-01-23 14:53:00.190] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-1"
+
+[2013-01-23 14:53:00.192] [INFO] console - [32m[2013-01-23 14:53:00.154] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 14:53:00.199] [INFO] console - [32m[2013-01-23 14:53:00.196] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-2"
+
+[2013-01-23 14:53:00.202] [INFO] console - [32m[2013-01-23 14:53:00.202] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-3"
+
+[2013-01-23 14:53:00.208] [INFO] console - [32m[2013-01-23 14:53:00.208] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "gate-server-1"
+
+[2013-01-23 14:53:00.547] [INFO] console - [32m[2013-01-23 14:53:00.546] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 14:53:00.549] [INFO] console - [32m[2013-01-23 14:53:00.548] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 14:53:00.559] [INFO] console - [32m[2013-01-23 14:53:00.558] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-23 14:53:00.561] [INFO] console - [32m[2013-01-23 14:53:00.560] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-23 14:53:00.573] [INFO] console - [32m[2013-01-23 14:53:00.572] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 14:53:00.589] [INFO] console - [32m[2013-01-23 14:53:00.588] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 14:53:00.595] [INFO] console - [32m[2013-01-23 14:53:00.594] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 14:53:00.602] [INFO] console - [32m[2013-01-23 14:53:00.601] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-23 14:53:00.603] [INFO] console - [32m[2013-01-23 14:53:00.602] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "gate", "127.0.0.1", 3005
+
+[2013-01-23 14:53:00.609] [INFO] console - [32m[2013-01-23 14:53:00.608] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 14:53:00.614] [INFO] console - [32m[2013-01-23 14:53:00.613] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-23 14:53:00.617] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-1", "chat"
+[2013-01-23 14:53:00.629] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-3", "chat"
+[2013-01-23 14:53:00.632] [INFO] console - [32m[2013-01-23 14:53:00.632] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-23 14:53:00.644] [INFO] console - [32m[2013-01-23 14:53:00.644] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-23 14:53:00.661] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-2", "connector"
+[2013-01-23 14:53:00.663] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-2", "chat"
+[2013-01-23 14:53:00.663] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "gate-server-1", "gate"
+[2013-01-23 14:53:00.670] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-1", "connector"
+[2013-01-23 14:53:00.678] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-3", "connector"
+[2013-01-23 14:53:00.679] [INFO] /node_modules/pomelo/lib/master/master.js - [master] all servers have started and notify after start now...
+[2013-01-23 14:53:00.680] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "master-server-1"
+[2013-01-23 14:53:00.680] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "master-server-1" started.
+[2013-01-23 14:53:00.680] [INFO] console - [36m[2013-01-23 14:53:00.679] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "gate-server-1"
+
+[2013-01-23 14:53:00.681] [INFO] console - [36m[2013-01-23 14:53:00.679] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-2"
+
+[2013-01-23 14:53:00.681] [INFO] console - [36m[2013-01-23 14:53:00.679] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-1"
+[32m[2013-01-23 14:53:00.681] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 14:53:00.681] [INFO] console - [36m[2013-01-23 14:53:00.679] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-3"
+[32m[2013-01-23 14:53:00.680] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-3" started.
+
+[2013-01-23 14:53:00.681] [INFO] console - [36m[2013-01-23 14:53:00.679] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-1"
+[32m[2013-01-23 14:53:00.680] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-1" started.
+
+[2013-01-23 14:53:00.681] [INFO] console - [36m[2013-01-23 14:53:00.679] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-2"
+[32m[2013-01-23 14:53:00.681] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-23 14:53:00.681] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-2" started.
+
+[2013-01-23 14:53:00.682] [INFO] console - [36m[2013-01-23 14:53:00.680] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-3"
+
+[2013-01-23 14:53:00.682] [INFO] console - [32m[2013-01-23 14:53:00.681] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-2" started.
+
+[2013-01-23 14:53:00.682] [INFO] console - [32m[2013-01-23 14:53:00.681] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-1" started.
+
+[2013-01-23 14:53:00.682] [INFO] console - [32m[2013-01-23 14:53:00.682] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 14:53:00.682] [INFO] console - [32m[2013-01-23 14:53:00.682] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-3" started.
+
+[2013-01-23 14:53:00.683] [INFO] console - [32m[2013-01-23 14:53:00.683] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 14:53:00.684] [INFO] console - [32m[2013-01-23 14:53:00.684] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "gate-server-1" started.
+
+[2013-01-23 14:53:08.553] [INFO] console - [32m[2013-01-23 14:53:08.553] [INFO] console - [39minvoke enter
+
+[2013-01-23 14:53:08.643] [INFO] console - [32m[2013-01-23 14:53:08.643] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 14:53:08.691] [INFO] console - [32m[2013-01-23 14:53:08.689] [INFO] console - [39m[ { id: 49,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 50,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 52,
+    pointx: 341,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' } ]
+
+[2013-01-23 14:53:11.206] [INFO] console - [32m[2013-01-23 14:53:11.205] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 14:53:11.206] [INFO] console - [32m[2013-01-23 14:53:11.206] [INFO] console - [39m426.6667
+
+[2013-01-23 14:53:12.738] [INFO] console - [32m[2013-01-23 14:53:12.738] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 14:53:12.738] [INFO] console - [32m[2013-01-23 14:53:12.738] [INFO] console - [39m512
+
+[2013-01-23 15:14:41.553] [INFO] /node_modules/pomelo/lib/application.js - application inited: "master-server-1"
+[2013-01-23 15:14:41.727] [INFO] console - info: 'socket.io started'
+[2013-01-23 15:14:41.728] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-1 locally
+[2013-01-23 15:14:41.731] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-2 locally
+[2013-01-23 15:14:41.733] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-3 locally
+[2013-01-23 15:14:41.735] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-1 locally
+[2013-01-23 15:14:41.737] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-2 locally
+[2013-01-23 15:14:41.739] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-3 locally
+[2013-01-23 15:14:41.740] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=gate serverId=gate-server-1 locally
+[2013-01-23 15:14:41.744] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "master", "127.0.0.1", 3005
+[2013-01-23 15:14:41.829] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "master-server-1", "master"
+[2013-01-23 15:14:41.877] [INFO] console - [32m[2013-01-23 15:14:41.862] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:14:41.884] [INFO] console - [32m[2013-01-23 15:14:41.860] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:14:41.890] [INFO] console - [32m[2013-01-23 15:14:41.866] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:14:41.895] [INFO] console - [32m[2013-01-23 15:14:41.894] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-2"
+
+[2013-01-23 15:14:41.896] [INFO] console - [32m[2013-01-23 15:14:41.873] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:14:41.901] [INFO] console - [32m[2013-01-23 15:14:41.900] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-1"
+
+[2013-01-23 15:14:41.901] [INFO] console - [32m[2013-01-23 15:14:41.876] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:14:41.908] [INFO] console - [32m[2013-01-23 15:14:41.882] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:14:41.909] [INFO] console - [32m[2013-01-23 15:14:41.909] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-3"
+
+[2013-01-23 15:14:41.915] [INFO] console - [32m[2013-01-23 15:14:41.896] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:14:41.916] [INFO] console - [32m[2013-01-23 15:14:41.915] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-2"
+
+[2013-01-23 15:14:41.921] [INFO] console - [32m[2013-01-23 15:14:41.920] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-1"
+
+[2013-01-23 15:14:41.927] [INFO] console - [32m[2013-01-23 15:14:41.926] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-3"
+
+[2013-01-23 15:14:41.939] [INFO] console - [32m[2013-01-23 15:14:41.937] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "gate-server-1"
+
+[2013-01-23 15:14:42.316] [INFO] console - [32m[2013-01-23 15:14:42.313] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:14:42.325] [INFO] console - [32m[2013-01-23 15:14:42.324] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:14:42.333] [INFO] console - [32m[2013-01-23 15:14:42.332] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:14:42.335] [INFO] console - [32m[2013-01-23 15:14:42.334] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:14:42.335] [INFO] console - [32m[2013-01-23 15:14:42.334] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:14:42.339] [INFO] console - [32m[2013-01-23 15:14:42.338] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-23 15:14:42.345] [INFO] console - [32m[2013-01-23 15:14:42.344] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:14:42.346] [INFO] console - [32m[2013-01-23 15:14:42.346] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-23 15:14:42.347] [INFO] console - [32m[2013-01-23 15:14:42.346] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-23 15:14:42.355] [INFO] console - [32m[2013-01-23 15:14:42.354] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "gate", "127.0.0.1", 3005
+
+[2013-01-23 15:14:42.358] [INFO] console - [32m[2013-01-23 15:14:42.357] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-23 15:14:42.377] [INFO] console - [32m[2013-01-23 15:14:42.376] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-23 15:14:42.384] [INFO] console - [32m[2013-01-23 15:14:42.383] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-23 15:14:42.403] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-1", "chat"
+[2013-01-23 15:14:42.408] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-2", "connector"
+[2013-01-23 15:14:42.409] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-3", "chat"
+[2013-01-23 15:14:42.409] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-2", "chat"
+[2013-01-23 15:14:42.417] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "gate-server-1", "gate"
+[2013-01-23 15:14:42.423] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-3", "connector"
+[2013-01-23 15:14:42.426] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-1", "connector"
+[2013-01-23 15:14:42.426] [INFO] /node_modules/pomelo/lib/master/master.js - [master] all servers have started and notify after start now...
+[2013-01-23 15:14:42.427] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "master-server-1"
+[2013-01-23 15:14:42.428] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "master-server-1" started.
+[2013-01-23 15:14:42.429] [INFO] console - [36m[2013-01-23 15:14:42.427] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "gate-server-1"
+
+[2013-01-23 15:14:42.429] [INFO] console - [36m[2013-01-23 15:14:42.427] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-2"
+[32m[2013-01-23 15:14:42.427] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-2" started.
+
+[2013-01-23 15:14:42.429] [INFO] console - [36m[2013-01-23 15:14:42.427] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-1"
+[32m[2013-01-23 15:14:42.428] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-23 15:14:42.429] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-1" started.
+
+[2013-01-23 15:14:42.429] [INFO] console - [36m[2013-01-23 15:14:42.427] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-3"
+[32m[2013-01-23 15:14:42.428] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-23 15:14:42.429] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-3" started.
+
+[2013-01-23 15:14:42.429] [INFO] console - [36m[2013-01-23 15:14:42.427] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-3"
+[32m[2013-01-23 15:14:42.427] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-3" started.
+
+[2013-01-23 15:14:42.429] [INFO] console - [36m[2013-01-23 15:14:42.427] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-2"
+[32m[2013-01-23 15:14:42.428] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-23 15:14:42.429] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-2" started.
+
+[2013-01-23 15:14:42.429] [INFO] console - [36m[2013-01-23 15:14:42.427] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-1"
+[32m[2013-01-23 15:14:42.427] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-1" started.
+
+[2013-01-23 15:14:42.431] [INFO] console - [32m[2013-01-23 15:14:42.431] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:14:42.431] [INFO] console - [32m[2013-01-23 15:14:42.431] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "gate-server-1" started.
+
+[2013-01-23 15:14:49.577] [INFO] console - [32m[2013-01-23 15:14:49.577] [INFO] console - [39minvoke enter
+
+[2013-01-23 15:14:49.668] [INFO] console - [32m[2013-01-23 15:14:49.668] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 15:14:49.710] [INFO] console - [32m[2013-01-23 15:14:49.708] [INFO] console - [39m[ { id: 49,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 50,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 52,
+    pointx: 341,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 54,
+    pointx: 427,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 55,
+    pointx: 512,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' } ]
+
+[2013-01-23 15:15:41.340] [INFO] console - [32m[2013-01-23 15:15:41.339] [INFO] console - [39minvoke enter
+
+[2013-01-23 15:15:41.390] [INFO] console - [32m[2013-01-23 15:15:41.390] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 15:15:41.395] [INFO] console - [32m[2013-01-23 15:15:41.393] [INFO] console - [39m[ { id: 49,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 50,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 52,
+    pointx: 341,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 54,
+    pointx: 427,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 55,
+    pointx: 512,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' } ]
+
+[2013-01-23 15:16:03.216] [INFO] console - [32m[2013-01-23 15:16:03.216] [INFO] console - [39minvoke enter
+
+[2013-01-23 15:16:03.257] [INFO] console - [32m[2013-01-23 15:16:03.256] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 15:16:03.262] [INFO] console - [32m[2013-01-23 15:16:03.259] [INFO] console - [39m[ { id: 49,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 50,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 52,
+    pointx: 341,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 54,
+    pointx: 427,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 55,
+    pointx: 512,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' } ]
+
+[2013-01-23 15:16:21.269] [INFO] console - [32m[2013-01-23 15:16:21.269] [INFO] console - [39minvoke enter
+
+[2013-01-23 15:16:21.309] [INFO] console - [32m[2013-01-23 15:16:21.309] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 15:16:21.312] [INFO] console - [32m[2013-01-23 15:16:21.310] [INFO] console - [39m[ { id: 49,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 50,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 52,
+    pointx: 341,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 54,
+    pointx: 427,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 55,
+    pointx: 512,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' } ]
+
+[2013-01-23 15:16:38.325] [INFO] console - [32m[2013-01-23 15:16:38.325] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 15:16:38.326] [INFO] console - [32m[2013-01-23 15:16:38.325] [INFO] console - [39m52
+
+[2013-01-23 15:16:38.327] [INFO] console - [31m[2013-01-23 15:16:38.327] [ERROR] console - [39m Caught exception: TypeError: Cannot call method 'query' of undefined
+    at Object.architectureDao.deleteArchitecture (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/dao/architectureDAO.js:81:25)
+    at handler.deleteArchitecture (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:80:21)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+
+[2013-01-23 15:16:41.326] [INFO] console - [33m[2013-01-23 15:16:41.326] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - [39mrequest "connector.entryHandler.deleteArchitecture" timeout.
+
+[2013-01-23 15:17:46.746] [INFO] /node_modules/pomelo/lib/application.js - application inited: "master-server-1"
+[2013-01-23 15:17:46.913] [INFO] console - info: 'socket.io started'
+[2013-01-23 15:17:46.916] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-1 locally
+[2013-01-23 15:17:46.920] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-2 locally
+[2013-01-23 15:17:46.921] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-3 locally
+[2013-01-23 15:17:46.923] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-1 locally
+[2013-01-23 15:17:46.924] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-2 locally
+[2013-01-23 15:17:46.926] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-3 locally
+[2013-01-23 15:17:46.928] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=gate serverId=gate-server-1 locally
+[2013-01-23 15:17:46.932] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "master", "127.0.0.1", 3005
+[2013-01-23 15:17:47.011] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "master-server-1", "master"
+[2013-01-23 15:17:47.065] [INFO] console - [32m[2013-01-23 15:17:47.049] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:17:47.077] [INFO] console - [32m[2013-01-23 15:17:47.059] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:17:47.081] [INFO] console - [32m[2013-01-23 15:17:47.081] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-3"
+
+[2013-01-23 15:17:47.081] [INFO] console - [32m[2013-01-23 15:17:47.062] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:17:47.088] [INFO] console - [32m[2013-01-23 15:17:47.070] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:17:47.093] [INFO] console - [32m[2013-01-23 15:17:47.093] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-1"
+
+[2013-01-23 15:17:47.098] [INFO] console - [32m[2013-01-23 15:17:47.070] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:17:47.099] [INFO] console - [32m[2013-01-23 15:17:47.099] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-2"
+
+[2013-01-23 15:17:47.103] [INFO] console - [32m[2013-01-23 15:17:47.070] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:17:47.108] [INFO] console - [32m[2013-01-23 15:17:47.106] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-1"
+
+[2013-01-23 15:17:47.112] [INFO] console - [32m[2013-01-23 15:17:47.084] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:17:47.116] [INFO] console - [32m[2013-01-23 15:17:47.115] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-3"
+
+[2013-01-23 15:17:47.124] [INFO] console - [32m[2013-01-23 15:17:47.122] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-2"
+
+[2013-01-23 15:17:47.128] [INFO] console - [32m[2013-01-23 15:17:47.128] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "gate-server-1"
+
+[2013-01-23 15:17:47.515] [INFO] console - [32m[2013-01-23 15:17:47.512] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:17:47.519] [INFO] console - [32m[2013-01-23 15:17:47.518] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:17:47.526] [INFO] console - [32m[2013-01-23 15:17:47.525] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:17:47.538] [INFO] console - [32m[2013-01-23 15:17:47.538] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-23 15:17:47.539] [INFO] console - [32m[2013-01-23 15:17:47.537] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:17:47.547] [INFO] console - [32m[2013-01-23 15:17:47.544] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:17:47.550] [INFO] console - [32m[2013-01-23 15:17:47.549] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:17:47.551] [INFO] console - [32m[2013-01-23 15:17:47.550] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-23 15:17:47.559] [INFO] console - [32m[2013-01-23 15:17:47.558] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-23 15:17:47.559] [INFO] console - [32m[2013-01-23 15:17:47.551] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "gate", "127.0.0.1", 3005
+
+[2013-01-23 15:17:47.562] [INFO] console - [32m[2013-01-23 15:17:47.561] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-23 15:17:47.565] [INFO] console - [32m[2013-01-23 15:17:47.564] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-23 15:17:47.580] [INFO] console - [32m[2013-01-23 15:17:47.580] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-23 15:17:47.611] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-3", "connector"
+[2013-01-23 15:17:47.614] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-1", "connector"
+[2013-01-23 15:17:47.614] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-1", "chat"
+[2013-01-23 15:17:47.617] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "gate-server-1", "gate"
+[2013-01-23 15:17:47.618] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-3", "chat"
+[2013-01-23 15:17:47.621] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-2", "chat"
+[2013-01-23 15:17:47.627] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-2", "connector"
+[2013-01-23 15:17:47.627] [INFO] /node_modules/pomelo/lib/master/master.js - [master] all servers have started and notify after start now...
+[2013-01-23 15:17:47.628] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "master-server-1"
+[2013-01-23 15:17:47.629] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "master-server-1" started.
+[2013-01-23 15:17:47.630] [INFO] console - [36m[2013-01-23 15:17:47.629] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-3"
+
+[2013-01-23 15:17:47.630] [INFO] console - [36m[2013-01-23 15:17:47.628] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-1"
+[32m[2013-01-23 15:17:47.629] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-1" started.
+
+[2013-01-23 15:17:47.630] [INFO] console - [36m[2013-01-23 15:17:47.628] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-2"
+[32m[2013-01-23 15:17:47.630] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:17:47.630] [INFO] console - [36m[2013-01-23 15:17:47.628] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "gate-server-1"
+
+[2013-01-23 15:17:47.630] [INFO] console - [36m[2013-01-23 15:17:47.628] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-2"
+[32m[2013-01-23 15:17:47.629] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-2" started.
+
+[2013-01-23 15:17:47.630] [INFO] console - [36m[2013-01-23 15:17:47.628] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-3"
+[32m[2013-01-23 15:17:47.629] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-3" started.
+
+[2013-01-23 15:17:47.631] [INFO] console - [36m[2013-01-23 15:17:47.628] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-1"
+[32m[2013-01-23 15:17:47.630] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-23 15:17:47.630] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-1" started.
+
+[2013-01-23 15:17:47.631] [INFO] console - [32m[2013-01-23 15:17:47.630] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-2" started.
+
+[2013-01-23 15:17:47.631] [INFO] console - [32m[2013-01-23 15:17:47.631] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:17:47.631] [INFO] console - [32m[2013-01-23 15:17:47.631] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-3" started.
+
+[2013-01-23 15:17:47.632] [INFO] console - [32m[2013-01-23 15:17:47.632] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:17:47.633] [INFO] console - [32m[2013-01-23 15:17:47.633] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "gate-server-1" started.
+
+[2013-01-23 15:17:54.959] [INFO] console - [32m[2013-01-23 15:17:54.959] [INFO] console - [39minvoke enter
+
+[2013-01-23 15:17:55.026] [INFO] console - [32m[2013-01-23 15:17:55.026] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 15:17:55.090] [INFO] console - [32m[2013-01-23 15:17:55.088] [INFO] console - [39m[ { id: 49,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 50,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 52,
+    pointx: 341,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 54,
+    pointx: 427,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 55,
+    pointx: 512,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' } ]
+
+[2013-01-23 15:17:57.474] [INFO] console - [32m[2013-01-23 15:17:57.474] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 15:17:57.474] [INFO] console - [32m[2013-01-23 15:17:57.474] [INFO] console - [39m52
+
+[2013-01-23 15:17:57.476] [INFO] console - [31m[2013-01-23 15:17:57.475] [ERROR] console - [39m Caught exception: TypeError: Cannot call method 'query' of undefined
+    at Object.architectureDao.deleteArchitecture (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/dao/architectureDAO.js:81:25)
+    at handler.deleteArchitecture (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:80:21)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+
+[2013-01-23 15:18:00.474] [INFO] console - [33m[2013-01-23 15:18:00.474] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - [39mrequest "connector.entryHandler.deleteArchitecture" timeout.
+
+[2013-01-23 15:19:21.703] [INFO] /node_modules/pomelo/lib/application.js - application inited: "master-server-1"
+[2013-01-23 15:19:21.871] [INFO] console - info: 'socket.io started'
+[2013-01-23 15:19:21.874] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-1 locally
+[2013-01-23 15:19:21.878] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-2 locally
+[2013-01-23 15:19:21.880] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-3 locally
+[2013-01-23 15:19:21.882] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-1 locally
+[2013-01-23 15:19:21.883] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-2 locally
+[2013-01-23 15:19:21.885] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-3 locally
+[2013-01-23 15:19:21.887] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=gate serverId=gate-server-1 locally
+[2013-01-23 15:19:21.892] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "master", "127.0.0.1", 3005
+[2013-01-23 15:19:21.986] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "master-server-1", "master"
+[2013-01-23 15:19:22.035] [INFO] console - [32m[2013-01-23 15:19:22.017] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:19:22.044] [INFO] console - [32m[2013-01-23 15:19:22.030] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:19:22.048] [INFO] console - [32m[2013-01-23 15:19:22.048] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-2"
+
+[2013-01-23 15:19:22.051] [INFO] console - [32m[2013-01-23 15:19:22.029] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:19:22.057] [INFO] console - [32m[2013-01-23 15:19:22.031] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:19:22.062] [INFO] console - [32m[2013-01-23 15:19:22.061] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-1"
+
+[2013-01-23 15:19:22.064] [INFO] console - [32m[2013-01-23 15:19:22.031] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:19:22.069] [INFO] console - [32m[2013-01-23 15:19:22.068] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-2"
+
+[2013-01-23 15:19:22.071] [INFO] console - [32m[2013-01-23 15:19:22.038] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:19:22.075] [INFO] console - [32m[2013-01-23 15:19:22.074] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-3"
+
+[2013-01-23 15:19:22.078] [INFO] console - [32m[2013-01-23 15:19:22.040] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:19:22.085] [INFO] console - [32m[2013-01-23 15:19:22.083] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-1"
+
+[2013-01-23 15:19:22.092] [INFO] console - [32m[2013-01-23 15:19:22.091] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "gate-server-1"
+
+[2013-01-23 15:19:22.097] [INFO] console - [32m[2013-01-23 15:19:22.096] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-3"
+
+[2013-01-23 15:19:22.457] [INFO] console - [32m[2013-01-23 15:19:22.455] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:19:22.469] [INFO] console - [32m[2013-01-23 15:19:22.468] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-23 15:19:22.486] [INFO] console - [32m[2013-01-23 15:19:22.484] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:19:22.495] [INFO] console - [32m[2013-01-23 15:19:22.494] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:19:22.509] [INFO] console - [32m[2013-01-23 15:19:22.508] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:19:22.515] [INFO] console - [32m[2013-01-23 15:19:22.512] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:19:22.518] [INFO] console - [32m[2013-01-23 15:19:22.517] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "gate", "127.0.0.1", 3005
+
+[2013-01-23 15:19:22.522] [INFO] console - [32m[2013-01-23 15:19:22.522] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-23 15:19:22.526] [INFO] console - [32m[2013-01-23 15:19:22.524] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:19:22.527] [INFO] console - [32m[2013-01-23 15:19:22.525] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-23 15:19:22.531] [INFO] console - [32m[2013-01-23 15:19:22.528] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-23 15:19:22.534] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-2", "chat"
+[2013-01-23 15:19:22.535] [INFO] console - [32m[2013-01-23 15:19:22.534] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-23 15:19:22.564] [INFO] console - [32m[2013-01-23 15:19:22.563] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-23 15:19:22.571] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-1", "connector"
+[2013-01-23 15:19:22.579] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-1", "chat"
+[2013-01-23 15:19:22.582] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-2", "connector"
+[2013-01-23 15:19:22.588] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-3", "chat"
+[2013-01-23 15:19:22.592] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "gate-server-1", "gate"
+[2013-01-23 15:19:22.598] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-3", "connector"
+[2013-01-23 15:19:22.598] [INFO] /node_modules/pomelo/lib/master/master.js - [master] all servers have started and notify after start now...
+[2013-01-23 15:19:22.599] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "master-server-1"
+[2013-01-23 15:19:22.599] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "master-server-1" started.
+[2013-01-23 15:19:22.600] [INFO] console - [36m[2013-01-23 15:19:22.600] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-3"
+
+[2013-01-23 15:19:22.601] [INFO] console - [36m[2013-01-23 15:19:22.599] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "gate-server-1"
+
+[2013-01-23 15:19:22.601] [INFO] console - [36m[2013-01-23 15:19:22.599] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-2"
+[32m[2013-01-23 15:19:22.600] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:19:22.601] [INFO] console - [36m[2013-01-23 15:19:22.599] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-3"
+[32m[2013-01-23 15:19:22.600] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-3" started.
+
+[2013-01-23 15:19:22.601] [INFO] console - [36m[2013-01-23 15:19:22.599] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-1"
+[32m[2013-01-23 15:19:22.599] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-1" started.
+
+[2013-01-23 15:19:22.601] [INFO] console - [36m[2013-01-23 15:19:22.599] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-2"
+[32m[2013-01-23 15:19:22.599] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-2" started.
+
+[2013-01-23 15:19:22.601] [INFO] console - [36m[2013-01-23 15:19:22.599] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-1"
+[32m[2013-01-23 15:19:22.600] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-23 15:19:22.601] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-1" started.
+
+[2013-01-23 15:19:22.602] [INFO] console - [32m[2013-01-23 15:19:22.601] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:19:22.602] [INFO] console - [32m[2013-01-23 15:19:22.601] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-2" started.
+
+[2013-01-23 15:19:22.602] [INFO] console - [32m[2013-01-23 15:19:22.601] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-3" started.
+
+[2013-01-23 15:19:22.603] [INFO] console - [32m[2013-01-23 15:19:22.603] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:19:22.604] [INFO] console - [32m[2013-01-23 15:19:22.603] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "gate-server-1" started.
+
+[2013-01-23 15:19:33.944] [INFO] console - [32m[2013-01-23 15:19:33.944] [INFO] console - [39minvoke enter
+
+[2013-01-23 15:19:34.038] [INFO] console - [32m[2013-01-23 15:19:34.038] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 15:19:34.078] [INFO] console - [32m[2013-01-23 15:19:34.076] [INFO] console - [39m[ { id: 49,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 50,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 52,
+    pointx: 341,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 54,
+    pointx: 427,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 55,
+    pointx: 512,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' } ]
+
+[2013-01-23 15:19:35.811] [INFO] console - [32m[2013-01-23 15:19:35.810] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 15:19:35.811] [INFO] console - [32m[2013-01-23 15:19:35.811] [INFO] console - [39m52
+
+[2013-01-23 15:19:35.833] [INFO] console - [31m[2013-01-23 15:19:35.832] [ERROR] console - [39m Caught exception: TypeError: Cannot call method 'query' of undefined
+    at Object.architectureDao.deleteArchitecture (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/dao/architectureDAO.js:81:25)
+    at handler.deleteArchitecture (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:80:21)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+
+[2013-01-23 15:19:38.811] [INFO] console - [33m[2013-01-23 15:19:38.811] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - [39mrequest "connector.entryHandler.deleteArchitecture" timeout.
+
+[2013-01-23 15:20:14.385] [INFO] /node_modules/pomelo/lib/application.js - application inited: "master-server-1"
+[2013-01-23 15:20:14.559] [INFO] console - info: 'socket.io started'
+[2013-01-23 15:20:14.561] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-1 locally
+[2013-01-23 15:20:14.564] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-2 locally
+[2013-01-23 15:20:14.566] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-3 locally
+[2013-01-23 15:20:14.567] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-1 locally
+[2013-01-23 15:20:14.569] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-2 locally
+[2013-01-23 15:20:14.571] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-3 locally
+[2013-01-23 15:20:14.573] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=gate serverId=gate-server-1 locally
+[2013-01-23 15:20:14.576] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "master", "127.0.0.1", 3005
+[2013-01-23 15:20:14.660] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "master-server-1", "master"
+[2013-01-23 15:20:14.721] [INFO] console - [32m[2013-01-23 15:20:14.705] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:20:14.726] [INFO] console - [32m[2013-01-23 15:20:14.707] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:20:14.733] [INFO] console - [32m[2013-01-23 15:20:14.709] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:20:14.735] [INFO] console - [32m[2013-01-23 15:20:14.734] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-1"
+
+[2013-01-23 15:20:14.740] [INFO] console - [32m[2013-01-23 15:20:14.708] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:20:14.743] [INFO] console - [32m[2013-01-23 15:20:14.743] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-2"
+
+[2013-01-23 15:20:14.746] [INFO] console - [32m[2013-01-23 15:20:14.711] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:20:14.750] [INFO] console - [32m[2013-01-23 15:20:14.750] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-3"
+
+[2013-01-23 15:20:14.754] [INFO] console - [32m[2013-01-23 15:20:14.716] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:20:14.757] [INFO] console - [32m[2013-01-23 15:20:14.756] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-3"
+
+[2013-01-23 15:20:14.761] [INFO] console - [32m[2013-01-23 15:20:14.722] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:20:14.766] [INFO] console - [32m[2013-01-23 15:20:14.763] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-2"
+
+[2013-01-23 15:20:14.779] [INFO] console - [32m[2013-01-23 15:20:14.778] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-1"
+
+[2013-01-23 15:20:14.785] [INFO] console - [32m[2013-01-23 15:20:14.784] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "gate-server-1"
+
+[2013-01-23 15:20:15.160] [INFO] console - [32m[2013-01-23 15:20:15.159] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:20:15.168] [INFO] console - [32m[2013-01-23 15:20:15.165] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:20:15.171] [INFO] console - [32m[2013-01-23 15:20:15.169] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:20:15.175] [INFO] console - [32m[2013-01-23 15:20:15.174] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:20:15.180] [INFO] console - [32m[2013-01-23 15:20:15.179] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-23 15:20:15.182] [INFO] console - [32m[2013-01-23 15:20:15.179] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:20:15.191] [INFO] console - [32m[2013-01-23 15:20:15.190] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-23 15:20:15.204] [INFO] console - [32m[2013-01-23 15:20:15.201] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:20:15.206] [INFO] console - [32m[2013-01-23 15:20:15.205] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "gate", "127.0.0.1", 3005
+
+[2013-01-23 15:20:15.206] [INFO] console - [32m[2013-01-23 15:20:15.204] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-23 15:20:15.210] [INFO] console - [32m[2013-01-23 15:20:15.209] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-23 15:20:15.214] [INFO] console - [32m[2013-01-23 15:20:15.214] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-23 15:20:15.223] [INFO] console - [32m[2013-01-23 15:20:15.220] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-23 15:20:15.237] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-3", "chat"
+[2013-01-23 15:20:15.252] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-2", "chat"
+[2013-01-23 15:20:15.255] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-2", "connector"
+[2013-01-23 15:20:15.260] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-1", "connector"
+[2013-01-23 15:20:15.266] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-3", "connector"
+[2013-01-23 15:20:15.271] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "gate-server-1", "gate"
+[2013-01-23 15:20:15.273] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-1", "chat"
+[2013-01-23 15:20:15.273] [INFO] /node_modules/pomelo/lib/master/master.js - [master] all servers have started and notify after start now...
+[2013-01-23 15:20:15.274] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "master-server-1"
+[2013-01-23 15:20:15.275] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "master-server-1" started.
+[2013-01-23 15:20:15.275] [INFO] console - [36m[2013-01-23 15:20:15.274] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "gate-server-1"
+
+[2013-01-23 15:20:15.276] [INFO] console - [36m[2013-01-23 15:20:15.274] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-1"
+[32m[2013-01-23 15:20:15.275] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-1" started.
+
+[2013-01-23 15:20:15.276] [INFO] console - [36m[2013-01-23 15:20:15.274] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-3"
+[32m[2013-01-23 15:20:15.275] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-23 15:20:15.276] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-3" started.
+
+[2013-01-23 15:20:15.276] [INFO] console - [36m[2013-01-23 15:20:15.274] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-2"
+[32m[2013-01-23 15:20:15.274] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-2" started.
+
+[2013-01-23 15:20:15.276] [INFO] console - [36m[2013-01-23 15:20:15.274] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-1"
+[32m[2013-01-23 15:20:15.275] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-23 15:20:15.275] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-1" started.
+
+[2013-01-23 15:20:15.276] [INFO] console - [36m[2013-01-23 15:20:15.274] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-3"
+[32m[2013-01-23 15:20:15.274] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-3" started.
+
+[2013-01-23 15:20:15.276] [INFO] console - [36m[2013-01-23 15:20:15.274] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-2"
+[32m[2013-01-23 15:20:15.275] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-23 15:20:15.275] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-2" started.
+
+[2013-01-23 15:20:15.278] [INFO] console - [32m[2013-01-23 15:20:15.278] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:20:15.279] [INFO] console - [32m[2013-01-23 15:20:15.278] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "gate-server-1" started.
+
+[2013-01-23 15:20:23.254] [INFO] console - [32m[2013-01-23 15:20:23.254] [INFO] console - [39minvoke enter
+
+[2013-01-23 15:20:23.304] [INFO] console - [32m[2013-01-23 15:20:23.304] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 15:20:23.350] [INFO] console - [32m[2013-01-23 15:20:23.348] [INFO] console - [39m[ { id: 49,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 50,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 52,
+    pointx: 341,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 54,
+    pointx: 427,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 55,
+    pointx: 512,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' } ]
+
+[2013-01-23 15:20:24.929] [INFO] console - [32m[2013-01-23 15:20:24.929] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 15:20:24.930] [INFO] console - [32m[2013-01-23 15:20:24.929] [INFO] console - [39m52
+[32m[2013-01-23 15:20:24.930] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 15:20:24.957] [INFO] console - [31m[2013-01-23 15:20:24.956] [ERROR] console - [39m Caught exception: TypeError: Cannot call method 'query' of undefined
+    at Object.architectureDao.deleteArchitecture (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/dao/architectureDAO.js:82:25)
+    at handler.deleteArchitecture (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:80:21)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+
+[2013-01-23 15:20:27.930] [INFO] console - [33m[2013-01-23 15:20:27.930] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - [39mrequest "connector.entryHandler.deleteArchitecture" timeout.
+
+[2013-01-23 15:22:38.025] [INFO] /node_modules/pomelo/lib/application.js - application inited: "master-server-1"
+[2013-01-23 15:22:38.190] [INFO] console - info: 'socket.io started'
+[2013-01-23 15:22:38.193] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-1 locally
+[2013-01-23 15:22:38.196] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-2 locally
+[2013-01-23 15:22:38.198] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-3 locally
+[2013-01-23 15:22:38.199] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-1 locally
+[2013-01-23 15:22:38.201] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-2 locally
+[2013-01-23 15:22:38.203] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-3 locally
+[2013-01-23 15:22:38.206] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=gate serverId=gate-server-1 locally
+[2013-01-23 15:22:38.209] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "master", "127.0.0.1", 3005
+[2013-01-23 15:22:38.289] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "master-server-1", "master"
+[2013-01-23 15:22:38.351] [INFO] console - [32m[2013-01-23 15:22:38.334] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:22:38.357] [INFO] console - [32m[2013-01-23 15:22:38.338] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:22:38.363] [INFO] console - [32m[2013-01-23 15:22:38.341] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:22:38.365] [INFO] console - [32m[2013-01-23 15:22:38.364] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-3"
+
+[2013-01-23 15:22:38.370] [INFO] console - [32m[2013-01-23 15:22:38.342] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:22:38.373] [INFO] console - [32m[2013-01-23 15:22:38.373] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-1"
+
+[2013-01-23 15:22:38.376] [INFO] console - [32m[2013-01-23 15:22:38.344] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:22:38.376] [INFO] console - [32m[2013-01-23 15:22:38.375] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-1"
+
+[2013-01-23 15:22:38.384] [INFO] console - [32m[2013-01-23 15:22:38.346] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:22:38.387] [INFO] console - [32m[2013-01-23 15:22:38.385] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-2"
+
+[2013-01-23 15:22:38.390] [INFO] console - [32m[2013-01-23 15:22:38.355] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:22:38.400] [INFO] console - [32m[2013-01-23 15:22:38.397] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-3"
+
+[2013-01-23 15:22:38.403] [INFO] console - [32m[2013-01-23 15:22:38.400] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-2"
+
+[2013-01-23 15:22:38.415] [INFO] console - [32m[2013-01-23 15:22:38.414] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "gate-server-1"
+
+[2013-01-23 15:22:38.796] [INFO] console - [32m[2013-01-23 15:22:38.793] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:22:38.804] [INFO] console - [32m[2013-01-23 15:22:38.803] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:22:38.805] [INFO] console - [32m[2013-01-23 15:22:38.802] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:22:38.818] [INFO] console - [32m[2013-01-23 15:22:38.815] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-23 15:22:38.819] [INFO] console - [32m[2013-01-23 15:22:38.817] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:22:38.824] [INFO] console - [32m[2013-01-23 15:22:38.823] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:22:38.825] [INFO] console - [32m[2013-01-23 15:22:38.823] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:22:38.833] [INFO] console - [32m[2013-01-23 15:22:38.832] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-23 15:22:38.834] [INFO] console - [32m[2013-01-23 15:22:38.833] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-23 15:22:38.837] [INFO] console - [32m[2013-01-23 15:22:38.836] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-23 15:22:38.849] [INFO] console - [32m[2013-01-23 15:22:38.845] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "gate", "127.0.0.1", 3005
+
+[2013-01-23 15:22:38.849] [INFO] console - [32m[2013-01-23 15:22:38.845] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-23 15:22:38.869] [INFO] console - [32m[2013-01-23 15:22:38.866] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-23 15:22:38.883] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-1", "chat"
+[2013-01-23 15:22:38.890] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-3", "connector"
+[2013-01-23 15:22:38.895] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-2", "chat"
+[2013-01-23 15:22:38.897] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-3", "chat"
+[2013-01-23 15:22:38.900] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-1", "connector"
+[2013-01-23 15:22:38.907] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "gate-server-1", "gate"
+[2013-01-23 15:22:38.912] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-2", "connector"
+[2013-01-23 15:22:38.912] [INFO] /node_modules/pomelo/lib/master/master.js - [master] all servers have started and notify after start now...
+[2013-01-23 15:22:38.913] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "master-server-1"
+[2013-01-23 15:22:38.913] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "master-server-1" started.
+[2013-01-23 15:22:38.914] [INFO] console - [36m[2013-01-23 15:22:38.913] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "gate-server-1"
+
+[2013-01-23 15:22:38.914] [INFO] console - [36m[2013-01-23 15:22:38.913] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-3"
+[32m[2013-01-23 15:22:38.914] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-3" started.
+
+[2013-01-23 15:22:38.914] [INFO] console - [36m[2013-01-23 15:22:38.913] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-1"
+[32m[2013-01-23 15:22:38.914] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-1" started.
+
+[2013-01-23 15:22:38.915] [INFO] console - [36m[2013-01-23 15:22:38.913] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-1"
+
+[2013-01-23 15:22:38.915] [INFO] console - [36m[2013-01-23 15:22:38.913] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-2"
+[32m[2013-01-23 15:22:38.914] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-2" started.
+
+[2013-01-23 15:22:38.915] [INFO] console - [36m[2013-01-23 15:22:38.913] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-3"
+[32m[2013-01-23 15:22:38.914] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-23 15:22:38.915] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-3" started.
+
+[2013-01-23 15:22:38.915] [INFO] console - [36m[2013-01-23 15:22:38.914] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-2"
+
+[2013-01-23 15:22:38.915] [INFO] console - [32m[2013-01-23 15:22:38.915] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-23 15:22:38.915] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-1" started.
+
+[2013-01-23 15:22:38.916] [INFO] console - [32m[2013-01-23 15:22:38.916] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:22:38.916] [INFO] console - [32m[2013-01-23 15:22:38.916] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-2" started.
+
+[2013-01-23 15:22:38.918] [INFO] console - [32m[2013-01-23 15:22:38.917] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:22:38.918] [INFO] console - [32m[2013-01-23 15:22:38.918] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "gate-server-1" started.
+
+[2013-01-23 15:22:44.790] [INFO] console - [32m[2013-01-23 15:22:44.790] [INFO] console - [39minvoke enter
+
+[2013-01-23 15:22:44.882] [INFO] console - [32m[2013-01-23 15:22:44.881] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 15:22:44.926] [INFO] console - [32m[2013-01-23 15:22:44.924] [INFO] console - [39m[ { id: 49,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 50,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 52,
+    pointx: 341,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 54,
+    pointx: 427,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' } ]
+
+[2013-01-23 15:22:47.094] [INFO] console - [32m[2013-01-23 15:22:47.094] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 15:22:47.095] [INFO] console - [32m[2013-01-23 15:22:47.094] [INFO] console - [39m52
+
+[2013-01-23 15:22:47.095] [INFO] console - [32m[2013-01-23 15:22:47.095] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 15:23:57.900] [INFO] console - [32m[2013-01-23 15:23:57.900] [INFO] console - [39minvoke enter
+
+[2013-01-23 15:23:57.950] [INFO] console - [32m[2013-01-23 15:23:57.950] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 15:23:57.955] [INFO] console - [32m[2013-01-23 15:23:57.954] [INFO] console - [39m[ { id: 49,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 50,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 54,
+    pointx: 427,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' } ]
+
+[2013-01-23 15:24:11.530] [INFO] console - [32m[2013-01-23 15:24:11.530] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 15:24:11.530] [INFO] console - [32m[2013-01-23 15:24:11.530] [INFO] console - [39m49
+[32m[2013-01-23 15:24:11.530] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 15:24:16.981] [INFO] console - [32m[2013-01-23 15:24:16.980] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 15:24:16.981] [INFO] console - [32m[2013-01-23 15:24:16.980] [INFO] console - [39m256
+
+[2013-01-23 15:24:26.211] [INFO] console - [32m[2013-01-23 15:24:26.211] [INFO] console - [39minvoke enter
+
+[2013-01-23 15:24:26.254] [INFO] console - [32m[2013-01-23 15:24:26.253] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 15:24:26.257] [INFO] console - [32m[2013-01-23 15:24:26.255] [INFO] console - [39m[ { id: 50,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 54,
+    pointx: 427,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 56,
+    pointx: 256,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' } ]
+
+[2013-01-23 15:25:06.926] [INFO] console - [32m[2013-01-23 15:25:06.926] [INFO] console - [39minvoke enter
+
+[2013-01-23 15:25:06.969] [INFO] console - [32m[2013-01-23 15:25:06.969] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 15:25:06.973] [INFO] console - [32m[2013-01-23 15:25:06.972] [INFO] console - [39m[ { id: 50,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 54,
+    pointx: 427,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 56,
+    pointx: 256,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' } ]
+
+[2013-01-23 15:25:08.369] [INFO] console - [32m[2013-01-23 15:25:08.368] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 15:25:08.369] [INFO] console - [32m[2013-01-23 15:25:08.369] [INFO] console - [39m56
+
+[2013-01-23 15:25:08.369] [INFO] console - [32m[2013-01-23 15:25:08.369] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 15:25:50.015] [INFO] console - [32m[2013-01-23 15:25:50.014] [INFO] console - [39minvoke enter
+
+[2013-01-23 15:25:50.066] [INFO] console - [32m[2013-01-23 15:25:50.066] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 15:25:50.069] [INFO] console - [32m[2013-01-23 15:25:50.069] [INFO] console - [39m[ { id: 50,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 54,
+    pointx: 427,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' } ]
+
+[2013-01-23 15:25:52.144] [INFO] console - [32m[2013-01-23 15:25:52.144] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 15:25:52.144] [INFO] console - [32m[2013-01-23 15:25:52.144] [INFO] console - [39m54
+[32m[2013-01-23 15:25:52.144] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 15:26:18.631] [INFO] console - [32m[2013-01-23 15:26:18.630] [INFO] console - [39minvoke enter
+
+[2013-01-23 15:26:18.679] [INFO] console - [32m[2013-01-23 15:26:18.679] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 15:26:18.681] [INFO] console - [32m[2013-01-23 15:26:18.681] [INFO] console - [39m[ { id: 50,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' } ]
+
+[2013-01-23 15:26:20.211] [INFO] console - [32m[2013-01-23 15:26:20.211] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 15:26:20.211] [INFO] console - [32m[2013-01-23 15:26:20.211] [INFO] console - [39m50
+[32m[2013-01-23 15:26:20.211] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 15:27:31.425] [INFO] console - [32m[2013-01-23 15:27:31.425] [INFO] console - [39minvoke enter
+
+[2013-01-23 15:27:31.468] [INFO] console - [32m[2013-01-23 15:27:31.468] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 15:27:31.474] [INFO] console - [32m[2013-01-23 15:27:31.473] [INFO] console - [39m[ { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' } ]
+
+[2013-01-23 15:27:56.970] [INFO] console - [32m[2013-01-23 15:27:56.969] [INFO] console - [39minvoke enter
+
+[2013-01-23 15:27:57.012] [INFO] console - [32m[2013-01-23 15:27:57.012] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 15:27:57.015] [INFO] console - [32m[2013-01-23 15:27:57.013] [INFO] console - [39m[ { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' } ]
+
+[2013-01-23 15:28:01.771] [INFO] console - [32m[2013-01-23 15:28:01.771] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 15:28:01.771] [INFO] console - [32m[2013-01-23 15:28:01.771] [INFO] console - [39m341.3333
+
+[2013-01-23 15:28:11.085] [INFO] console - [32m[2013-01-23 15:28:11.085] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 15:28:11.085] [INFO] console - [32m[2013-01-23 15:28:11.085] [INFO] console - [39m341.3333
+
+[2013-01-23 15:28:16.889] [INFO] console - [32m[2013-01-23 15:28:16.889] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 15:28:16.889] [INFO] console - [32m[2013-01-23 15:28:16.889] [INFO] console - [39m426.6667
+
+[2013-01-23 15:28:33.820] [INFO] console - [32m[2013-01-23 15:28:33.819] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 15:28:33.820] [INFO] console - [32m[2013-01-23 15:28:33.820] [INFO] console - [39m341.3333
+
+[2013-01-23 15:34:50.739] [INFO] console - [32m[2013-01-23 15:34:50.738] [INFO] console - [39minvoke enter
+
+[2013-01-23 15:34:50.790] [INFO] console - [32m[2013-01-23 15:34:50.790] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 15:34:50.795] [INFO] console - [32m[2013-01-23 15:34:50.792] [INFO] console - [39m[ { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 57,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 58,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 59,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 60,
+    pointx: 341,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' } ]
+
+[2013-01-23 15:35:04.593] [INFO] console - [32m[2013-01-23 15:35:04.593] [INFO] console - [39minvoke enter
+
+[2013-01-23 15:35:04.641] [INFO] console - [32m[2013-01-23 15:35:04.641] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 15:35:04.644] [INFO] console - [32m[2013-01-23 15:35:04.643] [INFO] console - [39m[ { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 57,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 58,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 59,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 60,
+    pointx: 341,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' } ]
+
+[2013-01-23 15:39:05.001] [INFO] console - [32m[2013-01-23 15:39:05.000] [INFO] console - [39minvoke enter
+
+[2013-01-23 15:39:05.045] [INFO] console - [32m[2013-01-23 15:39:05.044] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 15:39:05.049] [INFO] console - [32m[2013-01-23 15:39:05.048] [INFO] console - [39m[]
+
+[2013-01-23 15:39:06.733] [INFO] console - [32m[2013-01-23 15:39:06.732] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 15:39:06.733] [INFO] console - [32m[2013-01-23 15:39:06.732] [INFO] console - [39m341.3333
+
+[2013-01-23 15:40:06.931] [INFO] console - [32m[2013-01-23 15:40:06.931] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 15:40:06.931] [INFO] console - [32m[2013-01-23 15:40:06.931] [INFO] console - [39m341.3333
+
+[2013-01-23 15:40:38.548] [INFO] console - [32m[2013-01-23 15:40:38.548] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 15:40:38.548] [INFO] console - [32m[2013-01-23 15:40:38.548] [INFO] console - [39m426.6667
+
+[2013-01-23 15:40:52.615] [INFO] console - [32m[2013-01-23 15:40:52.614] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 15:40:52.615] [INFO] console - [32m[2013-01-23 15:40:52.615] [INFO] console - [39m597.3333
+
+[2013-01-23 15:40:57.144] [INFO] console - [32m[2013-01-23 15:40:57.144] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 15:40:57.144] [INFO] console - [32m[2013-01-23 15:40:57.144] [INFO] console - [39m170.6667
+
+[2013-01-23 15:41:10.084] [INFO] console - [32m[2013-01-23 15:41:10.083] [INFO] console - [39minvoke enter
+
+[2013-01-23 15:41:10.133] [INFO] console - [32m[2013-01-23 15:41:10.133] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 15:41:10.136] [INFO] console - [32m[2013-01-23 15:41:10.134] [INFO] console - [39m[ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 65,
+    pointx: 170.6667,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' } ]
+
+[2013-01-23 15:41:27.590] [INFO] console - [32m[2013-01-23 15:41:27.589] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 15:41:27.590] [INFO] console - [32m[2013-01-23 15:41:27.590] [INFO] console - [39m426.6667
+
+[2013-01-23 15:41:48.107] [INFO] console - [32m[2013-01-23 15:41:48.107] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 15:41:48.108] [INFO] console - [32m[2013-01-23 15:41:48.107] [INFO] console - [39m426.6667
+
+[2013-01-23 15:41:49.241] [INFO] console - [32m[2013-01-23 15:41:49.241] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 15:41:49.243] [INFO] console - [32m[2013-01-23 15:41:49.241] [INFO] console - [39m426.6667
+
+[2013-01-23 15:41:50.308] [INFO] console - [32m[2013-01-23 15:41:50.308] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 15:41:50.308] [INFO] console - [32m[2013-01-23 15:41:50.308] [INFO] console - [39m426.6667
+
+[2013-01-23 15:41:51.474] [INFO] console - [32m[2013-01-23 15:41:51.474] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 15:41:51.474] [INFO] console - [32m[2013-01-23 15:41:51.474] [INFO] console - [39m426.6667
+
+[2013-01-23 15:42:23.726] [INFO] console - [32m[2013-01-23 15:42:23.726] [INFO] console - [39minvoke enter
+
+[2013-01-23 15:42:23.768] [INFO] console - [32m[2013-01-23 15:42:23.767] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 15:42:23.770] [INFO] console - [32m[2013-01-23 15:42:23.769] [INFO] console - [39m[ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 65,
+    pointx: 170.6667,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 66,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 67,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 68,
+    pointx: 426.6667,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 69,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' } ]
+
+[2013-01-23 15:52:02.065] [INFO] console - [32m[2013-01-23 15:52:02.064] [INFO] console - [39minvoke enter
+
+[2013-01-23 15:52:02.106] [INFO] console - [32m[2013-01-23 15:52:02.106] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 15:52:02.109] [INFO] console - [32m[2013-01-23 15:52:02.107] [INFO] console - [39m[ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 65,
+    pointx: 170.6667,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 66,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 67,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 68,
+    pointx: 426.6667,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 69,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' } ]
+
+[2013-01-23 15:52:08.632] [INFO] /node_modules/pomelo/lib/application.js - application inited: "master-server-1"
+[2013-01-23 15:52:08.801] [INFO] console - info: 'socket.io started'
+[2013-01-23 15:52:08.803] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-1 locally
+[2013-01-23 15:52:08.806] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-2 locally
+[2013-01-23 15:52:08.808] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-3 locally
+[2013-01-23 15:52:08.810] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-1 locally
+[2013-01-23 15:52:08.812] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-2 locally
+[2013-01-23 15:52:08.813] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-3 locally
+[2013-01-23 15:52:08.815] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=gate serverId=gate-server-1 locally
+[2013-01-23 15:52:08.817] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "master", "127.0.0.1", 3005
+[2013-01-23 15:52:08.893] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "master-server-1", "master"
+[2013-01-23 15:52:08.942] [INFO] console - [32m[2013-01-23 15:52:08.926] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:52:08.949] [INFO] console - [32m[2013-01-23 15:52:08.930] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:52:08.954] [INFO] console - [32m[2013-01-23 15:52:08.934] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:52:08.955] [INFO] console - [32m[2013-01-23 15:52:08.954] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-1"
+
+[2013-01-23 15:52:08.959] [INFO] console - [32m[2013-01-23 15:52:08.940] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:52:08.961] [INFO] console - [32m[2013-01-23 15:52:08.960] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-3"
+
+[2013-01-23 15:52:08.966] [INFO] console - [32m[2013-01-23 15:52:08.940] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:52:08.972] [INFO] console - [32m[2013-01-23 15:52:08.943] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:52:08.974] [INFO] console - [32m[2013-01-23 15:52:08.972] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-2"
+
+[2013-01-23 15:52:08.977] [INFO] console - [32m[2013-01-23 15:52:08.976] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-3"
+
+[2013-01-23 15:52:08.980] [INFO] console - [32m[2013-01-23 15:52:08.943] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 15:52:08.984] [INFO] console - [32m[2013-01-23 15:52:08.983] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-1"
+
+[2013-01-23 15:52:08.990] [INFO] console - [32m[2013-01-23 15:52:08.990] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "gate-server-1"
+
+[2013-01-23 15:52:08.997] [INFO] console - [32m[2013-01-23 15:52:08.996] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-2"
+
+[2013-01-23 15:52:09.362] [INFO] console - [32m[2013-01-23 15:52:09.360] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:52:09.365] [INFO] console - [32m[2013-01-23 15:52:09.364] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:52:09.366] [INFO] console - [32m[2013-01-23 15:52:09.364] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:52:09.371] [INFO] console - [32m[2013-01-23 15:52:09.369] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:52:09.381] [INFO] console - [32m[2013-01-23 15:52:09.380] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:52:09.383] [INFO] console - [32m[2013-01-23 15:52:09.382] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-23 15:52:09.386] [INFO] console - [32m[2013-01-23 15:52:09.385] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:52:09.392] [INFO] console - [32m[2013-01-23 15:52:09.391] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "gate", "127.0.0.1", 3005
+
+[2013-01-23 15:52:09.393] [INFO] console - [32m[2013-01-23 15:52:09.392] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-23 15:52:09.399] [INFO] console - [32m[2013-01-23 15:52:09.397] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-23 15:52:09.399] [INFO] console - [32m[2013-01-23 15:52:09.395] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-23 15:52:09.402] [INFO] console - [32m[2013-01-23 15:52:09.401] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-23 15:52:09.403] [INFO] console - [32m[2013-01-23 15:52:09.402] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-23 15:52:09.443] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-3", "chat"
+[2013-01-23 15:52:09.446] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-3", "connector"
+[2013-01-23 15:52:09.446] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-1", "connector"
+[2013-01-23 15:52:09.447] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-2", "connector"
+[2013-01-23 15:52:09.450] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-1", "chat"
+[2013-01-23 15:52:09.453] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "gate-server-1", "gate"
+[2013-01-23 15:52:09.453] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-2", "chat"
+[2013-01-23 15:52:09.454] [INFO] /node_modules/pomelo/lib/master/master.js - [master] all servers have started and notify after start now...
+[2013-01-23 15:52:09.455] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "master-server-1"
+[2013-01-23 15:52:09.455] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "master-server-1" started.
+[2013-01-23 15:52:09.456] [INFO] console - [36m[2013-01-23 15:52:09.454] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "gate-server-1"
+
+[2013-01-23 15:52:09.456] [INFO] console - [36m[2013-01-23 15:52:09.454] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-2"
+[32m[2013-01-23 15:52:09.455] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-2" started.
+
+[2013-01-23 15:52:09.456] [INFO] console - [36m[2013-01-23 15:52:09.454] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-2"
+[32m[2013-01-23 15:52:09.456] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:52:09.457] [INFO] console - [36m[2013-01-23 15:52:09.454] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-1"
+[32m[2013-01-23 15:52:09.455] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-1" started.
+
+[2013-01-23 15:52:09.457] [INFO] console - [36m[2013-01-23 15:52:09.454] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-3"
+[32m[2013-01-23 15:52:09.455] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-3" started.
+
+[2013-01-23 15:52:09.457] [INFO] console - [36m[2013-01-23 15:52:09.454] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-3"
+[32m[2013-01-23 15:52:09.456] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-23 15:52:09.456] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-3" started.
+
+[2013-01-23 15:52:09.457] [INFO] console - [36m[2013-01-23 15:52:09.454] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-1"
+[32m[2013-01-23 15:52:09.456] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-23 15:52:09.456] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-1" started.
+
+[2013-01-23 15:52:09.457] [INFO] console - [32m[2013-01-23 15:52:09.456] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-2" started.
+
+[2013-01-23 15:52:09.458] [INFO] console - [32m[2013-01-23 15:52:09.458] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 15:52:09.459] [INFO] console - [32m[2013-01-23 15:52:09.459] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "gate-server-1" started.
+
+[2013-01-23 15:52:13.729] [INFO] console - [32m[2013-01-23 15:52:13.729] [INFO] console - [39minvoke enter
+
+[2013-01-23 15:52:13.776] [INFO] console - [32m[2013-01-23 15:52:13.776] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 15:52:13.817] [INFO] console - [32m[2013-01-23 15:52:13.815] [INFO] console - [39m[ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 65,
+    pointx: 170.6667,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 66,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 67,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 68,
+    pointx: 426.6667,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 69,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' } ]
+
+[2013-01-23 15:52:44.285] [INFO] console - [32m[2013-01-23 15:52:44.285] [INFO] console - [39minvoke enter
+
+[2013-01-23 15:52:44.326] [INFO] console - [32m[2013-01-23 15:52:44.325] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 15:52:44.330] [INFO] console - [32m[2013-01-23 15:52:44.329] [INFO] console - [39m[ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 65,
+    pointx: 170.6667,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 66,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 67,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 68,
+    pointx: 426.6667,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 69,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' } ]
+
+[2013-01-23 15:53:50.642] [INFO] console - [32m[2013-01-23 15:53:50.641] [INFO] console - [39minvoke enter
+
+[2013-01-23 15:53:50.694] [INFO] console - [32m[2013-01-23 15:53:50.693] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 15:53:50.698] [INFO] console - [32m[2013-01-23 15:53:50.697] [INFO] console - [39m[ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 65,
+    pointx: 170.6667,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 66,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 67,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 68,
+    pointx: 426.6667,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 69,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' } ]
+
+[2013-01-23 15:53:54.456] [INFO] console - [32m[2013-01-23 15:53:54.455] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 15:53:54.456] [INFO] console - [32m[2013-01-23 15:53:54.455] [INFO] console - [39m512
+
+[2013-01-23 15:55:05.898] [INFO] console - [32m[2013-01-23 15:55:05.898] [INFO] console - [39minvoke enter
+
+[2013-01-23 15:55:05.940] [INFO] console - [32m[2013-01-23 15:55:05.939] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 15:55:05.944] [INFO] console - [32m[2013-01-23 15:55:05.942] [INFO] console - [39m[ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 65,
+    pointx: 170.6667,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 66,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 67,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 68,
+    pointx: 426.6667,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 69,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 71,
+    pointx: 512,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' } ]
+
+[2013-01-23 15:55:07.836] [INFO] console - [32m[2013-01-23 15:55:07.836] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 15:55:07.837] [INFO] console - [32m[2013-01-23 15:55:07.836] [INFO] console - [39m341.3333
+
+[2013-01-23 15:55:40.086] [INFO] console - [32m[2013-01-23 15:55:40.086] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 15:55:40.086] [INFO] console - [32m[2013-01-23 15:55:40.086] [INFO] console - [39m341.3333
+
+[2013-01-23 16:00:40.361] [INFO] /node_modules/pomelo/lib/application.js - application inited: "master-server-1"
+[2013-01-23 16:00:40.521] [INFO] console - info: 'socket.io started'
+[2013-01-23 16:00:40.524] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-1 locally
+[2013-01-23 16:00:40.527] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-2 locally
+[2013-01-23 16:00:40.529] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-3 locally
+[2013-01-23 16:00:40.530] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-1 locally
+[2013-01-23 16:00:40.532] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-2 locally
+[2013-01-23 16:00:40.534] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-3 locally
+[2013-01-23 16:00:40.536] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=gate serverId=gate-server-1 locally
+[2013-01-23 16:00:40.539] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "master", "127.0.0.1", 3005
+[2013-01-23 16:00:40.615] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "master-server-1", "master"
+[2013-01-23 16:00:40.668] [INFO] console - [32m[2013-01-23 16:00:40.652] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 16:00:40.675] [INFO] console - [32m[2013-01-23 16:00:40.659] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 16:00:40.681] [INFO] console - [32m[2013-01-23 16:00:40.681] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-1"
+
+[2013-01-23 16:00:40.681] [INFO] console - [32m[2013-01-23 16:00:40.662] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 16:00:40.686] [INFO] console - [32m[2013-01-23 16:00:40.662] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 16:00:40.694] [INFO] console - [32m[2013-01-23 16:00:40.692] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-2"
+
+[2013-01-23 16:00:40.694] [INFO] console - [32m[2013-01-23 16:00:40.667] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 16:00:40.700] [INFO] console - [32m[2013-01-23 16:00:40.699] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-3"
+
+[2013-01-23 16:00:40.701] [INFO] console - [32m[2013-01-23 16:00:40.668] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 16:00:40.704] [INFO] console - [32m[2013-01-23 16:00:40.703] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-2"
+
+[2013-01-23 16:00:40.706] [INFO] console - [32m[2013-01-23 16:00:40.673] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 16:00:40.712] [INFO] console - [32m[2013-01-23 16:00:40.711] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-3"
+
+[2013-01-23 16:00:40.719] [INFO] console - [32m[2013-01-23 16:00:40.718] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-1"
+
+[2013-01-23 16:00:40.725] [INFO] console - [32m[2013-01-23 16:00:40.724] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "gate-server-1"
+
+[2013-01-23 16:00:41.081] [INFO] console - [32m[2013-01-23 16:00:41.080] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 16:00:41.085] [INFO] console - [32m[2013-01-23 16:00:41.085] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 16:00:41.091] [INFO] console - [32m[2013-01-23 16:00:41.090] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 16:00:41.095] [INFO] console - [32m[2013-01-23 16:00:41.094] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-23 16:00:41.095] [INFO] console - [32m[2013-01-23 16:00:41.094] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 16:00:41.105] [INFO] console - [32m[2013-01-23 16:00:41.105] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-23 16:00:41.109] [INFO] console - [32m[2013-01-23 16:00:41.109] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 16:00:41.113] [INFO] console - [32m[2013-01-23 16:00:41.110] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 16:00:41.120] [INFO] console - [32m[2013-01-23 16:00:41.119] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-23 16:00:41.123] [INFO] console - [32m[2013-01-23 16:00:41.122] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-23 16:00:41.125] [INFO] console - [32m[2013-01-23 16:00:41.124] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-23 16:00:41.135] [INFO] console - [32m[2013-01-23 16:00:41.134] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "gate", "127.0.0.1", 3005
+
+[2013-01-23 16:00:41.148] [INFO] console - [32m[2013-01-23 16:00:41.147] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-23 16:00:41.154] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-3", "chat"
+[2013-01-23 16:00:41.160] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-2", "chat"
+[2013-01-23 16:00:41.165] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-1", "connector"
+[2013-01-23 16:00:41.171] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-2", "connector"
+[2013-01-23 16:00:41.178] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-1", "chat"
+[2013-01-23 16:00:41.188] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-3", "connector"
+[2013-01-23 16:00:41.189] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "gate-server-1", "gate"
+[2013-01-23 16:00:41.190] [INFO] /node_modules/pomelo/lib/master/master.js - [master] all servers have started and notify after start now...
+[2013-01-23 16:00:41.191] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "master-server-1"
+[2013-01-23 16:00:41.191] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "master-server-1" started.
+[2013-01-23 16:00:41.192] [INFO] console - [36m[2013-01-23 16:00:41.191] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-3"
+
+[2013-01-23 16:00:41.192] [INFO] console - [36m[2013-01-23 16:00:41.191] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "gate-server-1"
+
+[2013-01-23 16:00:41.192] [INFO] console - [36m[2013-01-23 16:00:41.190] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-1"
+[32m[2013-01-23 16:00:41.191] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-1" started.
+
+[2013-01-23 16:00:41.192] [INFO] console - [36m[2013-01-23 16:00:41.190] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-2"
+[32m[2013-01-23 16:00:41.191] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-2" started.
+
+[2013-01-23 16:00:41.192] [INFO] console - [36m[2013-01-23 16:00:41.190] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-1"
+[32m[2013-01-23 16:00:41.192] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 16:00:41.192] [INFO] console - [36m[2013-01-23 16:00:41.190] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-2"
+[32m[2013-01-23 16:00:41.192] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-23 16:00:41.192] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-2" started.
+
+[2013-01-23 16:00:41.193] [INFO] console - [36m[2013-01-23 16:00:41.190] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-3"
+[32m[2013-01-23 16:00:41.192] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-23 16:00:41.192] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-3" started.
+
+[2013-01-23 16:00:41.193] [INFO] console - [32m[2013-01-23 16:00:41.192] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-3" started.
+
+[2013-01-23 16:00:41.193] [INFO] console - [32m[2013-01-23 16:00:41.192] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-1" started.
+
+[2013-01-23 16:00:41.195] [INFO] console - [32m[2013-01-23 16:00:41.195] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 16:00:41.196] [INFO] console - [32m[2013-01-23 16:00:41.195] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "gate-server-1" started.
+
+[2013-01-23 16:00:45.805] [INFO] console - [32m[2013-01-23 16:00:45.805] [INFO] console - [39minvoke enter
+
+[2013-01-23 16:00:45.853] [INFO] console - [32m[2013-01-23 16:00:45.853] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 16:00:45.894] [INFO] console - [32m[2013-01-23 16:00:45.891] [INFO] console - [39m[ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 65,
+    pointx: 170.6667,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 66,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 67,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 68,
+    pointx: 426.6667,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 69,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 71,
+    pointx: 512,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 72,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 73,
+    pointx: 341.3333,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' } ]
+
+[2013-01-23 16:00:54.974] [INFO] console - [32m[2013-01-23 16:00:54.973] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 16:00:54.974] [INFO] console - [32m[2013-01-23 16:00:54.974] [INFO] console - [39m256
+
+[2013-01-23 16:03:49.081] [INFO] console - [32m[2013-01-23 16:03:49.081] [INFO] console - [39minvoke enter
+
+[2013-01-23 16:03:49.135] [INFO] console - [32m[2013-01-23 16:03:49.134] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 16:03:49.142] [INFO] console - [32m[2013-01-23 16:03:49.140] [INFO] console - [39m[ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 65,
+    pointx: 170.6667,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 66,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 67,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 68,
+    pointx: 426.6667,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 69,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 71,
+    pointx: 512,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 72,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 73,
+    pointx: 341.3333,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 74,
+    pointx: 256,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' } ]
+
+[2013-01-23 16:04:04.732] [INFO] console - [32m[2013-01-23 16:04:04.732] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 16:04:04.732] [INFO] console - [32m[2013-01-23 16:04:04.732] [INFO] console - [39m256
+
+[2013-01-23 16:04:24.219] [INFO] console - [32m[2013-01-23 16:04:24.219] [INFO] console - [39minvoke enter
+
+[2013-01-23 16:04:24.268] [INFO] console - [32m[2013-01-23 16:04:24.268] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 16:04:24.273] [INFO] console - [32m[2013-01-23 16:04:24.270] [INFO] console - [39m[ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 65,
+    pointx: 170.6667,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 66,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 67,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 68,
+    pointx: 426.6667,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 69,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 71,
+    pointx: 512,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 72,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 73,
+    pointx: 341.3333,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 74,
+    pointx: 256,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 75,
+    pointx: 256,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' } ]
+
+[2013-01-23 16:04:41.682] [INFO] console - [32m[2013-01-23 16:04:41.682] [INFO] console - [39minvoke enter
+
+[2013-01-23 16:04:41.732] [INFO] console - [32m[2013-01-23 16:04:41.731] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 16:04:41.737] [INFO] console - [32m[2013-01-23 16:04:41.733] [INFO] console - [39m[ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 65,
+    pointx: 170.6667,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 66,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 67,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 68,
+    pointx: 426.6667,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 69,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 71,
+    pointx: 512,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 72,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 73,
+    pointx: 341.3333,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 74,
+    pointx: 256,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 75,
+    pointx: 256,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' } ]
+
+[2013-01-23 16:04:44.235] [INFO] console - [32m[2013-01-23 16:04:44.235] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 16:04:44.236] [INFO] console - [32m[2013-01-23 16:04:44.235] [INFO] console - [39m256
+
+[2013-01-23 16:10:31.461] [INFO] console - [32m[2013-01-23 16:10:31.461] [INFO] console - [39minvoke enter
+
+[2013-01-23 16:10:31.512] [INFO] console - [32m[2013-01-23 16:10:31.511] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 16:10:31.518] [INFO] console - [32m[2013-01-23 16:10:31.515] [INFO] console - [39m[ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 65,
+    pointx: 170.6667,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 66,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 67,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 68,
+    pointx: 426.6667,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 69,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 71,
+    pointx: 512,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 72,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 73,
+    pointx: 341.3333,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 74,
+    pointx: 256,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 75,
+    pointx: 256,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 76,
+    pointx: 256,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' } ]
+
+[2013-01-23 16:11:11.383] [INFO] console - [32m[2013-01-23 16:11:11.383] [INFO] console - [39minvoke enter
+
+[2013-01-23 16:11:11.433] [INFO] console - [32m[2013-01-23 16:11:11.433] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 16:11:11.441] [INFO] console - [32m[2013-01-23 16:11:11.437] [INFO] console - [39m[ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 65,
+    pointx: 170.6667,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 66,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 67,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 68,
+    pointx: 426.6667,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 69,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 71,
+    pointx: 512,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 72,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 73,
+    pointx: 341.3333,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 74,
+    pointx: 256,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 75,
+    pointx: 256,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 76,
+    pointx: 256,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' } ]
+
+[2013-01-23 16:11:15.095] [INFO] console - [32m[2013-01-23 16:11:15.095] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 16:11:15.095] [INFO] console - [32m[2013-01-23 16:11:15.095] [INFO] console - [39m512
+
+[2013-01-23 16:12:31.512] [INFO] console - [32m[2013-01-23 16:12:31.511] [INFO] console - [39minvoke enter
+
+[2013-01-23 16:12:31.554] [INFO] console - [32m[2013-01-23 16:12:31.554] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 16:12:31.561] [INFO] console - [32m[2013-01-23 16:12:31.557] [INFO] console - [39m[ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 65,
+    pointx: 170.6667,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 66,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 67,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 68,
+    pointx: 426.6667,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 69,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 71,
+    pointx: 512,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 72,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 73,
+    pointx: 341.3333,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 74,
+    pointx: 256,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 75,
+    pointx: 256,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 76,
+    pointx: 256,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 77,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' } ]
+
+[2013-01-23 16:12:32.977] [INFO] console - [32m[2013-01-23 16:12:32.977] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 16:12:32.978] [INFO] console - [32m[2013-01-23 16:12:32.977] [INFO] console - [39m71
+
+[2013-01-23 16:12:32.978] [INFO] console - [32m[2013-01-23 16:12:32.977] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 16:12:34.477] [INFO] console - [32m[2013-01-23 16:12:34.477] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 16:12:34.477] [INFO] console - [32m[2013-01-23 16:12:34.477] [INFO] console - [39m66
+[32m[2013-01-23 16:12:34.477] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 16:12:35.744] [INFO] console - [32m[2013-01-23 16:12:35.744] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 16:12:35.744] [INFO] console - [32m[2013-01-23 16:12:35.744] [INFO] console - [39m68
+[32m[2013-01-23 16:12:35.744] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 16:12:36.910] [INFO] console - [32m[2013-01-23 16:12:36.909] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 16:12:36.910] [INFO] console - [32m[2013-01-23 16:12:36.910] [INFO] console - [39m73
+
+[2013-01-23 16:12:36.910] [INFO] console - [32m[2013-01-23 16:12:36.910] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 16:12:37.960] [INFO] console - [32m[2013-01-23 16:12:37.960] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 16:12:37.961] [INFO] console - [32m[2013-01-23 16:12:37.960] [INFO] console - [39m74
+[32m[2013-01-23 16:12:37.960] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 16:12:38.910] [INFO] console - [32m[2013-01-23 16:12:38.909] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 16:12:38.911] [INFO] console - [32m[2013-01-23 16:12:38.910] [INFO] console - [39m76
+[32m[2013-01-23 16:12:38.910] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 16:12:40.160] [INFO] console - [32m[2013-01-23 16:12:40.159] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 16:12:40.160] [INFO] console - [32m[2013-01-23 16:12:40.160] [INFO] console - [39m65
+[32m[2013-01-23 16:12:40.160] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 16:12:45.660] [INFO] console - [32m[2013-01-23 16:12:45.660] [INFO] console - [39minvoke enter
+
+[2013-01-23 16:12:45.702] [INFO] console - [32m[2013-01-23 16:12:45.702] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 16:12:45.705] [INFO] console - [32m[2013-01-23 16:12:45.703] [INFO] console - [39m[ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 67,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 69,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 72,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 75,
+    pointx: 256,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 77,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' } ]
+
+[2013-01-23 16:13:29.739] [INFO] console - [32m[2013-01-23 16:13:29.739] [INFO] console - [39minvoke enter
+
+[2013-01-23 16:13:29.783] [INFO] console - [32m[2013-01-23 16:13:29.783] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 16:13:29.786] [INFO] console - [32m[2013-01-23 16:13:29.785] [INFO] console - [39m[ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 67,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 69,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 72,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 75,
+    pointx: 256,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 77,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' } ]
+
+[2013-01-23 16:13:31.082] [INFO] console - [32m[2013-01-23 16:13:31.081] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 16:13:31.082] [INFO] console - [32m[2013-01-23 16:13:31.082] [INFO] console - [39m72
+[32m[2013-01-23 16:13:31.082] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 16:13:59.665] [INFO] console - [32m[2013-01-23 16:13:59.664] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 16:13:59.665] [INFO] console - [32m[2013-01-23 16:13:59.665] [INFO] console - [39m341.3333
+
+[2013-01-23 16:14:00.915] [INFO] console - [32m[2013-01-23 16:14:00.915] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 16:14:00.916] [INFO] console - [32m[2013-01-23 16:14:00.915] [INFO] console - [39m78
+[32m[2013-01-23 16:14:00.915] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 16:18:18.701] [INFO] console - [32m[2013-01-23 16:18:18.700] [INFO] console - [39minvoke enter
+
+[2013-01-23 16:18:18.752] [INFO] console - [32m[2013-01-23 16:18:18.752] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 16:18:18.757] [INFO] console - [32m[2013-01-23 16:18:18.756] [INFO] console - [39m[ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 67,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 69,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 75,
+    pointx: 256,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 77,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' } ]
+
+[2013-01-23 16:18:19.982] [INFO] console - [32m[2013-01-23 16:18:19.982] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 16:18:19.983] [INFO] console - [32m[2013-01-23 16:18:19.982] [INFO] console - [39m69
+[32m[2013-01-23 16:18:19.983] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 16:18:21.452] [INFO] console - [32m[2013-01-23 16:18:21.452] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 16:18:21.452] [INFO] console - [32m[2013-01-23 16:18:21.452] [INFO] console - [39m67
+[32m[2013-01-23 16:18:21.452] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 16:21:09.357] [INFO] console - [32m[2013-01-23 16:21:09.356] [INFO] console - [39minvoke enter
+
+[2013-01-23 16:21:09.403] [INFO] console - [32m[2013-01-23 16:21:09.403] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 16:21:09.408] [INFO] console - [32m[2013-01-23 16:21:09.406] [INFO] console - [39m[ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 75,
+    pointx: 256,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 77,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' } ]
+
+[2013-01-23 16:21:11.028] [INFO] console - [32m[2013-01-23 16:21:11.028] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 16:21:11.028] [INFO] console - [32m[2013-01-23 16:21:11.028] [INFO] console - [39m75
+[32m[2013-01-23 16:21:11.028] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 16:21:36.499] [INFO] console - [32m[2013-01-23 16:21:36.499] [INFO] console - [39minvoke enter
+
+[2013-01-23 16:21:36.546] [INFO] console - [32m[2013-01-23 16:21:36.545] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 16:21:36.547] [INFO] console - [32m[2013-01-23 16:21:36.547] [INFO] console - [39m[ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 77,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' } ]
+
+[2013-01-23 16:21:37.708] [INFO] console - [32m[2013-01-23 16:21:37.707] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 16:21:37.708] [INFO] console - [32m[2013-01-23 16:21:37.707] [INFO] console - [39m77
+[32m[2013-01-23 16:21:37.707] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 16:24:04.571] [INFO] console - [32m[2013-01-23 16:24:04.571] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 16:24:04.571] [INFO] console - [32m[2013-01-23 16:24:04.571] [INFO] console - [39m512
+
+[2013-01-23 16:24:10.306] [INFO] console - [32m[2013-01-23 16:24:10.306] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 16:24:10.307] [INFO] console - [32m[2013-01-23 16:24:10.306] [INFO] console - [39m78
+
+[2013-01-23 16:24:10.307] [INFO] console - [32m[2013-01-23 16:24:10.307] [INFO] console - [39mdelete from architecture where id = ?
+

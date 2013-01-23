@@ -1922,3 +1922,1569 @@
     pointy: 307,
     png: 'building1.png',
     category: 'military' } ]
+[2013-01-23 14:53:00.202] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-23 14:53:00.608] [INFO] console - info: 'socket.io started'
+[2013-01-23 14:53:00.644] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-23 14:53:00.680] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-23 14:53:00.682] [INFO] console - info: 'socket.io started'
+[2013-01-23 14:53:00.682] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-23 14:53:08.553] [INFO] console - invoke enter
+[2013-01-23 14:53:08.643] [INFO] console - invoke getArchitecture
+[2013-01-23 14:53:08.689] [INFO] console - [ { id: 49,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 50,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 52,
+    pointx: 341,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' } ]
+[2013-01-23 14:53:11.205] [INFO] console - invoke addArchitecture
+[2013-01-23 14:53:11.206] [INFO] console - 426.6667
+[2013-01-23 14:53:12.738] [INFO] console - invoke addArchitecture
+[2013-01-23 14:53:12.738] [INFO] console - 512
+[2013-01-23 15:14:41.909] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-23 15:14:42.334] [INFO] console - info: 'socket.io started'
+[2013-01-23 15:14:42.376] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-23 15:14:42.427] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-23 15:14:42.428] [INFO] console - info: 'socket.io started'
+[2013-01-23 15:14:42.429] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-23 15:14:49.577] [INFO] console - invoke enter
+[2013-01-23 15:14:49.668] [INFO] console - invoke getArchitecture
+[2013-01-23 15:14:49.708] [INFO] console - [ { id: 49,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 50,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 52,
+    pointx: 341,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 54,
+    pointx: 427,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 55,
+    pointx: 512,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-23 15:15:41.339] [INFO] console - invoke enter
+[2013-01-23 15:15:41.390] [INFO] console - invoke getArchitecture
+[2013-01-23 15:15:41.393] [INFO] console - [ { id: 49,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 50,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 52,
+    pointx: 341,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 54,
+    pointx: 427,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 55,
+    pointx: 512,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-23 15:16:03.216] [INFO] console - invoke enter
+[2013-01-23 15:16:03.256] [INFO] console - invoke getArchitecture
+[2013-01-23 15:16:03.259] [INFO] console - [ { id: 49,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 50,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 52,
+    pointx: 341,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 54,
+    pointx: 427,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 55,
+    pointx: 512,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-23 15:16:21.269] [INFO] console - invoke enter
+[2013-01-23 15:16:21.309] [INFO] console - invoke getArchitecture
+[2013-01-23 15:16:21.310] [INFO] console - [ { id: 49,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 50,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 52,
+    pointx: 341,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 54,
+    pointx: 427,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 55,
+    pointx: 512,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-23 15:16:38.325] [INFO] console - invoke deleteArchitecture
+[2013-01-23 15:16:38.325] [INFO] console - 52
+[2013-01-23 15:16:38.327] [ERROR] console -  Caught exception: TypeError: Cannot call method 'query' of undefined
+    at Object.architectureDao.deleteArchitecture (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/dao/architectureDAO.js:81:25)
+    at handler.deleteArchitecture (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:80:21)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+[2013-01-23 15:16:41.326] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.deleteArchitecture" timeout.
+[2013-01-23 15:17:47.081] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-23 15:17:47.512] [INFO] console - info: 'socket.io started'
+[2013-01-23 15:17:47.550] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-23 15:17:47.629] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-23 15:17:47.631] [INFO] console - info: 'socket.io started'
+[2013-01-23 15:17:47.631] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-23 15:17:54.959] [INFO] console - invoke enter
+[2013-01-23 15:17:55.026] [INFO] console - invoke getArchitecture
+[2013-01-23 15:17:55.088] [INFO] console - [ { id: 49,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 50,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 52,
+    pointx: 341,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 54,
+    pointx: 427,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 55,
+    pointx: 512,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-23 15:17:57.474] [INFO] console - invoke deleteArchitecture
+[2013-01-23 15:17:57.474] [INFO] console - 52
+[2013-01-23 15:17:57.475] [ERROR] console -  Caught exception: TypeError: Cannot call method 'query' of undefined
+    at Object.architectureDao.deleteArchitecture (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/dao/architectureDAO.js:81:25)
+    at handler.deleteArchitecture (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:80:21)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+[2013-01-23 15:18:00.474] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.deleteArchitecture" timeout.
+[2013-01-23 15:19:22.074] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-23 15:19:22.524] [INFO] console - info: 'socket.io started'
+[2013-01-23 15:19:22.563] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-23 15:19:22.600] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-23 15:19:22.601] [INFO] console - info: 'socket.io started'
+[2013-01-23 15:19:22.601] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-23 15:19:33.944] [INFO] console - invoke enter
+[2013-01-23 15:19:34.038] [INFO] console - invoke getArchitecture
+[2013-01-23 15:19:34.076] [INFO] console - [ { id: 49,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 50,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 52,
+    pointx: 341,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 54,
+    pointx: 427,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 55,
+    pointx: 512,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-23 15:19:35.810] [INFO] console - invoke deleteArchitecture
+[2013-01-23 15:19:35.811] [INFO] console - 52
+[2013-01-23 15:19:35.832] [ERROR] console -  Caught exception: TypeError: Cannot call method 'query' of undefined
+    at Object.architectureDao.deleteArchitecture (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/dao/architectureDAO.js:81:25)
+    at handler.deleteArchitecture (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:80:21)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+[2013-01-23 15:19:38.811] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.deleteArchitecture" timeout.
+[2013-01-23 15:20:14.750] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-23 15:20:15.179] [INFO] console - info: 'socket.io started'
+[2013-01-23 15:20:15.220] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-23 15:20:15.274] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-23 15:20:15.275] [INFO] console - info: 'socket.io started'
+[2013-01-23 15:20:15.276] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-23 15:20:23.254] [INFO] console - invoke enter
+[2013-01-23 15:20:23.304] [INFO] console - invoke getArchitecture
+[2013-01-23 15:20:23.348] [INFO] console - [ { id: 49,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 50,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 52,
+    pointx: 341,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 54,
+    pointx: 427,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 55,
+    pointx: 512,
+    pointy: 230,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-23 15:20:24.929] [INFO] console - invoke deleteArchitecture
+[2013-01-23 15:20:24.929] [INFO] console - 52
+[2013-01-23 15:20:24.930] [INFO] console - delete from architecture where id = ?
+[2013-01-23 15:20:24.956] [ERROR] console -  Caught exception: TypeError: Cannot call method 'query' of undefined
+    at Object.architectureDao.deleteArchitecture (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/dao/architectureDAO.js:82:25)
+    at handler.deleteArchitecture (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:80:21)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+[2013-01-23 15:20:27.930] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.deleteArchitecture" timeout.
+[2013-01-23 15:22:38.364] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-23 15:22:38.793] [INFO] console - info: 'socket.io started'
+[2013-01-23 15:22:38.833] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-23 15:22:38.913] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-23 15:22:38.914] [INFO] console - info: 'socket.io started'
+[2013-01-23 15:22:38.915] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-23 15:22:44.790] [INFO] console - invoke enter
+[2013-01-23 15:22:44.881] [INFO] console - invoke getArchitecture
+[2013-01-23 15:22:44.924] [INFO] console - [ { id: 49,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 50,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 52,
+    pointx: 341,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 54,
+    pointx: 427,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-23 15:22:47.094] [INFO] console - invoke deleteArchitecture
+[2013-01-23 15:22:47.094] [INFO] console - 52
+[2013-01-23 15:22:47.095] [INFO] console - delete from architecture where id = ?
+[2013-01-23 15:23:57.900] [INFO] console - invoke enter
+[2013-01-23 15:23:57.950] [INFO] console - invoke getArchitecture
+[2013-01-23 15:23:57.954] [INFO] console - [ { id: 49,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 50,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 54,
+    pointx: 427,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-23 15:24:11.530] [INFO] console - invoke deleteArchitecture
+[2013-01-23 15:24:11.530] [INFO] console - 49
+[2013-01-23 15:24:11.530] [INFO] console - delete from architecture where id = ?
+[2013-01-23 15:24:16.980] [INFO] console - invoke addArchitecture
+[2013-01-23 15:24:16.980] [INFO] console - 256
+[2013-01-23 15:24:26.211] [INFO] console - invoke enter
+[2013-01-23 15:24:26.253] [INFO] console - invoke getArchitecture
+[2013-01-23 15:24:26.255] [INFO] console - [ { id: 50,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 54,
+    pointx: 427,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 56,
+    pointx: 256,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-23 15:25:06.926] [INFO] console - invoke enter
+[2013-01-23 15:25:06.969] [INFO] console - invoke getArchitecture
+[2013-01-23 15:25:06.972] [INFO] console - [ { id: 50,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 54,
+    pointx: 427,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 56,
+    pointx: 256,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-23 15:25:08.368] [INFO] console - invoke deleteArchitecture
+[2013-01-23 15:25:08.369] [INFO] console - 56
+[2013-01-23 15:25:08.369] [INFO] console - delete from architecture where id = ?
+[2013-01-23 15:25:50.014] [INFO] console - invoke enter
+[2013-01-23 15:25:50.066] [INFO] console - invoke getArchitecture
+[2013-01-23 15:25:50.069] [INFO] console - [ { id: 50,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 54,
+    pointx: 427,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-23 15:25:52.144] [INFO] console - invoke deleteArchitecture
+[2013-01-23 15:25:52.144] [INFO] console - 54
+[2013-01-23 15:25:52.144] [INFO] console - delete from architecture where id = ?
+[2013-01-23 15:26:18.630] [INFO] console - invoke enter
+[2013-01-23 15:26:18.679] [INFO] console - invoke getArchitecture
+[2013-01-23 15:26:18.681] [INFO] console - [ { id: 50,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' } ]
+[2013-01-23 15:26:20.211] [INFO] console - invoke deleteArchitecture
+[2013-01-23 15:26:20.211] [INFO] console - 50
+[2013-01-23 15:26:20.211] [INFO] console - delete from architecture where id = ?
+[2013-01-23 15:27:31.425] [INFO] console - invoke enter
+[2013-01-23 15:27:31.468] [INFO] console - invoke getArchitecture
+[2013-01-23 15:27:31.473] [INFO] console - [ { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' } ]
+[2013-01-23 15:27:56.969] [INFO] console - invoke enter
+[2013-01-23 15:27:57.012] [INFO] console - invoke getArchitecture
+[2013-01-23 15:27:57.013] [INFO] console - [ { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' } ]
+[2013-01-23 15:28:01.771] [INFO] console - invoke addArchitecture
+[2013-01-23 15:28:01.771] [INFO] console - 341.3333
+[2013-01-23 15:28:11.085] [INFO] console - invoke addArchitecture
+[2013-01-23 15:28:11.085] [INFO] console - 341.3333
+[2013-01-23 15:28:16.889] [INFO] console - invoke addArchitecture
+[2013-01-23 15:28:16.889] [INFO] console - 426.6667
+[2013-01-23 15:28:33.819] [INFO] console - invoke addArchitecture
+[2013-01-23 15:28:33.820] [INFO] console - 341.3333
+[2013-01-23 15:34:50.738] [INFO] console - invoke enter
+[2013-01-23 15:34:50.790] [INFO] console - invoke getArchitecture
+[2013-01-23 15:34:50.792] [INFO] console - [ { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 57,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 58,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 59,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 60,
+    pointx: 341,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-23 15:35:04.593] [INFO] console - invoke enter
+[2013-01-23 15:35:04.641] [INFO] console - invoke getArchitecture
+[2013-01-23 15:35:04.643] [INFO] console - [ { id: 51,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 53,
+    pointx: 512,
+    pointy: 307,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 57,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 58,
+    pointx: 341,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 59,
+    pointx: 427,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 60,
+    pointx: 341,
+    pointy: 307,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-23 15:39:05.000] [INFO] console - invoke enter
+[2013-01-23 15:39:05.044] [INFO] console - invoke getArchitecture
+[2013-01-23 15:39:05.048] [INFO] console - []
+[2013-01-23 15:39:06.732] [INFO] console - invoke addArchitecture
+[2013-01-23 15:39:06.732] [INFO] console - 341.3333
+[2013-01-23 15:40:06.931] [INFO] console - invoke addArchitecture
+[2013-01-23 15:40:06.931] [INFO] console - 341.3333
+[2013-01-23 15:40:38.548] [INFO] console - invoke addArchitecture
+[2013-01-23 15:40:38.548] [INFO] console - 426.6667
+[2013-01-23 15:40:52.614] [INFO] console - invoke addArchitecture
+[2013-01-23 15:40:52.615] [INFO] console - 597.3333
+[2013-01-23 15:40:57.144] [INFO] console - invoke addArchitecture
+[2013-01-23 15:40:57.144] [INFO] console - 170.6667
+[2013-01-23 15:41:10.083] [INFO] console - invoke enter
+[2013-01-23 15:41:10.133] [INFO] console - invoke getArchitecture
+[2013-01-23 15:41:10.134] [INFO] console - [ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 65,
+    pointx: 170.6667,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-23 15:41:27.589] [INFO] console - invoke addArchitecture
+[2013-01-23 15:41:27.590] [INFO] console - 426.6667
+[2013-01-23 15:41:48.107] [INFO] console - invoke addArchitecture
+[2013-01-23 15:41:48.107] [INFO] console - 426.6667
+[2013-01-23 15:41:49.241] [INFO] console - invoke addArchitecture
+[2013-01-23 15:41:49.241] [INFO] console - 426.6667
+[2013-01-23 15:41:50.308] [INFO] console - invoke addArchitecture
+[2013-01-23 15:41:50.308] [INFO] console - 426.6667
+[2013-01-23 15:41:51.474] [INFO] console - invoke addArchitecture
+[2013-01-23 15:41:51.474] [INFO] console - 426.6667
+[2013-01-23 15:42:23.726] [INFO] console - invoke enter
+[2013-01-23 15:42:23.767] [INFO] console - invoke getArchitecture
+[2013-01-23 15:42:23.769] [INFO] console - [ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 65,
+    pointx: 170.6667,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 66,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 67,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 68,
+    pointx: 426.6667,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 69,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' } ]
+[2013-01-23 15:52:02.064] [INFO] console - invoke enter
+[2013-01-23 15:52:02.106] [INFO] console - invoke getArchitecture
+[2013-01-23 15:52:02.107] [INFO] console - [ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 65,
+    pointx: 170.6667,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 66,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 67,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 68,
+    pointx: 426.6667,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 69,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' } ]
+[2013-01-23 15:52:08.960] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-23 15:52:09.364] [INFO] console - info: 'socket.io started'
+[2013-01-23 15:52:09.402] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-23 15:52:09.454] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-23 15:52:09.456] [INFO] console - info: 'socket.io started'
+[2013-01-23 15:52:09.456] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-23 15:52:13.729] [INFO] console - invoke enter
+[2013-01-23 15:52:13.776] [INFO] console - invoke getArchitecture
+[2013-01-23 15:52:13.815] [INFO] console - [ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 65,
+    pointx: 170.6667,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 66,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 67,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 68,
+    pointx: 426.6667,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 69,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' } ]
+[2013-01-23 15:52:44.285] [INFO] console - invoke enter
+[2013-01-23 15:52:44.325] [INFO] console - invoke getArchitecture
+[2013-01-23 15:52:44.329] [INFO] console - [ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 65,
+    pointx: 170.6667,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 66,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 67,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 68,
+    pointx: 426.6667,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 69,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' } ]
+[2013-01-23 15:53:50.641] [INFO] console - invoke enter
+[2013-01-23 15:53:50.693] [INFO] console - invoke getArchitecture
+[2013-01-23 15:53:50.697] [INFO] console - [ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 65,
+    pointx: 170.6667,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 66,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 67,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 68,
+    pointx: 426.6667,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 69,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' } ]
+[2013-01-23 15:53:54.455] [INFO] console - invoke addArchitecture
+[2013-01-23 15:53:54.455] [INFO] console - 512
+[2013-01-23 15:55:05.898] [INFO] console - invoke enter
+[2013-01-23 15:55:05.939] [INFO] console - invoke getArchitecture
+[2013-01-23 15:55:05.942] [INFO] console - [ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 65,
+    pointx: 170.6667,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 66,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 67,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 68,
+    pointx: 426.6667,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 69,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 71,
+    pointx: 512,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-23 15:55:07.836] [INFO] console - invoke addArchitecture
+[2013-01-23 15:55:07.836] [INFO] console - 341.3333
+[2013-01-23 15:55:40.086] [INFO] console - invoke addArchitecture
+[2013-01-23 15:55:40.086] [INFO] console - 341.3333
+[2013-01-23 16:00:40.699] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-23 16:00:41.110] [INFO] console - info: 'socket.io started'
+[2013-01-23 16:00:41.147] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-23 16:00:41.190] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-23 16:00:41.192] [INFO] console - info: 'socket.io started'
+[2013-01-23 16:00:41.192] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-23 16:00:45.805] [INFO] console - invoke enter
+[2013-01-23 16:00:45.853] [INFO] console - invoke getArchitecture
+[2013-01-23 16:00:45.891] [INFO] console - [ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 65,
+    pointx: 170.6667,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 66,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 67,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 68,
+    pointx: 426.6667,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 69,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 71,
+    pointx: 512,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 72,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 73,
+    pointx: 341.3333,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-23 16:00:54.973] [INFO] console - invoke addArchitecture
+[2013-01-23 16:00:54.974] [INFO] console - 256
+[2013-01-23 16:03:49.081] [INFO] console - invoke enter
+[2013-01-23 16:03:49.134] [INFO] console - invoke getArchitecture
+[2013-01-23 16:03:49.140] [INFO] console - [ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 65,
+    pointx: 170.6667,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 66,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 67,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 68,
+    pointx: 426.6667,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 69,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 71,
+    pointx: 512,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 72,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 73,
+    pointx: 341.3333,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 74,
+    pointx: 256,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-23 16:04:04.732] [INFO] console - invoke addArchitecture
+[2013-01-23 16:04:04.732] [INFO] console - 256
+[2013-01-23 16:04:24.219] [INFO] console - invoke enter
+[2013-01-23 16:04:24.268] [INFO] console - invoke getArchitecture
+[2013-01-23 16:04:24.270] [INFO] console - [ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 65,
+    pointx: 170.6667,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 66,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 67,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 68,
+    pointx: 426.6667,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 69,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 71,
+    pointx: 512,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 72,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 73,
+    pointx: 341.3333,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 74,
+    pointx: 256,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 75,
+    pointx: 256,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-23 16:04:41.682] [INFO] console - invoke enter
+[2013-01-23 16:04:41.731] [INFO] console - invoke getArchitecture
+[2013-01-23 16:04:41.733] [INFO] console - [ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 65,
+    pointx: 170.6667,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 66,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 67,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 68,
+    pointx: 426.6667,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 69,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 71,
+    pointx: 512,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 72,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 73,
+    pointx: 341.3333,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 74,
+    pointx: 256,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 75,
+    pointx: 256,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-23 16:04:44.235] [INFO] console - invoke addArchitecture
+[2013-01-23 16:04:44.235] [INFO] console - 256
+[2013-01-23 16:10:31.461] [INFO] console - invoke enter
+[2013-01-23 16:10:31.511] [INFO] console - invoke getArchitecture
+[2013-01-23 16:10:31.515] [INFO] console - [ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 65,
+    pointx: 170.6667,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 66,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 67,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 68,
+    pointx: 426.6667,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 69,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 71,
+    pointx: 512,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 72,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 73,
+    pointx: 341.3333,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 74,
+    pointx: 256,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 75,
+    pointx: 256,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 76,
+    pointx: 256,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-23 16:11:11.383] [INFO] console - invoke enter
+[2013-01-23 16:11:11.433] [INFO] console - invoke getArchitecture
+[2013-01-23 16:11:11.437] [INFO] console - [ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 65,
+    pointx: 170.6667,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 66,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 67,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 68,
+    pointx: 426.6667,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 69,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 71,
+    pointx: 512,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 72,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 73,
+    pointx: 341.3333,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 74,
+    pointx: 256,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 75,
+    pointx: 256,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 76,
+    pointx: 256,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-23 16:11:15.095] [INFO] console - invoke addArchitecture
+[2013-01-23 16:11:15.095] [INFO] console - 512
+[2013-01-23 16:12:31.511] [INFO] console - invoke enter
+[2013-01-23 16:12:31.554] [INFO] console - invoke getArchitecture
+[2013-01-23 16:12:31.557] [INFO] console - [ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 65,
+    pointx: 170.6667,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 66,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 67,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 68,
+    pointx: 426.6667,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 69,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 71,
+    pointx: 512,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 72,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 73,
+    pointx: 341.3333,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 74,
+    pointx: 256,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 75,
+    pointx: 256,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 76,
+    pointx: 256,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 77,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-23 16:12:32.977] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:12:32.977] [INFO] console - 71
+[2013-01-23 16:12:32.977] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:12:34.477] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:12:34.477] [INFO] console - 66
+[2013-01-23 16:12:34.477] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:12:35.744] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:12:35.744] [INFO] console - 68
+[2013-01-23 16:12:35.744] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:12:36.909] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:12:36.910] [INFO] console - 73
+[2013-01-23 16:12:36.910] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:12:37.960] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:12:37.960] [INFO] console - 74
+[2013-01-23 16:12:37.960] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:12:38.909] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:12:38.910] [INFO] console - 76
+[2013-01-23 16:12:38.910] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:12:40.159] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:12:40.160] [INFO] console - 65
+[2013-01-23 16:12:40.160] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:12:45.660] [INFO] console - invoke enter
+[2013-01-23 16:12:45.702] [INFO] console - invoke getArchitecture
+[2013-01-23 16:12:45.703] [INFO] console - [ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 67,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 69,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 72,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 75,
+    pointx: 256,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 77,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-23 16:13:29.739] [INFO] console - invoke enter
+[2013-01-23 16:13:29.783] [INFO] console - invoke getArchitecture
+[2013-01-23 16:13:29.785] [INFO] console - [ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 67,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 69,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 72,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 75,
+    pointx: 256,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 77,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-23 16:13:31.081] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:13:31.082] [INFO] console - 72
+[2013-01-23 16:13:31.082] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:13:59.664] [INFO] console - invoke addArchitecture
+[2013-01-23 16:13:59.665] [INFO] console - 341.3333
+[2013-01-23 16:14:00.915] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:14:00.915] [INFO] console - 78
+[2013-01-23 16:14:00.915] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:18:18.700] [INFO] console - invoke enter
+[2013-01-23 16:18:18.752] [INFO] console - invoke getArchitecture
+[2013-01-23 16:18:18.756] [INFO] console - [ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 67,
+    pointx: 426.6667,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 69,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 75,
+    pointx: 256,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 77,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-23 16:18:19.982] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:18:19.982] [INFO] console - 69
+[2013-01-23 16:18:19.983] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:18:21.452] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:18:21.452] [INFO] console - 67
+[2013-01-23 16:18:21.452] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:21:09.356] [INFO] console - invoke enter
+[2013-01-23 16:21:09.403] [INFO] console - invoke getArchitecture
+[2013-01-23 16:21:09.406] [INFO] console - [ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 75,
+    pointx: 256,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 77,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-23 16:21:11.028] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:21:11.028] [INFO] console - 75
+[2013-01-23 16:21:11.028] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:21:36.499] [INFO] console - invoke enter
+[2013-01-23 16:21:36.545] [INFO] console - invoke getArchitecture
+[2013-01-23 16:21:36.547] [INFO] console - [ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 77,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-23 16:21:37.707] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:21:37.707] [INFO] console - 77
+[2013-01-23 16:21:37.707] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:24:04.571] [INFO] console - invoke addArchitecture
+[2013-01-23 16:24:04.571] [INFO] console - 512
+[2013-01-23 16:24:10.306] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:24:10.306] [INFO] console - 78
+[2013-01-23 16:24:10.307] [INFO] console - delete from architecture where id = ?

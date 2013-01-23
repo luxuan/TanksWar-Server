@@ -22,6 +22,25 @@ architectureDao.getResourceByCategory = function(category, cb) {
 	});
 };
 
+architectureDao.getMaxResourceIDByCategory = function(category, cb) {
+    var sql = 'select MAX(id) from architecture where category = ?';
+    var args = [category];
+    pomelo.app.get('dbclient').query(sql, args, function(err,res) {
+        if (err) {
+            logger.error('get architectureID by getMaxResourceIDByCategory for architectureDao failed!' + err.stack);
+            utils.invokeCallback(cb, err);
+        } else {
+            var length = res.length;
+            var Resources = [];
+            for (var i = 0; i < length; i ++) {
+//				var task = createNewTask(res[i]);
+                Resources.push(res[i]);
+            }
+            utils.invokeCallback(cb, null, Resources);
+        }
+    });
+};
+
 architectureDao.updateResourceById = function(gold,id, cb) {
 	var sql = 'update architecture set gold = ? where id = ?';
 	
@@ -52,4 +71,15 @@ architectureDao.createArchitecture = function(pointx,pointy, png,category,cb) {
 		}
 	});
 	
+};
+
+
+architectureDao.deleteArchitecture = function(architectureId, cb) {
+    var sql = 'delete from architecture where id = ?';
+    console.log(sql);
+    var args = [architectureId];
+
+    pomelo.app.get('dbclient').query(sql, args, function(err, res) {
+        utils.invokeCallback(cb, err, res);
+    });
 };
