@@ -3488,3 +3488,284 @@
 [2013-01-23 16:24:10.306] [INFO] console - invoke deleteArchitecture
 [2013-01-23 16:24:10.306] [INFO] console - 78
 [2013-01-23 16:24:10.307] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:49:50.791] [INFO] console - invoke enter
+[2013-01-23 16:49:50.831] [INFO] console - invoke getArchitecture
+[2013-01-23 16:49:50.834] [INFO] console - [ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 79,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-23 16:49:53.510] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:49:53.510] [INFO] console - 79
+[2013-01-23 16:49:53.510] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:49:55.207] [INFO] console - invoke addArchitecture
+[2013-01-23 16:49:55.207] [INFO] console - 426.6667
+[2013-01-23 16:49:56.344] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:49:56.345] [INFO] console - 80
+[2013-01-23 16:49:56.345] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:50:46.030] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:50:46.030] [INFO] console - 79
+[2013-01-23 16:50:46.031] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:50:54.573] [INFO] console - invoke addArchitecture
+[2013-01-23 16:50:54.573] [INFO] console - 597.3333
+[2013-01-23 16:50:56.210] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:50:56.211] [INFO] console - 81
+[2013-01-23 16:50:56.211] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:50:58.526] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:50:58.527] [INFO] console - 79
+[2013-01-23 16:50:58.527] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:53:31.995] [INFO] console - invoke enter
+[2013-01-23 16:53:32.044] [INFO] console - invoke getArchitecture
+[2013-01-23 16:53:32.046] [INFO] console - [ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' } ]
+[2013-01-23 16:53:35.169] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:53:35.169] [INFO] console - 64
+[2013-01-23 16:53:35.169] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:55:13.716] [INFO] console - invoke addArchitecture
+[2013-01-23 16:55:13.716] [INFO] console - 597.3333
+[2013-01-23 16:55:16.718] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:55:16.719] [INFO] console - 71
+[2013-01-23 16:55:16.719] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:58:06.769] [INFO] console - invoke enter
+[2013-01-23 16:58:06.810] [INFO] console - invoke getArchitecture
+[2013-01-23 16:58:06.812] [INFO] console - [ { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 82,
+    pointx: 597.3333,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' } ]
+[2013-01-23 16:58:08.736] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:58:08.737] [INFO] console - 82
+[2013-01-23 16:58:08.737] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:58:10.302] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:58:10.302] [INFO] console - 82
+[2013-01-23 16:58:10.302] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:58:17.116] [INFO] console - invoke addArchitecture
+[2013-01-23 16:58:17.116] [INFO] console - 597.3333
+[2013-01-23 16:58:18.918] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:58:18.919] [INFO] console - 82
+[2013-01-23 16:58:18.919] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:58:20.501] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:58:20.502] [INFO] console - 83
+[2013-01-23 16:58:20.502] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:58:22.849] [INFO] console - invoke addArchitecture
+[2013-01-23 16:58:22.849] [INFO] console - 512
+[2013-01-23 16:58:24.318] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:58:24.319] [INFO] console - 84
+[2013-01-23 16:58:24.319] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:58:26.135] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:58:26.135] [INFO] console - 82
+[2013-01-23 16:58:26.135] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:58:28.167] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:58:28.167] [INFO] console - 70
+[2013-01-23 16:58:28.167] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:58:29.500] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:58:29.501] [INFO] console - 70
+[2013-01-23 16:58:29.501] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:58:30.868] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:58:30.868] [INFO] console - 70
+[2013-01-23 16:58:30.868] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:58:36.176] [INFO] console - invoke enter
+[2013-01-23 16:58:36.228] [INFO] console - invoke getArchitecture
+[2013-01-23 16:58:36.229] [INFO] console - []
+[2013-01-23 16:58:40.133] [INFO] console - invoke addArchitecture
+[2013-01-23 16:58:40.133] [INFO] console - 341.3333
+[2013-01-23 16:58:42.834] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:58:42.835] [INFO] console - 1
+[2013-01-23 16:58:42.835] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:58:45.400] [INFO] console - invoke addArchitecture
+[2013-01-23 16:58:45.400] [INFO] console - 426.6667
+[2013-01-23 16:58:52.212] [INFO] console - invoke enter
+[2013-01-23 16:58:52.221] [INFO] console - invoke getArchitecture
+[2013-01-23 16:58:52.222] [INFO] console - [ { id: 85,
+    pointx: 341.3333,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 86,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-23 16:58:54.305] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:58:54.306] [INFO] console - 86
+[2013-01-23 16:58:54.306] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:58:56.321] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:58:56.322] [INFO] console - 86
+[2013-01-23 16:58:56.322] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:58:57.455] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:58:57.456] [INFO] console - 86
+[2013-01-23 16:58:57.456] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:59:03.305] [INFO] console - invoke enter
+[2013-01-23 16:59:03.356] [INFO] console - invoke getArchitecture
+[2013-01-23 16:59:03.357] [INFO] console - [ { id: 85,
+    pointx: 341.3333,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' } ]
+[2013-01-23 16:59:33.556] [INFO] console - invoke enter
+[2013-01-23 16:59:33.605] [INFO] console - invoke getArchitecture
+[2013-01-23 16:59:33.607] [INFO] console - [ { id: 85,
+    pointx: 341.3333,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' } ]
+[2013-01-23 16:59:36.088] [INFO] console - invoke deleteArchitecture
+[2013-01-23 16:59:36.089] [INFO] console - 85
+[2013-01-23 16:59:36.089] [INFO] console - delete from architecture where id = ?
+[2013-01-23 16:59:47.449] [INFO] console - invoke addArchitecture
+[2013-01-23 16:59:47.449] [INFO] console - 426.6667
+[2013-01-23 16:59:48.404] [INFO] console - invoke addArchitecture
+[2013-01-23 16:59:48.404] [INFO] console - 426.6667
+[2013-01-23 17:00:01.691] [INFO] console - invoke enter
+[2013-01-23 17:00:01.743] [INFO] console - invoke getArchitecture
+[2013-01-23 17:00:01.744] [INFO] console - [ { id: 87,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 88,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-23 17:00:06.168] [INFO] console - invoke deleteArchitecture
+[2013-01-23 17:00:06.169] [INFO] console - 87
+[2013-01-23 17:00:06.169] [INFO] console - delete from architecture where id = ?
+[2013-01-23 17:00:12.680] [INFO] console - invoke enter
+[2013-01-23 17:00:12.722] [INFO] console - invoke getArchitecture
+[2013-01-23 17:00:12.724] [INFO] console - [ { id: 88,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-23 17:00:54.065] [INFO] console - invoke deleteArchitecture
+[2013-01-23 17:00:54.065] [INFO] console - 88
+[2013-01-23 17:00:54.065] [INFO] console - delete from architecture where id = ?
+[2013-01-23 17:00:59.460] [INFO] console - invoke enter
+[2013-01-23 17:00:59.516] [INFO] console - invoke getArchitecture
+[2013-01-23 17:00:59.517] [INFO] console - []
+[2013-01-23 17:01:02.127] [INFO] console - invoke addArchitecture
+[2013-01-23 17:01:02.128] [INFO] console - 426.6667
+[2013-01-23 17:01:06.327] [INFO] console - invoke deleteArchitecture
+[2013-01-23 17:01:06.327] [INFO] console - 1
+[2013-01-23 17:01:06.327] [INFO] console - delete from architecture where id = ?
+[2013-01-23 17:01:35.658] [INFO] console - invoke enter
+[2013-01-23 17:01:35.710] [INFO] console - invoke getArchitecture
+[2013-01-23 17:01:35.711] [INFO] console - [ { id: 89,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' } ]
+[2013-01-23 17:01:37.483] [INFO] console - invoke deleteArchitecture
+[2013-01-23 17:01:37.484] [INFO] console - 89
+[2013-01-23 17:01:37.484] [INFO] console - delete from architecture where id = ?
+[2013-01-23 17:02:01.916] [INFO] console - invoke deleteArchitecture
+[2013-01-23 17:02:01.916] [INFO] console - 89
+[2013-01-23 17:02:01.916] [INFO] console - delete from architecture where id = ?
+[2013-01-23 17:03:06.597] [INFO] console - invoke addArchitecture
+[2013-01-23 17:03:06.598] [INFO] console - 426.6667
+[2013-01-23 17:03:09.633] [INFO] console - invoke deleteArchitecture
+[2013-01-23 17:03:09.633] [INFO] console - 90
+[2013-01-23 17:03:09.633] [INFO] console - delete from architecture where id = ?
+[2013-01-23 17:03:14.214] [INFO] console - invoke addArchitecture
+[2013-01-23 17:03:14.214] [INFO] console - 426.6667
+[2013-01-23 17:04:28.065] [INFO] console - invoke addArchitecture
+[2013-01-23 17:04:28.065] [INFO] console - 597.3333
+[2013-01-23 17:07:52.126] [INFO] console - invoke enter
+[2013-01-23 17:07:52.177] [INFO] console - invoke getArchitecture
+[2013-01-23 17:07:52.179] [INFO] console - [ { id: 91,
+    pointx: 426.6667,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 92,
+    pointx: 597.3333,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' } ]
+[2013-01-23 17:08:06.703] [INFO] console - invoke deleteArchitecture
+[2013-01-23 17:08:06.704] [INFO] console - 91
+[2013-01-23 17:08:06.704] [INFO] console - delete from architecture where id = ?
+[2013-01-23 17:09:00.070] [INFO] console - invoke deleteArchitecture
+[2013-01-23 17:09:00.070] [INFO] console - 91
+[2013-01-23 17:09:00.070] [INFO] console - delete from architecture where id = ?
+[2013-01-23 17:09:00.870] [INFO] console - invoke deleteArchitecture
+[2013-01-23 17:09:00.870] [INFO] console - 91
+[2013-01-23 17:09:00.870] [INFO] console - delete from architecture where id = ?
+[2013-01-23 17:09:01.619] [INFO] console - invoke deleteArchitecture
+[2013-01-23 17:09:01.619] [INFO] console - 91
+[2013-01-23 17:09:01.619] [INFO] console - delete from architecture where id = ?
+[2013-01-23 17:10:25.004] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-23 17:10:25.431] [INFO] console - info: 'socket.io started'
+[2013-01-23 17:10:25.470] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-23 17:10:25.528] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-23 17:10:25.530] [INFO] console - info: 'socket.io started'
+[2013-01-23 17:10:25.530] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-23 17:10:44.835] [INFO] console - invoke enter
+[2013-01-23 17:10:44.888] [INFO] console - invoke getArchitecture
+[2013-01-23 17:10:44.927] [INFO] console - [ { id: 92,
+    pointx: 597.3333,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' } ]
+[2013-01-23 17:13:00.398] [INFO] console - invoke enter
+[2013-01-23 17:13:00.440] [INFO] console - invoke getArchitecture
+[2013-01-23 17:13:00.445] [INFO] console - [ { id: 92,
+    pointx: 597.3333,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' } ]
+[2013-01-23 17:15:20.134] [INFO] console - invoke enter
+[2013-01-23 17:15:20.179] [INFO] console - invoke getArchitecture
+[2013-01-23 17:15:20.181] [INFO] console - [ { id: 92,
+    pointx: 597.3333,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' } ]
+[2013-01-23 17:16:58.314] [INFO] console - invoke enter
+[2013-01-23 17:16:58.366] [INFO] console - invoke getArchitecture
+[2013-01-23 17:16:58.369] [INFO] console - [ { id: 92,
+    pointx: 597.3333,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' } ]
+[2013-01-23 17:17:48.860] [INFO] console - invoke enter
+[2013-01-23 17:17:48.904] [INFO] console - invoke getArchitecture
+[2013-01-23 17:17:48.906] [INFO] console - [ { id: 92,
+    pointx: 597.3333,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' } ]
+[2013-01-23 17:19:45.699] [INFO] console - invoke enter
+[2013-01-23 17:19:45.762] [INFO] console - invoke getArchitecture
+[2013-01-23 17:19:45.764] [INFO] console - [ { id: 92,
+    pointx: 597.3333,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' } ]
+[2013-01-23 17:19:51.624] [INFO] console - invoke deleteArchitecture
+[2013-01-23 17:19:51.624] [INFO] console - 92
+[2013-01-23 17:19:51.624] [INFO] console - delete from architecture where id = ?

@@ -9005,3 +9005,529 @@
 
 [2013-01-23 16:24:10.307] [INFO] console - [32m[2013-01-23 16:24:10.307] [INFO] console - [39mdelete from architecture where id = ?
 
+[2013-01-23 16:49:50.791] [INFO] console - [32m[2013-01-23 16:49:50.791] [INFO] console - [39minvoke enter
+
+[2013-01-23 16:49:50.832] [INFO] console - [32m[2013-01-23 16:49:50.831] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 16:49:50.835] [INFO] console - [32m[2013-01-23 16:49:50.834] [INFO] console - [39m[ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 79,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' } ]
+
+[2013-01-23 16:49:53.510] [INFO] console - [32m[2013-01-23 16:49:53.510] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 16:49:53.511] [INFO] console - [32m[2013-01-23 16:49:53.510] [INFO] console - [39m79
+[32m[2013-01-23 16:49:53.510] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 16:49:55.207] [INFO] console - [32m[2013-01-23 16:49:55.207] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 16:49:55.207] [INFO] console - [32m[2013-01-23 16:49:55.207] [INFO] console - [39m426.6667
+
+[2013-01-23 16:49:56.345] [INFO] console - [32m[2013-01-23 16:49:56.344] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 16:49:56.345] [INFO] console - [32m[2013-01-23 16:49:56.345] [INFO] console - [39m80
+[32m[2013-01-23 16:49:56.345] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 16:50:46.030] [INFO] console - [32m[2013-01-23 16:50:46.030] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 16:50:46.031] [INFO] console - [32m[2013-01-23 16:50:46.030] [INFO] console - [39m79
+
+[2013-01-23 16:50:46.032] [INFO] console - [32m[2013-01-23 16:50:46.031] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 16:50:54.573] [INFO] console - [32m[2013-01-23 16:50:54.573] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 16:50:54.574] [INFO] console - [32m[2013-01-23 16:50:54.573] [INFO] console - [39m597.3333
+
+[2013-01-23 16:50:56.211] [INFO] console - [32m[2013-01-23 16:50:56.210] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 16:50:56.211] [INFO] console - [32m[2013-01-23 16:50:56.211] [INFO] console - [39m81
+[32m[2013-01-23 16:50:56.211] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 16:50:58.527] [INFO] console - [32m[2013-01-23 16:50:58.526] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 16:50:58.527] [INFO] console - [32m[2013-01-23 16:50:58.527] [INFO] console - [39m79
+[32m[2013-01-23 16:50:58.527] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 16:53:31.995] [INFO] console - [32m[2013-01-23 16:53:31.995] [INFO] console - [39minvoke enter
+
+[2013-01-23 16:53:32.044] [INFO] console - [32m[2013-01-23 16:53:32.044] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 16:53:32.047] [INFO] console - [32m[2013-01-23 16:53:32.046] [INFO] console - [39m[ { id: 64,
+    pointx: 597.3333,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' } ]
+
+[2013-01-23 16:53:35.169] [INFO] console - [32m[2013-01-23 16:53:35.169] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 16:53:35.169] [INFO] console - [32m[2013-01-23 16:53:35.169] [INFO] console - [39m64
+
+[2013-01-23 16:53:35.169] [INFO] console - [32m[2013-01-23 16:53:35.169] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 16:55:13.716] [INFO] console - [32m[2013-01-23 16:55:13.716] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 16:55:13.716] [INFO] console - [32m[2013-01-23 16:55:13.716] [INFO] console - [39m597.3333
+
+[2013-01-23 16:55:16.719] [INFO] console - [32m[2013-01-23 16:55:16.718] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 16:55:16.719] [INFO] console - [32m[2013-01-23 16:55:16.719] [INFO] console - [39m71
+
+[2013-01-23 16:55:16.719] [INFO] console - [32m[2013-01-23 16:55:16.719] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 16:58:06.770] [INFO] console - [32m[2013-01-23 16:58:06.769] [INFO] console - [39minvoke enter
+
+[2013-01-23 16:58:06.810] [INFO] console - [32m[2013-01-23 16:58:06.810] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 16:58:06.813] [INFO] console - [32m[2013-01-23 16:58:06.812] [INFO] console - [39m[ { id: 70,
+    pointx: 426.6667,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 82,
+    pointx: 597.3333,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' } ]
+
+[2013-01-23 16:58:08.738] [INFO] console - [32m[2013-01-23 16:58:08.736] [INFO] console - [39minvoke deleteArchitecture
+[32m[2013-01-23 16:58:08.737] [INFO] console - [39m82
+[32m[2013-01-23 16:58:08.737] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 16:58:10.302] [INFO] console - [32m[2013-01-23 16:58:10.302] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 16:58:10.303] [INFO] console - [32m[2013-01-23 16:58:10.302] [INFO] console - [39m82
+[32m[2013-01-23 16:58:10.302] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 16:58:17.116] [INFO] console - [32m[2013-01-23 16:58:17.116] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 16:58:17.116] [INFO] console - [32m[2013-01-23 16:58:17.116] [INFO] console - [39m597.3333
+
+[2013-01-23 16:58:18.919] [INFO] console - [32m[2013-01-23 16:58:18.918] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 16:58:18.919] [INFO] console - [32m[2013-01-23 16:58:18.919] [INFO] console - [39m82
+
+[2013-01-23 16:58:18.919] [INFO] console - [32m[2013-01-23 16:58:18.919] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 16:58:20.502] [INFO] console - [32m[2013-01-23 16:58:20.501] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 16:58:20.502] [INFO] console - [32m[2013-01-23 16:58:20.502] [INFO] console - [39m83
+[32m[2013-01-23 16:58:20.502] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 16:58:22.850] [INFO] console - [32m[2013-01-23 16:58:22.849] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 16:58:22.850] [INFO] console - [32m[2013-01-23 16:58:22.849] [INFO] console - [39m512
+
+[2013-01-23 16:58:24.319] [INFO] console - [32m[2013-01-23 16:58:24.318] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 16:58:24.319] [INFO] console - [32m[2013-01-23 16:58:24.319] [INFO] console - [39m84
+[32m[2013-01-23 16:58:24.319] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 16:58:26.135] [INFO] console - [32m[2013-01-23 16:58:26.135] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 16:58:26.135] [INFO] console - [32m[2013-01-23 16:58:26.135] [INFO] console - [39m82
+[32m[2013-01-23 16:58:26.135] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 16:58:28.167] [INFO] console - [32m[2013-01-23 16:58:28.167] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 16:58:28.168] [INFO] console - [32m[2013-01-23 16:58:28.167] [INFO] console - [39m70
+[32m[2013-01-23 16:58:28.167] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 16:58:29.501] [INFO] console - [32m[2013-01-23 16:58:29.500] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 16:58:29.501] [INFO] console - [32m[2013-01-23 16:58:29.501] [INFO] console - [39m70
+[32m[2013-01-23 16:58:29.501] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 16:58:30.868] [INFO] console - [32m[2013-01-23 16:58:30.868] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 16:58:30.868] [INFO] console - [32m[2013-01-23 16:58:30.868] [INFO] console - [39m70
+[32m[2013-01-23 16:58:30.868] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 16:58:36.177] [INFO] console - [32m[2013-01-23 16:58:36.176] [INFO] console - [39minvoke enter
+
+[2013-01-23 16:58:36.228] [INFO] console - [32m[2013-01-23 16:58:36.228] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 16:58:36.229] [INFO] console - [32m[2013-01-23 16:58:36.229] [INFO] console - [39m[]
+
+[2013-01-23 16:58:40.133] [INFO] console - [32m[2013-01-23 16:58:40.133] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 16:58:40.133] [INFO] console - [32m[2013-01-23 16:58:40.133] [INFO] console - [39m341.3333
+
+[2013-01-23 16:58:42.835] [INFO] console - [32m[2013-01-23 16:58:42.834] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 16:58:42.835] [INFO] console - [32m[2013-01-23 16:58:42.835] [INFO] console - [39m1
+[32m[2013-01-23 16:58:42.835] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 16:58:45.400] [INFO] console - [32m[2013-01-23 16:58:45.400] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 16:58:45.400] [INFO] console - [32m[2013-01-23 16:58:45.400] [INFO] console - [39m426.6667
+
+[2013-01-23 16:58:52.212] [INFO] console - [32m[2013-01-23 16:58:52.212] [INFO] console - [39minvoke enter
+
+[2013-01-23 16:58:52.221] [INFO] console - [32m[2013-01-23 16:58:52.221] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 16:58:52.222] [INFO] console - [32m[2013-01-23 16:58:52.222] [INFO] console - [39m[ { id: 85,
+    pointx: 341.3333,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 86,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' } ]
+
+[2013-01-23 16:58:54.306] [INFO] console - [32m[2013-01-23 16:58:54.305] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 16:58:54.306] [INFO] console - [32m[2013-01-23 16:58:54.306] [INFO] console - [39m86
+[32m[2013-01-23 16:58:54.306] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 16:58:56.322] [INFO] console - [32m[2013-01-23 16:58:56.321] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 16:58:56.322] [INFO] console - [32m[2013-01-23 16:58:56.322] [INFO] console - [39m86
+[32m[2013-01-23 16:58:56.322] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 16:58:57.456] [INFO] console - [32m[2013-01-23 16:58:57.455] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 16:58:57.456] [INFO] console - [32m[2013-01-23 16:58:57.456] [INFO] console - [39m86
+
+[2013-01-23 16:58:57.456] [INFO] console - [32m[2013-01-23 16:58:57.456] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 16:59:03.305] [INFO] console - [32m[2013-01-23 16:59:03.305] [INFO] console - [39minvoke enter
+
+[2013-01-23 16:59:03.356] [INFO] console - [32m[2013-01-23 16:59:03.356] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 16:59:03.357] [INFO] console - [32m[2013-01-23 16:59:03.357] [INFO] console - [39m[ { id: 85,
+    pointx: 341.3333,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' } ]
+
+[2013-01-23 16:59:33.557] [INFO] console - [32m[2013-01-23 16:59:33.556] [INFO] console - [39minvoke enter
+
+[2013-01-23 16:59:33.606] [INFO] console - [32m[2013-01-23 16:59:33.605] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 16:59:33.608] [INFO] console - [32m[2013-01-23 16:59:33.607] [INFO] console - [39m[ { id: 85,
+    pointx: 341.3333,
+    pointy: 460.8,
+    png: 'building1.png',
+    category: 'military' } ]
+
+[2013-01-23 16:59:36.089] [INFO] console - [32m[2013-01-23 16:59:36.088] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 16:59:36.089] [INFO] console - [32m[2013-01-23 16:59:36.089] [INFO] console - [39m85
+[32m[2013-01-23 16:59:36.089] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 16:59:47.449] [INFO] console - [32m[2013-01-23 16:59:47.449] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 16:59:47.449] [INFO] console - [32m[2013-01-23 16:59:47.449] [INFO] console - [39m426.6667
+
+[2013-01-23 16:59:48.404] [INFO] console - [32m[2013-01-23 16:59:48.404] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 16:59:48.404] [INFO] console - [32m[2013-01-23 16:59:48.404] [INFO] console - [39m426.6667
+
+[2013-01-23 17:00:01.691] [INFO] console - [32m[2013-01-23 17:00:01.691] [INFO] console - [39minvoke enter
+
+[2013-01-23 17:00:01.743] [INFO] console - [32m[2013-01-23 17:00:01.743] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 17:00:01.744] [INFO] console - [32m[2013-01-23 17:00:01.744] [INFO] console - [39m[ { id: 87,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' },
+  { id: 88,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' } ]
+
+[2013-01-23 17:00:06.169] [INFO] console - [32m[2013-01-23 17:00:06.168] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 17:00:06.169] [INFO] console - [32m[2013-01-23 17:00:06.169] [INFO] console - [39m87
+[32m[2013-01-23 17:00:06.169] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 17:00:12.680] [INFO] console - [32m[2013-01-23 17:00:12.680] [INFO] console - [39minvoke enter
+
+[2013-01-23 17:00:12.723] [INFO] console - [32m[2013-01-23 17:00:12.722] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 17:00:12.724] [INFO] console - [32m[2013-01-23 17:00:12.724] [INFO] console - [39m[ { id: 88,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military' } ]
+
+[2013-01-23 17:00:54.065] [INFO] console - [32m[2013-01-23 17:00:54.065] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 17:00:54.065] [INFO] console - [32m[2013-01-23 17:00:54.065] [INFO] console - [39m88
+[32m[2013-01-23 17:00:54.065] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 17:00:59.461] [INFO] console - [32m[2013-01-23 17:00:59.460] [INFO] console - [39minvoke enter
+
+[2013-01-23 17:00:59.516] [INFO] console - [32m[2013-01-23 17:00:59.516] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 17:00:59.517] [INFO] console - [32m[2013-01-23 17:00:59.517] [INFO] console - [39m[]
+
+[2013-01-23 17:01:02.128] [INFO] console - [32m[2013-01-23 17:01:02.127] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 17:01:02.128] [INFO] console - [32m[2013-01-23 17:01:02.128] [INFO] console - [39m426.6667
+
+[2013-01-23 17:01:06.327] [INFO] console - [32m[2013-01-23 17:01:06.327] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 17:01:06.327] [INFO] console - [32m[2013-01-23 17:01:06.327] [INFO] console - [39m1
+[32m[2013-01-23 17:01:06.327] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 17:01:35.658] [INFO] console - [32m[2013-01-23 17:01:35.658] [INFO] console - [39minvoke enter
+
+[2013-01-23 17:01:35.710] [INFO] console - [32m[2013-01-23 17:01:35.710] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 17:01:35.711] [INFO] console - [32m[2013-01-23 17:01:35.711] [INFO] console - [39m[ { id: 89,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building1.png',
+    category: 'military' } ]
+
+[2013-01-23 17:01:37.484] [INFO] console - [32m[2013-01-23 17:01:37.483] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 17:01:37.484] [INFO] console - [32m[2013-01-23 17:01:37.484] [INFO] console - [39m89
+[32m[2013-01-23 17:01:37.484] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 17:02:01.916] [INFO] console - [32m[2013-01-23 17:02:01.916] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 17:02:01.917] [INFO] console - [32m[2013-01-23 17:02:01.916] [INFO] console - [39m89
+[32m[2013-01-23 17:02:01.916] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 17:03:06.598] [INFO] console - [32m[2013-01-23 17:03:06.597] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 17:03:06.598] [INFO] console - [32m[2013-01-23 17:03:06.598] [INFO] console - [39m426.6667
+
+[2013-01-23 17:03:09.633] [INFO] console - [32m[2013-01-23 17:03:09.633] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 17:03:09.634] [INFO] console - [32m[2013-01-23 17:03:09.633] [INFO] console - [39m90
+[32m[2013-01-23 17:03:09.633] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 17:03:14.214] [INFO] console - [32m[2013-01-23 17:03:14.214] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 17:03:14.214] [INFO] console - [32m[2013-01-23 17:03:14.214] [INFO] console - [39m426.6667
+
+[2013-01-23 17:04:28.065] [INFO] console - [32m[2013-01-23 17:04:28.065] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-23 17:04:28.065] [INFO] console - [32m[2013-01-23 17:04:28.065] [INFO] console - [39m597.3333
+
+[2013-01-23 17:07:52.126] [INFO] console - [32m[2013-01-23 17:07:52.126] [INFO] console - [39minvoke enter
+
+[2013-01-23 17:07:52.177] [INFO] console - [32m[2013-01-23 17:07:52.177] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 17:07:52.180] [INFO] console - [32m[2013-01-23 17:07:52.179] [INFO] console - [39m[ { id: 91,
+    pointx: 426.6667,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' },
+  { id: 92,
+    pointx: 597.3333,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' } ]
+
+[2013-01-23 17:08:06.704] [INFO] console - [32m[2013-01-23 17:08:06.703] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 17:08:06.704] [INFO] console - [32m[2013-01-23 17:08:06.704] [INFO] console - [39m91
+[32m[2013-01-23 17:08:06.704] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 17:09:00.070] [INFO] console - [32m[2013-01-23 17:09:00.070] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 17:09:00.070] [INFO] console - [32m[2013-01-23 17:09:00.070] [INFO] console - [39m91
+[32m[2013-01-23 17:09:00.070] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 17:09:00.870] [INFO] console - [32m[2013-01-23 17:09:00.870] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 17:09:00.871] [INFO] console - [32m[2013-01-23 17:09:00.870] [INFO] console - [39m91
+[32m[2013-01-23 17:09:00.870] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 17:09:01.619] [INFO] console - [32m[2013-01-23 17:09:01.619] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 17:09:01.619] [INFO] console - [32m[2013-01-23 17:09:01.619] [INFO] console - [39m91
+[32m[2013-01-23 17:09:01.619] [INFO] console - [39mdelete from architecture where id = ?
+
+[2013-01-23 17:10:24.652] [INFO] /node_modules/pomelo/lib/application.js - application inited: "master-server-1"
+[2013-01-23 17:10:24.830] [INFO] console - info: 'socket.io started'
+[2013-01-23 17:10:24.831] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-1 locally
+[2013-01-23 17:10:24.835] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-2 locally
+[2013-01-23 17:10:24.837] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-3 locally
+[2013-01-23 17:10:24.838] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-1 locally
+[2013-01-23 17:10:24.840] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-2 locally
+[2013-01-23 17:10:24.842] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-3 locally
+[2013-01-23 17:10:24.844] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=gate serverId=gate-server-1 locally
+[2013-01-23 17:10:24.847] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "master", "127.0.0.1", 3005
+[2013-01-23 17:10:24.931] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "master-server-1", "master"
+[2013-01-23 17:10:24.982] [INFO] console - [32m[2013-01-23 17:10:24.967] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 17:10:24.989] [INFO] console - [32m[2013-01-23 17:10:24.970] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 17:10:24.996] [INFO] console - [32m[2013-01-23 17:10:24.968] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 17:10:24.998] [INFO] console - [32m[2013-01-23 17:10:24.997] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-2"
+
+[2013-01-23 17:10:25.002] [INFO] console - [32m[2013-01-23 17:10:24.981] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 17:10:25.004] [INFO] console - [32m[2013-01-23 17:10:25.004] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-3"
+
+[2013-01-23 17:10:25.009] [INFO] console - [32m[2013-01-23 17:10:24.981] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 17:10:25.014] [INFO] console - [32m[2013-01-23 17:10:25.013] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-1"
+
+[2013-01-23 17:10:25.015] [INFO] console - [32m[2013-01-23 17:10:24.985] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 17:10:25.021] [INFO] console - [32m[2013-01-23 17:10:25.021] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "gate-server-1"
+
+[2013-01-23 17:10:25.023] [INFO] console - [32m[2013-01-23 17:10:24.989] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-23 17:10:25.029] [INFO] console - [32m[2013-01-23 17:10:25.028] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-1"
+
+[2013-01-23 17:10:25.042] [INFO] console - [32m[2013-01-23 17:10:25.041] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-3"
+
+[2013-01-23 17:10:25.042] [INFO] console - [32m[2013-01-23 17:10:25.038] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-2"
+
+[2013-01-23 17:10:25.428] [INFO] console - [32m[2013-01-23 17:10:25.425] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 17:10:25.428] [INFO] console - [32m[2013-01-23 17:10:25.427] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 17:10:25.432] [INFO] console - [32m[2013-01-23 17:10:25.431] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 17:10:25.441] [INFO] console - [32m[2013-01-23 17:10:25.439] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "gate", "127.0.0.1", 3005
+
+[2013-01-23 17:10:25.443] [INFO] console - [32m[2013-01-23 17:10:25.441] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 17:10:25.460] [INFO] console - [32m[2013-01-23 17:10:25.458] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 17:10:25.460] [INFO] console - [32m[2013-01-23 17:10:25.456] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 17:10:25.460] [INFO] console - [32m[2013-01-23 17:10:25.454] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-23 17:10:25.464] [INFO] console - [32m[2013-01-23 17:10:25.463] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-23 17:10:25.470] [INFO] console - [32m[2013-01-23 17:10:25.469] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-23 17:10:25.472] [INFO] console - [32m[2013-01-23 17:10:25.471] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-23 17:10:25.472] [INFO] console - [32m[2013-01-23 17:10:25.470] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-23 17:10:25.476] [INFO] console - [32m[2013-01-23 17:10:25.476] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-23 17:10:25.510] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "gate-server-1", "gate"
+[2013-01-23 17:10:25.512] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-2", "chat"
+[2013-01-23 17:10:25.515] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-3", "connector"
+[2013-01-23 17:10:25.518] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-3", "chat"
+[2013-01-23 17:10:25.519] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-1", "connector"
+[2013-01-23 17:10:25.520] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-2", "connector"
+[2013-01-23 17:10:25.527] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-1", "chat"
+[2013-01-23 17:10:25.528] [INFO] /node_modules/pomelo/lib/master/master.js - [master] all servers have started and notify after start now...
+[2013-01-23 17:10:25.529] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "master-server-1"
+[2013-01-23 17:10:25.529] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "master-server-1" started.
+[2013-01-23 17:10:25.530] [INFO] console - [36m[2013-01-23 17:10:25.529] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-1"
+
+[2013-01-23 17:10:25.531] [INFO] console - [36m[2013-01-23 17:10:25.528] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "gate-server-1"
+
+[2013-01-23 17:10:25.531] [INFO] console - [36m[2013-01-23 17:10:25.528] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-2"
+[32m[2013-01-23 17:10:25.529] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-2" started.
+
+[2013-01-23 17:10:25.531] [INFO] console - [36m[2013-01-23 17:10:25.529] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-2"
+[32m[2013-01-23 17:10:25.530] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-23 17:10:25.531] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-2" started.
+
+[2013-01-23 17:10:25.531] [INFO] console - [36m[2013-01-23 17:10:25.528] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-3"
+[32m[2013-01-23 17:10:25.529] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-3" started.
+
+[2013-01-23 17:10:25.531] [INFO] console - [36m[2013-01-23 17:10:25.528] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-1"
+[32m[2013-01-23 17:10:25.530] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-23 17:10:25.530] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-1" started.
+
+[2013-01-23 17:10:25.531] [INFO] console - [36m[2013-01-23 17:10:25.528] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-3"
+[32m[2013-01-23 17:10:25.530] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-23 17:10:25.530] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-3" started.
+
+[2013-01-23 17:10:25.531] [INFO] console - [32m[2013-01-23 17:10:25.530] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-1" started.
+
+[2013-01-23 17:10:25.533] [INFO] console - [32m[2013-01-23 17:10:25.532] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-23 17:10:25.533] [INFO] console - [32m[2013-01-23 17:10:25.533] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "gate-server-1" started.
+
+[2013-01-23 17:10:44.836] [INFO] console - [32m[2013-01-23 17:10:44.835] [INFO] console - [39minvoke enter
+
+[2013-01-23 17:10:44.888] [INFO] console - [32m[2013-01-23 17:10:44.888] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 17:10:44.928] [INFO] console - [32m[2013-01-23 17:10:44.927] [INFO] console - [39m[ { id: 92,
+    pointx: 597.3333,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' } ]
+
+[2013-01-23 17:13:00.398] [INFO] console - [32m[2013-01-23 17:13:00.398] [INFO] console - [39minvoke enter
+
+[2013-01-23 17:13:00.440] [INFO] console - [32m[2013-01-23 17:13:00.440] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 17:13:00.446] [INFO] console - [32m[2013-01-23 17:13:00.445] [INFO] console - [39m[ { id: 92,
+    pointx: 597.3333,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' } ]
+
+[2013-01-23 17:15:20.135] [INFO] console - [32m[2013-01-23 17:15:20.134] [INFO] console - [39minvoke enter
+
+[2013-01-23 17:15:20.179] [INFO] console - [32m[2013-01-23 17:15:20.179] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 17:15:20.182] [INFO] console - [32m[2013-01-23 17:15:20.181] [INFO] console - [39m[ { id: 92,
+    pointx: 597.3333,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' } ]
+
+[2013-01-23 17:16:58.314] [INFO] console - [32m[2013-01-23 17:16:58.314] [INFO] console - [39minvoke enter
+
+[2013-01-23 17:16:58.366] [INFO] console - [32m[2013-01-23 17:16:58.366] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 17:16:58.370] [INFO] console - [32m[2013-01-23 17:16:58.369] [INFO] console - [39m[ { id: 92,
+    pointx: 597.3333,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' } ]
+
+[2013-01-23 17:17:48.861] [INFO] console - [32m[2013-01-23 17:17:48.860] [INFO] console - [39minvoke enter
+
+[2013-01-23 17:17:48.904] [INFO] console - [32m[2013-01-23 17:17:48.904] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 17:17:48.907] [INFO] console - [32m[2013-01-23 17:17:48.906] [INFO] console - [39m[ { id: 92,
+    pointx: 597.3333,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' } ]
+
+[2013-01-23 17:19:45.699] [INFO] console - [32m[2013-01-23 17:19:45.699] [INFO] console - [39minvoke enter
+
+[2013-01-23 17:19:45.762] [INFO] console - [32m[2013-01-23 17:19:45.762] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-23 17:19:45.765] [INFO] console - [32m[2013-01-23 17:19:45.764] [INFO] console - [39m[ { id: 92,
+    pointx: 597.3333,
+    pointy: 307.2,
+    png: 'building1.png',
+    category: 'military' } ]
+
+[2013-01-23 17:19:51.624] [INFO] console - [32m[2013-01-23 17:19:51.624] [INFO] console - [39minvoke deleteArchitecture
+
+[2013-01-23 17:19:51.624] [INFO] console - [32m[2013-01-23 17:19:51.624] [INFO] console - [39m92
+[32m[2013-01-23 17:19:51.624] [INFO] console - [39mdelete from architecture where id = ?
+
