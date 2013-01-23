@@ -32,7 +32,7 @@
       <file leaf-file-name="entryHandler.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="78" column="24" selection-start="1976" selection-end="1996" vertical-scroll-proportion="1.5919282">
+            <state line="15" column="25" selection-start="384" selection-end="384" vertical-scroll-proportion="0.17937219">
               <folding />
             </state>
           </provider>
@@ -232,7 +232,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="817" extended-state="6" />
+    <frame x="0" y="22" width="1440" height="817" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -322,7 +322,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/game-server/app/servers/connector/handler/entryHandler.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="24" selection-start="1976" selection-end="1996" vertical-scroll-proportion="1.5919282">
+        <state line="15" column="25" selection-start="384" selection-end="384" vertical-scroll-proportion="0.17937219">
           <folding />
         </state>
       </provider>
