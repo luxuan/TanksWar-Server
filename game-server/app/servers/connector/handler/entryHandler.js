@@ -9,14 +9,22 @@ var Handler = function(app) {
 	};
 
 var handler = Handler.prototype;
-/**
- * New client entry chat server.
- *
- * @param  {Object}   msg     request message
- * @param  {Object}   session current session object
- * @param  {Function} next    next stemp callback
- * @return {Void}
- */
+
+handler.increaseArchitectureLevel = function(msg,session,next){
+    architectureDAO.increaseArchitectureLevel(msg,function(err,result){
+
+
+            if(err)
+            {
+                logger.error('incresseLevel failed!');
+                next(new Error('fail to incresseLevel'));
+            }else{
+                next(null, {code: 200, result: result});
+            }
+
+    });
+
+}
 
 
 handler.getArchitecture = function(msg, session, next) {
@@ -48,8 +56,8 @@ handler.getArchitecture = function(msg, session, next) {
 
 handler.addArchitecture  = function(msg, session, next) {
 	console.log("invoke addArchitecture");
-	console.log(msg.pointx);
-	architectureDAO.createArchitecture(msg.pointx,msg.pointy, msg.png,msg.category, function(err,Resources) {
+//	console.log(msg.pointx+","+msg.alevel);
+	architectureDAO.createArchitecture(msg, function(err,Resources) {
 		if (err) {
 			logger.error('getGoldById0 failed!');
 			next(new Error('fail to getGoldById0'));

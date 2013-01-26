@@ -9531,3 +9531,1402 @@
 [2013-01-23 17:19:51.624] [INFO] console - [32m[2013-01-23 17:19:51.624] [INFO] console - [39m92
 [32m[2013-01-23 17:19:51.624] [INFO] console - [39mdelete from architecture where id = ?
 
+[2013-01-26 10:09:26.092] [INFO] /node_modules/pomelo/lib/application.js - application inited: "master-server-1"
+[2013-01-26 10:09:26.559] [INFO] console - info: 'socket.io started'
+[2013-01-26 10:09:26.560] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-1 locally
+[2013-01-26 10:09:26.563] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-2 locally
+[2013-01-26 10:09:26.565] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-3 locally
+[2013-01-26 10:09:26.566] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-1 locally
+[2013-01-26 10:09:26.568] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-2 locally
+[2013-01-26 10:09:26.569] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-3 locally
+[2013-01-26 10:09:26.571] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=gate serverId=gate-server-1 locally
+[2013-01-26 10:09:26.574] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "master", "127.0.0.1", 3005
+[2013-01-26 10:09:26.706] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "master-server-1", "master"
+[2013-01-26 10:09:26.707] [INFO] console - [32m[2013-01-26 10:09:26.683] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 10:09:26.707] [INFO] console - [32m[2013-01-26 10:09:26.683] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 10:09:26.708] [INFO] console - [32m[2013-01-26 10:09:26.685] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 10:09:26.711] [INFO] console - [32m[2013-01-26 10:09:26.688] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 10:09:26.712] [INFO] console - [32m[2013-01-26 10:09:26.711] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-1"
+
+[2013-01-26 10:09:26.713] [INFO] console - [32m[2013-01-26 10:09:26.712] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-2"
+
+[2013-01-26 10:09:26.718] [INFO] console - [32m[2013-01-26 10:09:26.693] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 10:09:26.718] [INFO] console - [32m[2013-01-26 10:09:26.717] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-3"
+
+[2013-01-26 10:09:26.724] [INFO] console - [32m[2013-01-26 10:09:26.694] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 10:09:26.725] [INFO] console - [32m[2013-01-26 10:09:26.724] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-1"
+
+[2013-01-26 10:09:26.729] [INFO] console - [32m[2013-01-26 10:09:26.695] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 10:09:26.733] [INFO] console - [32m[2013-01-26 10:09:26.733] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-3"
+
+[2013-01-26 10:09:26.741] [INFO] console - [32m[2013-01-26 10:09:26.741] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "gate-server-1"
+
+[2013-01-26 10:09:26.742] [INFO] console - [32m[2013-01-26 10:09:26.741] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-2"
+
+[2013-01-26 10:09:27.221] [INFO] console - [32m[2013-01-26 10:09:27.220] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 10:09:27.224] [INFO] console - [32m[2013-01-26 10:09:27.222] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 10:09:27.226] [INFO] console - [32m[2013-01-26 10:09:27.225] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 10:09:27.228] [INFO] console - [32m[2013-01-26 10:09:27.227] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 10:09:27.229] [INFO] console - [32m[2013-01-26 10:09:27.227] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 10:09:27.233] [INFO] console - [32m[2013-01-26 10:09:27.233] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-26 10:09:27.234] [INFO] console - [32m[2013-01-26 10:09:27.233] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 10:09:27.235] [INFO] console - [32m[2013-01-26 10:09:27.235] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-26 10:09:27.236] [INFO] console - [32m[2013-01-26 10:09:27.235] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-26 10:09:27.236] [INFO] console - [32m[2013-01-26 10:09:27.236] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "gate", "127.0.0.1", 3005
+
+[2013-01-26 10:09:27.278] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-3", "chat"
+[2013-01-26 10:09:27.282] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-2", "chat"
+[2013-01-26 10:09:27.284] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-1", "chat"
+[2013-01-26 10:09:27.290] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "gate-server-1", "gate"
+[2013-01-26 10:09:27.456] [INFO] console - [32m[2013-01-26 10:09:27.456] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-26 10:09:27.456] [INFO] console - [32m[2013-01-26 10:09:27.456] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-26 10:09:27.458] [INFO] console - [32m[2013-01-26 10:09:27.458] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-26 10:09:27.487] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-3", "connector"
+[2013-01-26 10:09:27.488] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-1", "connector"
+[2013-01-26 10:09:27.491] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-2", "connector"
+[2013-01-26 10:09:27.491] [INFO] /node_modules/pomelo/lib/master/master.js - [master] all servers have started and notify after start now...
+[2013-01-26 10:09:27.492] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "master-server-1"
+[2013-01-26 10:09:27.492] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "master-server-1" started.
+[2013-01-26 10:09:27.493] [INFO] console - [36m[2013-01-26 10:09:27.493] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-1"
+
+[2013-01-26 10:09:27.494] [INFO] console - [36m[2013-01-26 10:09:27.492] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-3"
+
+[2013-01-26 10:09:27.494] [INFO] console - [36m[2013-01-26 10:09:27.492] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "gate-server-1"
+
+[2013-01-26 10:09:27.494] [INFO] console - [36m[2013-01-26 10:09:27.492] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-2"
+[32m[2013-01-26 10:09:27.493] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-26 10:09:27.493] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-2" started.
+
+[2013-01-26 10:09:27.494] [INFO] console - [36m[2013-01-26 10:09:27.492] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-1"
+[32m[2013-01-26 10:09:27.492] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-1" started.
+
+[2013-01-26 10:09:27.494] [INFO] console - [36m[2013-01-26 10:09:27.491] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-2"
+[32m[2013-01-26 10:09:27.492] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-2" started.
+
+[2013-01-26 10:09:27.494] [INFO] console - [36m[2013-01-26 10:09:27.491] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-3"
+[32m[2013-01-26 10:09:27.492] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-3" started.
+
+[2013-01-26 10:09:27.495] [INFO] console - [32m[2013-01-26 10:09:27.494] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-26 10:09:27.494] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-1" started.
+
+[2013-01-26 10:09:27.495] [INFO] console - [32m[2013-01-26 10:09:27.494] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-26 10:09:27.494] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-3" started.
+
+[2013-01-26 10:09:27.496] [INFO] console - [32m[2013-01-26 10:09:27.495] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 10:09:27.496] [INFO] console - [32m[2013-01-26 10:09:27.496] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "gate-server-1" started.
+
+[2013-01-26 10:10:04.774] [INFO] console - [32m[2013-01-26 10:10:04.774] [INFO] console - [39minvoke enter
+
+[2013-01-26 10:10:04.889] [INFO] console - [32m[2013-01-26 10:10:04.889] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-26 10:10:05.067] [INFO] console - [32m[2013-01-26 10:10:05.067] [INFO] console - [39m[]
+
+[2013-01-26 10:10:18.392] [INFO] console - [32m[2013-01-26 10:10:18.392] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-26 10:10:18.393] [INFO] console - [32m[2013-01-26 10:10:18.392] [INFO] console - [39m512
+
+[2013-01-26 10:10:52.017] [INFO] console - [32m[2013-01-26 10:10:52.016] [INFO] console - [39minvoke enter
+
+[2013-01-26 10:10:52.064] [INFO] console - [32m[2013-01-26 10:10:52.063] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-26 10:10:52.069] [INFO] console - [32m[2013-01-26 10:10:52.068] [INFO] console - [39m[ { id: 1,
+    pointx: 512,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' } ]
+
+[2013-01-26 10:15:19.484] [INFO] console - [32m[2013-01-26 10:15:19.484] [INFO] console - [39minvoke enter
+
+[2013-01-26 10:15:19.527] [INFO] console - [32m[2013-01-26 10:15:19.527] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-26 10:15:19.531] [INFO] console - [32m[2013-01-26 10:15:19.531] [INFO] console - [39m[ { id: 1,
+    pointx: 512,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military',
+    alevel: null } ]
+
+[2013-01-26 10:15:57.546] [INFO] console - [32m[2013-01-26 10:15:57.546] [INFO] console - [39minvoke enter
+
+[2013-01-26 10:15:57.554] [INFO] console - [32m[2013-01-26 10:15:57.554] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-26 10:15:57.557] [INFO] console - [32m[2013-01-26 10:15:57.557] [INFO] console - [39m[ { id: 1,
+    pointx: 512,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military',
+    alevel: null } ]
+
+[2013-01-26 10:15:58.902] [INFO] console - [32m[2013-01-26 10:15:58.902] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-26 10:15:58.903] [INFO] console - [32m[2013-01-26 10:15:58.902] [INFO] console - [39m341.3333
+
+[2013-01-26 10:17:08.857] [INFO] /node_modules/pomelo/lib/application.js - application inited: "master-server-1"
+[2013-01-26 10:17:09.025] [INFO] console - info: 'socket.io started'
+[2013-01-26 10:17:09.029] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-1 locally
+[2013-01-26 10:17:09.032] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-2 locally
+[2013-01-26 10:17:09.033] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-3 locally
+[2013-01-26 10:17:09.035] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-1 locally
+[2013-01-26 10:17:09.038] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-2 locally
+[2013-01-26 10:17:09.040] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-3 locally
+[2013-01-26 10:17:09.042] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=gate serverId=gate-server-1 locally
+[2013-01-26 10:17:09.046] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "master", "127.0.0.1", 3005
+[2013-01-26 10:17:09.137] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "master-server-1", "master"
+[2013-01-26 10:17:09.172] [INFO] console - [32m[2013-01-26 10:17:09.157] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 10:17:09.186] [INFO] console - [32m[2013-01-26 10:17:09.169] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 10:17:09.190] [INFO] console - [32m[2013-01-26 10:17:09.190] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-1"
+
+[2013-01-26 10:17:09.193] [INFO] console - [32m[2013-01-26 10:17:09.177] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 10:17:09.198] [INFO] console - [32m[2013-01-26 10:17:09.173] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 10:17:09.204] [INFO] console - [32m[2013-01-26 10:17:09.173] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 10:17:09.204] [INFO] console - [32m[2013-01-26 10:17:09.203] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-3"
+
+[2013-01-26 10:17:09.209] [INFO] console - [32m[2013-01-26 10:17:09.209] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-3"
+
+[2013-01-26 10:17:09.211] [INFO] console - [32m[2013-01-26 10:17:09.188] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 10:17:09.215] [INFO] console - [32m[2013-01-26 10:17:09.214] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-2"
+
+[2013-01-26 10:17:09.218] [INFO] console - [32m[2013-01-26 10:17:09.186] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 10:17:09.225] [INFO] console - [32m[2013-01-26 10:17:09.224] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-2"
+
+[2013-01-26 10:17:09.233] [INFO] console - [32m[2013-01-26 10:17:09.232] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-1"
+
+[2013-01-26 10:17:09.237] [INFO] console - [32m[2013-01-26 10:17:09.236] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "gate-server-1"
+
+[2013-01-26 10:17:09.610] [INFO] console - [32m[2013-01-26 10:17:09.607] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 10:17:09.617] [INFO] console - [32m[2013-01-26 10:17:09.616] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 10:17:09.620] [INFO] console - [32m[2013-01-26 10:17:09.619] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-26 10:17:09.640] [INFO] console - [32m[2013-01-26 10:17:09.639] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 10:17:09.643] [INFO] console - [32m[2013-01-26 10:17:09.642] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 10:17:09.648] [INFO] console - [32m[2013-01-26 10:17:09.647] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-26 10:17:09.652] [INFO] console - [32m[2013-01-26 10:17:09.651] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "gate", "127.0.0.1", 3005
+
+[2013-01-26 10:17:09.653] [INFO] console - [32m[2013-01-26 10:17:09.652] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 10:17:09.654] [INFO] console - [32m[2013-01-26 10:17:09.653] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-26 10:17:09.654] [INFO] console - [32m[2013-01-26 10:17:09.652] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 10:17:09.664] [INFO] console - [32m[2013-01-26 10:17:09.663] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-26 10:17:09.688] [INFO] console - [32m[2013-01-26 10:17:09.686] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-26 10:17:09.689] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-3", "chat"
+[2013-01-26 10:17:09.692] [INFO] console - [32m[2013-01-26 10:17:09.691] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-26 10:17:09.700] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-1", "connector"
+[2013-01-26 10:17:09.710] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-2", "chat"
+[2013-01-26 10:17:09.721] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-1", "chat"
+[2013-01-26 10:17:09.722] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "gate-server-1", "gate"
+[2013-01-26 10:17:09.728] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-2", "connector"
+[2013-01-26 10:17:09.733] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-3", "connector"
+[2013-01-26 10:17:09.734] [INFO] /node_modules/pomelo/lib/master/master.js - [master] all servers have started and notify after start now...
+[2013-01-26 10:17:09.735] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "master-server-1"
+[2013-01-26 10:17:09.735] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "master-server-1" started.
+[2013-01-26 10:17:09.735] [INFO] console - [36m[2013-01-26 10:17:09.734] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "gate-server-1"
+
+[2013-01-26 10:17:09.735] [INFO] console - [36m[2013-01-26 10:17:09.734] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-3"
+[32m[2013-01-26 10:17:09.735] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-3" started.
+
+[2013-01-26 10:17:09.736] [INFO] console - [36m[2013-01-26 10:17:09.734] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-2"
+
+[2013-01-26 10:17:09.736] [INFO] console - [36m[2013-01-26 10:17:09.734] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-1"
+[32m[2013-01-26 10:17:09.735] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-1" started.
+
+[2013-01-26 10:17:09.736] [INFO] console - [36m[2013-01-26 10:17:09.734] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-3"
+[32m[2013-01-26 10:17:09.736] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 10:17:09.736] [INFO] console - [36m[2013-01-26 10:17:09.734] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-2"
+[32m[2013-01-26 10:17:09.735] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-2" started.
+
+[2013-01-26 10:17:09.736] [INFO] console - [36m[2013-01-26 10:17:09.734] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-1"
+[32m[2013-01-26 10:17:09.736] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-26 10:17:09.736] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-1" started.
+
+[2013-01-26 10:17:09.737] [INFO] console - [32m[2013-01-26 10:17:09.736] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-26 10:17:09.736] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-2" started.
+
+[2013-01-26 10:17:09.737] [INFO] console - [32m[2013-01-26 10:17:09.736] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-3" started.
+
+[2013-01-26 10:17:09.738] [INFO] console - [32m[2013-01-26 10:17:09.738] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 10:17:09.739] [INFO] console - [32m[2013-01-26 10:17:09.738] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "gate-server-1" started.
+
+[2013-01-26 10:17:17.534] [INFO] console - [32m[2013-01-26 10:17:17.532] [INFO] console - [39minvoke enter
+
+[2013-01-26 10:17:17.619] [INFO] console - [32m[2013-01-26 10:17:17.619] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-26 10:17:17.659] [INFO] console - [32m[2013-01-26 10:17:17.658] [INFO] console - [39m[ { id: 1,
+    pointx: 512,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military',
+    alevel: null },
+  { id: 2,
+    pointx: 341.3333,
+    pointy: 460.8,
+    png: 'building2.png',
+    category: 'military',
+    alevel: null } ]
+
+[2013-01-26 10:17:18.945] [INFO] console - [32m[2013-01-26 10:17:18.945] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-26 10:17:18.945] [INFO] console - [32m[2013-01-26 10:17:18.945] [INFO] console - [39m426.6667,undefined
+
+[2013-01-26 10:17:58.172] [INFO] console - [32m[2013-01-26 10:17:58.172] [INFO] console - [39minvoke enter
+
+[2013-01-26 10:17:58.217] [INFO] console - [32m[2013-01-26 10:17:58.217] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-26 10:17:58.222] [INFO] console - [32m[2013-01-26 10:17:58.221] [INFO] console - [39m[ { id: 1,
+    pointx: 512,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military',
+    alevel: null },
+  { id: 2,
+    pointx: 341.3333,
+    pointy: 460.8,
+    png: 'building2.png',
+    category: 'military',
+    alevel: null },
+  { id: 3,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: null } ]
+
+[2013-01-26 10:18:00.335] [INFO] console - [32m[2013-01-26 10:18:00.335] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-26 10:18:00.335] [INFO] console - [32m[2013-01-26 10:18:00.335] [INFO] console - [39m426.6667,1
+
+[2013-01-26 10:18:36.229] [INFO] console - [32m[2013-01-26 10:18:36.229] [INFO] console - [39minvoke enter
+
+[2013-01-26 10:18:36.275] [INFO] console - [32m[2013-01-26 10:18:36.275] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-26 10:18:36.279] [INFO] console - [32m[2013-01-26 10:18:36.279] [INFO] console - [39m[]
+
+[2013-01-26 10:18:38.197] [INFO] console - [32m[2013-01-26 10:18:38.197] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-26 10:18:38.197] [INFO] console - [32m[2013-01-26 10:18:38.197] [INFO] console - [39m341.3333,1
+
+[2013-01-26 10:18:39.749] [INFO] console - [32m[2013-01-26 10:18:39.747] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-26 10:18:39.749] [INFO] console - [32m[2013-01-26 10:18:39.749] [INFO] console - [39m512,1
+
+[2013-01-26 10:18:41.281] [INFO] console - [32m[2013-01-26 10:18:41.280] [INFO] console - [39minvoke addArchitecture
+
+[2013-01-26 10:18:41.281] [INFO] console - [32m[2013-01-26 10:18:41.281] [INFO] console - [39m512,1
+
+[2013-01-26 10:32:06.129] [INFO] console - [32m[2013-01-26 10:32:06.128] [INFO] console - [39minvoke enter
+
+[2013-01-26 10:32:06.171] [INFO] console - [32m[2013-01-26 10:32:06.171] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-26 10:32:06.175] [INFO] console - [32m[2013-01-26 10:32:06.174] [INFO] console - [39m[ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 } ]
+
+[2013-01-26 10:33:20.694] [INFO] console - [32m[2013-01-26 10:33:20.693] [INFO] console - [39minvoke enter
+
+[2013-01-26 10:33:20.742] [INFO] console - [32m[2013-01-26 10:33:20.741] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-26 10:33:20.745] [INFO] console - [32m[2013-01-26 10:33:20.744] [INFO] console - [39m[ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 } ]
+
+[2013-01-26 10:34:31.887] [INFO] console - [32m[2013-01-26 10:34:31.887] [INFO] console - [39minvoke enter
+
+[2013-01-26 10:34:31.930] [INFO] console - [32m[2013-01-26 10:34:31.929] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-26 10:34:31.933] [INFO] console - [32m[2013-01-26 10:34:31.932] [INFO] console - [39m[ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 } ]
+
+[2013-01-26 11:10:09.040] [INFO] /node_modules/pomelo/lib/application.js - application inited: "master-server-1"
+[2013-01-26 11:10:09.198] [INFO] console - info: 'socket.io started'
+[2013-01-26 11:10:09.201] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-1 locally
+[2013-01-26 11:10:09.204] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-2 locally
+[2013-01-26 11:10:09.206] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-3 locally
+[2013-01-26 11:10:09.208] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-1 locally
+[2013-01-26 11:10:09.209] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-2 locally
+[2013-01-26 11:10:09.211] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-3 locally
+[2013-01-26 11:10:09.213] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=gate serverId=gate-server-1 locally
+[2013-01-26 11:10:09.216] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "master", "127.0.0.1", 3005
+[2013-01-26 11:10:09.294] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "master-server-1", "master"
+[2013-01-26 11:10:09.340] [INFO] console - [32m[2013-01-26 11:10:09.325] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:10:09.345] [INFO] console - [32m[2013-01-26 11:10:09.326] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:10:09.350] [INFO] console - [32m[2013-01-26 11:10:09.330] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:10:09.352] [INFO] console - [32m[2013-01-26 11:10:09.351] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-1"
+
+[2013-01-26 11:10:09.356] [INFO] console - [32m[2013-01-26 11:10:09.356] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-2"
+
+[2013-01-26 11:10:09.357] [INFO] console - [32m[2013-01-26 11:10:09.333] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:10:09.362] [INFO] console - [32m[2013-01-26 11:10:09.331] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:10:09.367] [INFO] console - [32m[2013-01-26 11:10:09.367] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-1"
+
+[2013-01-26 11:10:09.369] [INFO] console - [32m[2013-01-26 11:10:09.335] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:10:09.372] [INFO] console - [32m[2013-01-26 11:10:09.371] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-3"
+
+[2013-01-26 11:10:09.376] [INFO] console - [32m[2013-01-26 11:10:09.337] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:10:09.378] [INFO] console - [32m[2013-01-26 11:10:09.377] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-2"
+
+[2013-01-26 11:10:09.385] [INFO] console - [32m[2013-01-26 11:10:09.385] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-3"
+
+[2013-01-26 11:10:09.395] [INFO] console - [32m[2013-01-26 11:10:09.394] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "gate-server-1"
+
+[2013-01-26 11:10:09.744] [INFO] console - [32m[2013-01-26 11:10:09.743] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:10:09.744] [INFO] console - [32m[2013-01-26 11:10:09.743] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:10:09.747] [INFO] console - [32m[2013-01-26 11:10:09.745] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:10:09.756] [INFO] console - [32m[2013-01-26 11:10:09.755] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:10:09.765] [INFO] console - [32m[2013-01-26 11:10:09.764] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:10:09.768] [INFO] console - [32m[2013-01-26 11:10:09.767] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-26 11:10:09.778] [INFO] console - [32m[2013-01-26 11:10:09.776] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-26 11:10:09.779] [INFO] console - [32m[2013-01-26 11:10:09.776] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:10:09.780] [INFO] console - [32m[2013-01-26 11:10:09.778] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-26 11:10:09.782] [INFO] console - [32m[2013-01-26 11:10:09.782] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-26 11:10:09.785] [INFO] console - [32m[2013-01-26 11:10:09.785] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-26 11:10:09.786] [INFO] console - [32m[2013-01-26 11:10:09.785] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "gate", "127.0.0.1", 3005
+
+[2013-01-26 11:10:09.792] [INFO] console - [32m[2013-01-26 11:10:09.791] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-26 11:10:09.821] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-1", "chat"
+[2013-01-26 11:10:09.823] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-3", "connector"
+[2013-01-26 11:10:09.825] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-1", "connector"
+[2013-01-26 11:10:09.832] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-2", "connector"
+[2013-01-26 11:10:09.835] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-2", "chat"
+[2013-01-26 11:10:09.840] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "gate-server-1", "gate"
+[2013-01-26 11:10:09.840] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-3", "chat"
+[2013-01-26 11:10:09.840] [INFO] /node_modules/pomelo/lib/master/master.js - [master] all servers have started and notify after start now...
+[2013-01-26 11:10:09.841] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "master-server-1"
+[2013-01-26 11:10:09.842] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "master-server-1" started.
+[2013-01-26 11:10:09.842] [INFO] console - [36m[2013-01-26 11:10:09.841] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-3"
+[32m[2013-01-26 11:10:09.842] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-3" started.
+
+[2013-01-26 11:10:09.842] [INFO] console - [36m[2013-01-26 11:10:09.841] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "gate-server-1"
+
+[2013-01-26 11:10:09.843] [INFO] console - [36m[2013-01-26 11:10:09.841] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-2"
+[32m[2013-01-26 11:10:09.842] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-2" started.
+
+[2013-01-26 11:10:09.843] [INFO] console - [36m[2013-01-26 11:10:09.841] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-2"
+
+[2013-01-26 11:10:09.843] [INFO] console - [36m[2013-01-26 11:10:09.841] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-1"
+[32m[2013-01-26 11:10:09.842] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-1" started.
+
+[2013-01-26 11:10:09.843] [INFO] console - [36m[2013-01-26 11:10:09.841] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-1"
+[32m[2013-01-26 11:10:09.843] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-26 11:10:09.843] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-1" started.
+
+[2013-01-26 11:10:09.843] [INFO] console - [36m[2013-01-26 11:10:09.841] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-3"
+[32m[2013-01-26 11:10:09.843] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-26 11:10:09.843] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-3" started.
+
+[2013-01-26 11:10:09.843] [INFO] console - [32m[2013-01-26 11:10:09.843] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:10:09.843] [INFO] console - [32m[2013-01-26 11:10:09.843] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-2" started.
+
+[2013-01-26 11:10:09.845] [INFO] console - [32m[2013-01-26 11:10:09.845] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:10:09.845] [INFO] console - [32m[2013-01-26 11:10:09.845] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "gate-server-1" started.
+
+[2013-01-26 11:34:40.884] [INFO] console - [32m[2013-01-26 11:34:40.883] [INFO] console - [39minvoke enter
+
+[2013-01-26 11:34:40.935] [INFO] console - [32m[2013-01-26 11:34:40.934] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-26 11:34:40.974] [INFO] console - [32m[2013-01-26 11:34:40.973] [INFO] console - [39m[ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 } ]
+
+[2013-01-26 11:34:43.183] [INFO] /node_modules/pomelo/lib/application.js - application inited: "master-server-1"
+[2013-01-26 11:34:43.351] [INFO] console - info: 'socket.io started'
+[2013-01-26 11:34:43.356] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-1 locally
+[2013-01-26 11:34:43.359] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-2 locally
+[2013-01-26 11:34:43.361] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-3 locally
+[2013-01-26 11:34:43.362] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-1 locally
+[2013-01-26 11:34:43.364] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-2 locally
+[2013-01-26 11:34:43.365] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-3 locally
+[2013-01-26 11:34:43.367] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=gate serverId=gate-server-1 locally
+[2013-01-26 11:34:43.371] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "master", "127.0.0.1", 3005
+[2013-01-26 11:34:43.451] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "master-server-1", "master"
+[2013-01-26 11:34:43.508] [INFO] console - [32m[2013-01-26 11:34:43.492] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:34:43.516] [INFO] console - [32m[2013-01-26 11:34:43.495] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:34:43.522] [INFO] console - [32m[2013-01-26 11:34:43.521] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-1"
+
+[2013-01-26 11:34:43.522] [INFO] console - [32m[2013-01-26 11:34:43.502] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:34:43.527] [INFO] console - [32m[2013-01-26 11:34:43.501] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:34:43.530] [INFO] console - [32m[2013-01-26 11:34:43.529] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-3"
+
+[2013-01-26 11:34:43.535] [INFO] console - [32m[2013-01-26 11:34:43.504] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:34:43.539] [INFO] console - [32m[2013-01-26 11:34:43.539] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-2"
+
+[2013-01-26 11:34:43.542] [INFO] console - [32m[2013-01-26 11:34:43.506] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:34:43.547] [INFO] console - [32m[2013-01-26 11:34:43.544] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-2"
+
+[2013-01-26 11:34:43.554] [INFO] console - [32m[2013-01-26 11:34:43.553] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-1"
+
+[2013-01-26 11:34:43.555] [INFO] console - [32m[2013-01-26 11:34:43.530] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:34:43.563] [INFO] console - [32m[2013-01-26 11:34:43.562] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-3"
+
+[2013-01-26 11:34:43.581] [INFO] console - [32m[2013-01-26 11:34:43.580] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "gate-server-1"
+
+[2013-01-26 11:34:43.971] [INFO] console - [32m[2013-01-26 11:34:43.970] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:34:43.976] [INFO] console - [32m[2013-01-26 11:34:43.975] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:34:43.983] [INFO] console - [32m[2013-01-26 11:34:43.982] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:34:43.988] [INFO] console - [32m[2013-01-26 11:34:43.987] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-26 11:34:44.001] [INFO] console - [32m[2013-01-26 11:34:44.000] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:34:44.001] [INFO] console - [32m[2013-01-26 11:34:44.000] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:34:44.013] [INFO] console - [32m[2013-01-26 11:34:44.012] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-26 11:34:44.015] [INFO] console - [32m[2013-01-26 11:34:44.014] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-26 11:34:44.022] [INFO] console - [32m[2013-01-26 11:34:44.022] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-26 11:34:44.028] [INFO] console - [32m[2013-01-26 11:34:44.025] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:34:44.033] [INFO] console - [32m[2013-01-26 11:34:44.032] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-26 11:34:44.034] [INFO] console - [32m[2013-01-26 11:34:44.031] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "gate", "127.0.0.1", 3005
+
+[2013-01-26 11:34:44.058] [INFO] console - [32m[2013-01-26 11:34:44.058] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-26 11:34:44.063] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-3", "chat"
+[2013-01-26 11:34:44.084] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-2", "chat"
+[2013-01-26 11:34:44.099] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-1", "chat"
+[2013-01-26 11:34:44.103] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-3", "connector"
+[2013-01-26 11:34:44.106] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "gate-server-1", "gate"
+[2013-01-26 11:34:44.115] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-1", "connector"
+[2013-01-26 11:34:44.136] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-2", "connector"
+[2013-01-26 11:34:44.136] [INFO] /node_modules/pomelo/lib/master/master.js - [master] all servers have started and notify after start now...
+[2013-01-26 11:34:44.137] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "master-server-1"
+[2013-01-26 11:34:44.138] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "master-server-1" started.
+[2013-01-26 11:34:44.139] [INFO] console - [36m[2013-01-26 11:34:44.138] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-2"
+
+[2013-01-26 11:34:44.139] [INFO] console - [36m[2013-01-26 11:34:44.138] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-1"
+
+[2013-01-26 11:34:44.139] [INFO] console - [36m[2013-01-26 11:34:44.137] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "gate-server-1"
+
+[2013-01-26 11:34:44.139] [INFO] console - [36m[2013-01-26 11:34:44.137] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-3"
+
+[2013-01-26 11:34:44.139] [INFO] console - [36m[2013-01-26 11:34:44.137] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-2"
+[32m[2013-01-26 11:34:44.138] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-2" started.
+
+[2013-01-26 11:34:44.139] [INFO] console - [36m[2013-01-26 11:34:44.137] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-3"
+[32m[2013-01-26 11:34:44.138] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-3" started.
+
+[2013-01-26 11:34:44.139] [INFO] console - [36m[2013-01-26 11:34:44.138] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-1"
+
+[2013-01-26 11:34:44.140] [INFO] console - [32m[2013-01-26 11:34:44.139] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-1" started.
+
+[2013-01-26 11:34:44.140] [INFO] console - [32m[2013-01-26 11:34:44.139] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-26 11:34:44.139] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-3" started.
+
+[2013-01-26 11:34:44.140] [INFO] console - [32m[2013-01-26 11:34:44.140] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:34:44.140] [INFO] console - [32m[2013-01-26 11:34:44.140] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-2" started.
+
+[2013-01-26 11:34:44.141] [INFO] console - [32m[2013-01-26 11:34:44.140] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:34:44.141] [INFO] console - [32m[2013-01-26 11:34:44.141] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-1" started.
+
+[2013-01-26 11:34:44.143] [INFO] console - [32m[2013-01-26 11:34:44.143] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:34:44.143] [INFO] console - [32m[2013-01-26 11:34:44.143] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "gate-server-1" started.
+
+[2013-01-26 11:34:49.122] [INFO] console - [32m[2013-01-26 11:34:49.121] [INFO] console - [39minvoke enter
+
+[2013-01-26 11:34:49.217] [INFO] console - [32m[2013-01-26 11:34:49.217] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-26 11:34:49.258] [INFO] console - [32m[2013-01-26 11:34:49.257] [INFO] console - [39m[ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 } ]
+
+[2013-01-26 11:34:52.112] [INFO] console - [31m[2013-01-26 11:34:52.112] [ERROR] /node_modules/pomelo/lib/common/service/handlerService.js - [39m[handleManager]: fail to find handler for "connector.entryHandler.increaseArchitectureLevel"
+
+[2013-01-26 11:34:52.113] [INFO] console - [36m[2013-01-26 11:34:52.113] [DEBUG] /node_modules/pomelo/lib/server/server.js - [39mno default error handler to resolve unknown exception. Error: fail to find handler for connector.entryHandler.increaseArchitectureLevel
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:29:8)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+
+[2013-01-26 11:34:53.679] [INFO] console - [31m[2013-01-26 11:34:53.679] [ERROR] /node_modules/pomelo/lib/common/service/handlerService.js - [39m[handleManager]: fail to find handler for "connector.entryHandler.increaseArchitectureLevel"
+
+[2013-01-26 11:34:53.680] [INFO] console - [36m[2013-01-26 11:34:53.680] [DEBUG] /node_modules/pomelo/lib/server/server.js - [39mno default error handler to resolve unknown exception. Error: fail to find handler for connector.entryHandler.increaseArchitectureLevel
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:29:8)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+
+[2013-01-26 11:47:17.516] [INFO] /node_modules/pomelo/lib/application.js - application inited: "master-server-1"
+[2013-01-26 11:47:17.691] [INFO] console - info: 'socket.io started'
+[2013-01-26 11:47:17.692] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-1 locally
+[2013-01-26 11:47:17.697] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-2 locally
+[2013-01-26 11:47:17.698] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-3 locally
+[2013-01-26 11:47:17.700] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-1 locally
+[2013-01-26 11:47:17.702] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-2 locally
+[2013-01-26 11:47:17.704] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-3 locally
+[2013-01-26 11:47:17.706] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=gate serverId=gate-server-1 locally
+[2013-01-26 11:47:17.710] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "master", "127.0.0.1", 3005
+[2013-01-26 11:47:17.789] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "master-server-1", "master"
+[2013-01-26 11:47:17.851] [INFO] console - [32m[2013-01-26 11:47:17.834] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:47:17.855] [INFO] console - [32m[2013-01-26 11:47:17.838] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:47:17.863] [INFO] console - [32m[2013-01-26 11:47:17.843] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:47:17.867] [INFO] console - [32m[2013-01-26 11:47:17.843] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:47:17.869] [INFO] console - [32m[2013-01-26 11:47:17.868] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-3"
+
+[2013-01-26 11:47:17.873] [INFO] console - [32m[2013-01-26 11:47:17.872] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-2"
+
+[2013-01-26 11:47:17.874] [INFO] console - [32m[2013-01-26 11:47:17.845] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:47:17.879] [INFO] console - [32m[2013-01-26 11:47:17.878] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-2"
+
+[2013-01-26 11:47:17.880] [INFO] console - [32m[2013-01-26 11:47:17.855] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:47:17.886] [INFO] console - [32m[2013-01-26 11:47:17.884] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-1"
+
+[2013-01-26 11:47:17.890] [INFO] console - [32m[2013-01-26 11:47:17.856] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:47:17.901] [INFO] console - [32m[2013-01-26 11:47:17.900] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-3"
+
+[2013-01-26 11:47:17.903] [INFO] console - [32m[2013-01-26 11:47:17.900] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "gate-server-1"
+
+[2013-01-26 11:47:17.912] [INFO] console - [32m[2013-01-26 11:47:17.908] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-1"
+
+[2013-01-26 11:47:18.303] [INFO] console - [32m[2013-01-26 11:47:18.302] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:47:18.310] [INFO] console - [32m[2013-01-26 11:47:18.309] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:47:18.311] [INFO] console - [32m[2013-01-26 11:47:18.309] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:47:18.316] [INFO] console - [32m[2013-01-26 11:47:18.315] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-26 11:47:18.324] [INFO] console - [32m[2013-01-26 11:47:18.323] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:47:18.325] [INFO] console - [32m[2013-01-26 11:47:18.324] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:47:18.334] [INFO] console - [32m[2013-01-26 11:47:18.334] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "gate", "127.0.0.1", 3005
+
+[2013-01-26 11:47:18.337] [INFO] console - [32m[2013-01-26 11:47:18.336] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:47:18.342] [INFO] console - [32m[2013-01-26 11:47:18.338] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-26 11:47:18.351] [INFO] console - [32m[2013-01-26 11:47:18.351] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-26 11:47:18.353] [INFO] console - [32m[2013-01-26 11:47:18.352] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-26 11:47:18.356] [INFO] console - [32m[2013-01-26 11:47:18.355] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-26 11:47:18.363] [INFO] console - [32m[2013-01-26 11:47:18.363] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-26 11:47:18.377] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-2", "chat"
+[2013-01-26 11:47:18.398] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "gate-server-1", "gate"
+[2013-01-26 11:47:18.399] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-2", "connector"
+[2013-01-26 11:47:18.400] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-3", "connector"
+[2013-01-26 11:47:18.401] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-3", "chat"
+[2013-01-26 11:47:18.405] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-1", "connector"
+[2013-01-26 11:47:18.409] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-1", "chat"
+[2013-01-26 11:47:18.409] [INFO] /node_modules/pomelo/lib/master/master.js - [master] all servers have started and notify after start now...
+[2013-01-26 11:47:18.410] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "master-server-1"
+[2013-01-26 11:47:18.410] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "master-server-1" started.
+[2013-01-26 11:47:18.411] [INFO] console - [36m[2013-01-26 11:47:18.410] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-2"
+
+[2013-01-26 11:47:18.411] [INFO] console - [36m[2013-01-26 11:47:18.410] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-1"
+[32m[2013-01-26 11:47:18.411] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-1" started.
+
+[2013-01-26 11:47:18.412] [INFO] console - [36m[2013-01-26 11:47:18.410] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-3"
+[32m[2013-01-26 11:47:18.411] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-3" started.
+
+[2013-01-26 11:47:18.412] [INFO] console - [36m[2013-01-26 11:47:18.410] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "gate-server-1"
+
+[2013-01-26 11:47:18.412] [INFO] console - [36m[2013-01-26 11:47:18.410] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-1"
+
+[2013-01-26 11:47:18.412] [INFO] console - [36m[2013-01-26 11:47:18.410] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-3"
+[32m[2013-01-26 11:47:18.412] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:47:18.412] [INFO] console - [36m[2013-01-26 11:47:18.410] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-2"
+[32m[2013-01-26 11:47:18.412] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-26 11:47:18.412] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-2" started.
+
+[2013-01-26 11:47:18.412] [INFO] console - [32m[2013-01-26 11:47:18.411] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-2" started.
+
+[2013-01-26 11:47:18.412] [INFO] console - [32m[2013-01-26 11:47:18.412] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-26 11:47:18.412] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-1" started.
+
+[2013-01-26 11:47:18.413] [INFO] console - [32m[2013-01-26 11:47:18.412] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-3" started.
+
+[2013-01-26 11:47:18.414] [INFO] console - [32m[2013-01-26 11:47:18.414] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:47:18.414] [INFO] console - [32m[2013-01-26 11:47:18.414] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "gate-server-1" started.
+
+[2013-01-26 11:47:27.073] [INFO] console - [32m[2013-01-26 11:47:27.073] [INFO] console - [39minvoke enter
+
+[2013-01-26 11:47:27.118] [INFO] console - [32m[2013-01-26 11:47:27.118] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-26 11:47:27.159] [INFO] console - [32m[2013-01-26 11:47:27.157] [INFO] console - [39m[ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 } ]
+
+[2013-01-26 11:47:31.822] [INFO] console - [31m[2013-01-26 11:47:31.821] [ERROR] /node_modules/pomelo/lib/common/service/handlerService.js - [39m[handleManager]: fail to find handler for "connector.entryHandler.increaseArchitectureLevel"
+
+[2013-01-26 11:47:31.822] [INFO] console - [36m[2013-01-26 11:47:31.822] [DEBUG] /node_modules/pomelo/lib/server/server.js - [39mno default error handler to resolve unknown exception. Error: fail to find handler for connector.entryHandler.increaseArchitectureLevel
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:29:8)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+
+[2013-01-26 11:47:34.455] [INFO] console - [31m[2013-01-26 11:47:34.455] [ERROR] /node_modules/pomelo/lib/common/service/handlerService.js - [39m[handleManager]: fail to find handler for "connector.entryHandler.increaseArchitectureLevel"
+
+[2013-01-26 11:47:34.456] [INFO] console - [36m[2013-01-26 11:47:34.455] [DEBUG] /node_modules/pomelo/lib/server/server.js - [39mno default error handler to resolve unknown exception. Error: fail to find handler for connector.entryHandler.increaseArchitectureLevel
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:29:8)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+
+[2013-01-26 11:47:35.890] [INFO] console - [31m[2013-01-26 11:47:35.890] [ERROR] /node_modules/pomelo/lib/common/service/handlerService.js - [39m[handleManager]: fail to find handler for "connector.entryHandler.increaseArchitectureLevel"
+
+[2013-01-26 11:47:35.891] [INFO] console - [36m[2013-01-26 11:47:35.890] [DEBUG] /node_modules/pomelo/lib/server/server.js - [39mno default error handler to resolve unknown exception. Error: fail to find handler for connector.entryHandler.increaseArchitectureLevel
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:29:8)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+
+[2013-01-26 11:48:49.390] [INFO] /node_modules/pomelo/lib/application.js - application inited: "master-server-1"
+[2013-01-26 11:48:49.566] [INFO] console - info: 'socket.io started'
+[2013-01-26 11:48:49.567] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-1 locally
+[2013-01-26 11:48:49.571] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-2 locally
+[2013-01-26 11:48:49.572] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-3 locally
+[2013-01-26 11:48:49.574] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-1 locally
+[2013-01-26 11:48:49.576] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-2 locally
+[2013-01-26 11:48:49.578] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-3 locally
+[2013-01-26 11:48:49.579] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=gate serverId=gate-server-1 locally
+[2013-01-26 11:48:49.583] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "master", "127.0.0.1", 3005
+[2013-01-26 11:48:49.661] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "master-server-1", "master"
+[2013-01-26 11:48:49.723] [INFO] console - [32m[2013-01-26 11:48:49.707] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:48:49.729] [INFO] console - [32m[2013-01-26 11:48:49.710] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:48:49.735] [INFO] console - [32m[2013-01-26 11:48:49.710] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:48:49.736] [INFO] console - [32m[2013-01-26 11:48:49.735] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-3"
+
+[2013-01-26 11:48:49.740] [INFO] console - [32m[2013-01-26 11:48:49.715] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:48:49.745] [INFO] console - [32m[2013-01-26 11:48:49.744] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-2"
+
+[2013-01-26 11:48:49.750] [INFO] console - [32m[2013-01-26 11:48:49.716] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:48:49.753] [INFO] console - [32m[2013-01-26 11:48:49.752] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-1"
+
+[2013-01-26 11:48:49.755] [INFO] console - [32m[2013-01-26 11:48:49.717] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:48:49.761] [INFO] console - [32m[2013-01-26 11:48:49.759] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-1"
+
+[2013-01-26 11:48:49.762] [INFO] console - [32m[2013-01-26 11:48:49.732] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:48:49.767] [INFO] console - [32m[2013-01-26 11:48:49.766] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-2"
+
+[2013-01-26 11:48:49.776] [INFO] console - [32m[2013-01-26 11:48:49.775] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-3"
+
+[2013-01-26 11:48:49.786] [INFO] console - [32m[2013-01-26 11:48:49.785] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "gate-server-1"
+
+[2013-01-26 11:48:50.152] [INFO] console - [32m[2013-01-26 11:48:50.150] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:48:50.181] [INFO] console - [32m[2013-01-26 11:48:50.180] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:48:50.181] [INFO] console - [32m[2013-01-26 11:48:50.180] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:48:50.188] [INFO] console - [32m[2013-01-26 11:48:50.187] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:48:50.188] [INFO] console - [32m[2013-01-26 11:48:50.187] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:48:50.190] [INFO] console - [32m[2013-01-26 11:48:50.189] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-26 11:48:50.199] [INFO] console - [32m[2013-01-26 11:48:50.198] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:48:50.199] [INFO] console - [32m[2013-01-26 11:48:50.199] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-26 11:48:50.200] [INFO] console - [32m[2013-01-26 11:48:50.199] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-26 11:48:50.209] [INFO] console - [32m[2013-01-26 11:48:50.209] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-26 11:48:50.223] [INFO] console - [32m[2013-01-26 11:48:50.222] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-26 11:48:50.223] [INFO] console - [32m[2013-01-26 11:48:50.222] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "gate", "127.0.0.1", 3005
+
+[2013-01-26 11:48:50.228] [INFO] console - [32m[2013-01-26 11:48:50.227] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-26 11:48:50.240] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-3", "connector"
+[2013-01-26 11:48:50.261] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-3", "chat"
+[2013-01-26 11:48:50.261] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-1", "chat"
+[2013-01-26 11:48:50.262] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-2", "chat"
+[2013-01-26 11:48:50.266] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-1", "connector"
+[2013-01-26 11:48:50.273] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-2", "connector"
+[2013-01-26 11:48:50.279] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "gate-server-1", "gate"
+[2013-01-26 11:48:50.279] [INFO] /node_modules/pomelo/lib/master/master.js - [master] all servers have started and notify after start now...
+[2013-01-26 11:48:50.281] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "master-server-1"
+[2013-01-26 11:48:50.281] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "master-server-1" started.
+[2013-01-26 11:48:50.282] [INFO] console - [36m[2013-01-26 11:48:50.281] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "gate-server-1"
+
+[2013-01-26 11:48:50.282] [INFO] console - [36m[2013-01-26 11:48:50.280] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-2"
+[32m[2013-01-26 11:48:50.282] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:48:50.282] [INFO] console - [36m[2013-01-26 11:48:50.280] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-2"
+[32m[2013-01-26 11:48:50.280] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-2" started.
+
+[2013-01-26 11:48:50.282] [INFO] console - [36m[2013-01-26 11:48:50.280] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-1"
+[32m[2013-01-26 11:48:50.281] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-26 11:48:50.282] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-1" started.
+
+[2013-01-26 11:48:50.282] [INFO] console - [36m[2013-01-26 11:48:50.280] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-1"
+[32m[2013-01-26 11:48:50.280] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-1" started.
+
+[2013-01-26 11:48:50.282] [INFO] console - [36m[2013-01-26 11:48:50.280] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-3"
+[32m[2013-01-26 11:48:50.280] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-3" started.
+
+[2013-01-26 11:48:50.283] [INFO] console - [36m[2013-01-26 11:48:50.280] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-3"
+[32m[2013-01-26 11:48:50.281] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-26 11:48:50.281] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-3" started.
+
+[2013-01-26 11:48:50.283] [INFO] console - [32m[2013-01-26 11:48:50.282] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-2" started.
+
+[2013-01-26 11:48:50.285] [INFO] console - [32m[2013-01-26 11:48:50.284] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:48:50.285] [INFO] console - [32m[2013-01-26 11:48:50.285] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "gate-server-1" started.
+
+[2013-01-26 11:48:55.421] [INFO] console - [32m[2013-01-26 11:48:55.421] [INFO] console - [39minvoke enter
+
+[2013-01-26 11:48:55.471] [INFO] console - [32m[2013-01-26 11:48:55.470] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-26 11:48:55.513] [INFO] console - [32m[2013-01-26 11:48:55.511] [INFO] console - [39m[ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 } ]
+
+[2013-01-26 11:48:57.134] [INFO] console - [31m[2013-01-26 11:48:57.134] [ERROR] console - [39m Caught exception: TypeError: Object #<Object> has no method 'increaseLevel'
+    at handler.increaseArchitectureLevel (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:14:21)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+
+[2013-01-26 11:49:00.111] [INFO] console - [33m[2013-01-26 11:49:00.111] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - [39mrequest "connector.entryHandler.increaseArchitectureLevel" timeout.
+
+[2013-01-26 11:50:40.707] [INFO] /node_modules/pomelo/lib/application.js - application inited: "master-server-1"
+[2013-01-26 11:50:40.875] [INFO] console - info: 'socket.io started'
+[2013-01-26 11:50:40.878] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-1 locally
+[2013-01-26 11:50:40.881] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-2 locally
+[2013-01-26 11:50:40.883] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-3 locally
+[2013-01-26 11:50:40.884] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-1 locally
+[2013-01-26 11:50:40.886] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-2 locally
+[2013-01-26 11:50:40.888] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-3 locally
+[2013-01-26 11:50:40.890] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=gate serverId=gate-server-1 locally
+[2013-01-26 11:50:40.894] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "master", "127.0.0.1", 3005
+[2013-01-26 11:50:40.977] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "master-server-1", "master"
+[2013-01-26 11:50:41.028] [INFO] console - [32m[2013-01-26 11:50:41.011] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:50:41.034] [INFO] console - [32m[2013-01-26 11:50:41.019] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:50:41.040] [INFO] console - [32m[2013-01-26 11:50:41.019] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:50:41.042] [INFO] console - [32m[2013-01-26 11:50:41.042] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-1"
+
+[2013-01-26 11:50:41.045] [INFO] console - [32m[2013-01-26 11:50:41.021] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:50:41.048] [INFO] console - [32m[2013-01-26 11:50:41.047] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-2"
+
+[2013-01-26 11:50:41.052] [INFO] console - [32m[2013-01-26 11:50:41.025] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:50:41.058] [INFO] console - [32m[2013-01-26 11:50:41.057] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-3"
+
+[2013-01-26 11:50:41.059] [INFO] console - [32m[2013-01-26 11:50:41.027] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:50:41.063] [INFO] console - [32m[2013-01-26 11:50:41.063] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-3"
+
+[2013-01-26 11:50:41.066] [INFO] console - [32m[2013-01-26 11:50:41.034] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:50:41.072] [INFO] console - [32m[2013-01-26 11:50:41.070] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-1"
+
+[2013-01-26 11:50:41.079] [INFO] console - [32m[2013-01-26 11:50:41.078] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-2"
+
+[2013-01-26 11:50:41.085] [INFO] console - [32m[2013-01-26 11:50:41.084] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "gate-server-1"
+
+[2013-01-26 11:50:41.467] [INFO] console - [32m[2013-01-26 11:50:41.463] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:50:41.476] [INFO] console - [32m[2013-01-26 11:50:41.472] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:50:41.491] [INFO] console - [32m[2013-01-26 11:50:41.490] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "gate", "127.0.0.1", 3005
+
+[2013-01-26 11:50:41.491] [INFO] console - [32m[2013-01-26 11:50:41.488] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:50:41.497] [INFO] console - [32m[2013-01-26 11:50:41.496] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:50:41.507] [INFO] console - [32m[2013-01-26 11:50:41.503] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:50:41.507] [INFO] console - [32m[2013-01-26 11:50:41.506] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-26 11:50:41.508] [INFO] console - [32m[2013-01-26 11:50:41.507] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-26 11:50:41.509] [INFO] console - [32m[2013-01-26 11:50:41.508] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:50:41.518] [INFO] console - [32m[2013-01-26 11:50:41.516] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-26 11:50:41.523] [INFO] console - [32m[2013-01-26 11:50:41.520] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-26 11:50:41.525] [INFO] console - [32m[2013-01-26 11:50:41.520] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-26 11:50:41.530] [INFO] console - [32m[2013-01-26 11:50:41.529] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-26 11:50:41.558] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "gate-server-1", "gate"
+[2013-01-26 11:50:41.559] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-1", "connector"
+[2013-01-26 11:50:41.564] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-1", "chat"
+[2013-01-26 11:50:41.571] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-2", "connector"
+[2013-01-26 11:50:41.575] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-3", "connector"
+[2013-01-26 11:50:41.578] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-2", "chat"
+[2013-01-26 11:50:41.579] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-3", "chat"
+[2013-01-26 11:50:41.579] [INFO] /node_modules/pomelo/lib/master/master.js - [master] all servers have started and notify after start now...
+[2013-01-26 11:50:41.580] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "master-server-1"
+[2013-01-26 11:50:41.580] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "master-server-1" started.
+[2013-01-26 11:50:41.581] [INFO] console - [36m[2013-01-26 11:50:41.580] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-2"
+[32m[2013-01-26 11:50:41.580] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-2" started.
+
+[2013-01-26 11:50:41.581] [INFO] console - [36m[2013-01-26 11:50:41.579] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "gate-server-1"
+
+[2013-01-26 11:50:41.581] [INFO] console - [36m[2013-01-26 11:50:41.580] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-1"
+[32m[2013-01-26 11:50:41.580] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-1" started.
+
+[2013-01-26 11:50:41.581] [INFO] console - [36m[2013-01-26 11:50:41.580] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-3"
+[32m[2013-01-26 11:50:41.581] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:50:41.582] [INFO] console - [36m[2013-01-26 11:50:41.580] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-2"
+[32m[2013-01-26 11:50:41.581] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-26 11:50:41.581] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-2" started.
+
+[2013-01-26 11:50:41.582] [INFO] console - [36m[2013-01-26 11:50:41.579] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-1"
+[32m[2013-01-26 11:50:41.581] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-26 11:50:41.581] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-1" started.
+
+[2013-01-26 11:50:41.582] [INFO] console - [36m[2013-01-26 11:50:41.581] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-3"
+[32m[2013-01-26 11:50:41.581] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-3" started.
+
+[2013-01-26 11:50:41.582] [INFO] console - [32m[2013-01-26 11:50:41.581] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-3" started.
+
+[2013-01-26 11:50:41.584] [INFO] console - [32m[2013-01-26 11:50:41.584] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:50:41.584] [INFO] console - [32m[2013-01-26 11:50:41.584] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "gate-server-1" started.
+
+[2013-01-26 11:50:51.020] [INFO] console - [32m[2013-01-26 11:50:51.020] [INFO] console - [39minvoke enter
+
+[2013-01-26 11:50:51.068] [INFO] console - [32m[2013-01-26 11:50:51.068] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-26 11:50:51.111] [INFO] console - [32m[2013-01-26 11:50:51.110] [INFO] console - [39m[ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 } ]
+
+[2013-01-26 11:50:53.332] [INFO] console - [31m[2013-01-26 11:50:53.331] [ERROR] console - [39m Caught exception: TypeError: Cannot call method 'query' of undefined
+    at Object.architectureDao.increaseArchitectureLevel (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/dao/architectureDAO.js:63:32)
+    at handler.increaseArchitectureLevel (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:14:21)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+
+[2013-01-26 11:50:56.310] [INFO] console - [33m[2013-01-26 11:50:56.310] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - [39mrequest "connector.entryHandler.increaseArchitectureLevel" timeout.
+
+[2013-01-26 11:51:57.356] [INFO] /node_modules/pomelo/lib/application.js - application inited: "master-server-1"
+[2013-01-26 11:51:57.522] [INFO] console - info: 'socket.io started'
+[2013-01-26 11:51:57.526] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-1 locally
+[2013-01-26 11:51:57.529] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-2 locally
+[2013-01-26 11:51:57.531] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-3 locally
+[2013-01-26 11:51:57.533] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-1 locally
+[2013-01-26 11:51:57.534] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-2 locally
+[2013-01-26 11:51:57.536] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-3 locally
+[2013-01-26 11:51:57.538] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=gate serverId=gate-server-1 locally
+[2013-01-26 11:51:57.542] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "master", "127.0.0.1", 3005
+[2013-01-26 11:51:57.625] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "master-server-1", "master"
+[2013-01-26 11:51:57.681] [INFO] console - [32m[2013-01-26 11:51:57.664] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:51:57.686] [INFO] console - [32m[2013-01-26 11:51:57.666] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:51:57.693] [INFO] console - [32m[2013-01-26 11:51:57.668] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:51:57.695] [INFO] console - [32m[2013-01-26 11:51:57.695] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-2"
+
+[2013-01-26 11:51:57.698] [INFO] console - [32m[2013-01-26 11:51:57.674] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:51:57.703] [INFO] console - [32m[2013-01-26 11:51:57.674] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:51:57.704] [INFO] console - [32m[2013-01-26 11:51:57.703] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-1"
+
+[2013-01-26 11:51:57.708] [INFO] console - [32m[2013-01-26 11:51:57.708] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-1"
+
+[2013-01-26 11:51:57.710] [INFO] console - [32m[2013-01-26 11:51:57.678] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:51:57.719] [INFO] console - [32m[2013-01-26 11:51:57.683] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:51:57.721] [INFO] console - [32m[2013-01-26 11:51:57.720] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-3"
+
+[2013-01-26 11:51:57.725] [INFO] console - [32m[2013-01-26 11:51:57.724] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-3"
+
+[2013-01-26 11:51:57.730] [INFO] console - [32m[2013-01-26 11:51:57.730] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-2"
+
+[2013-01-26 11:51:57.739] [INFO] console - [32m[2013-01-26 11:51:57.738] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "gate-server-1"
+
+[2013-01-26 11:51:58.112] [INFO] console - [32m[2013-01-26 11:51:58.110] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:51:58.118] [INFO] console - [32m[2013-01-26 11:51:58.117] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:51:58.124] [INFO] console - [32m[2013-01-26 11:51:58.123] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-26 11:51:58.132] [INFO] console - [32m[2013-01-26 11:51:58.131] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-26 11:51:58.133] [INFO] console - [32m[2013-01-26 11:51:58.132] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:51:58.142] [INFO] console - [32m[2013-01-26 11:51:58.140] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:51:58.144] [INFO] console - [32m[2013-01-26 11:51:58.144] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-26 11:51:58.156] [INFO] console - [32m[2013-01-26 11:51:58.155] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:51:58.165] [INFO] console - [32m[2013-01-26 11:51:58.164] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "gate", "127.0.0.1", 3005
+
+[2013-01-26 11:51:58.175] [INFO] console - [32m[2013-01-26 11:51:58.173] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:51:58.188] [INFO] console - [32m[2013-01-26 11:51:58.181] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-26 11:51:58.192] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-2", "chat"
+[2013-01-26 11:51:58.195] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-1", "chat"
+[2013-01-26 11:51:58.195] [INFO] console - [32m[2013-01-26 11:51:58.195] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-26 11:51:58.209] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-3", "chat"
+[2013-01-26 11:51:58.212] [INFO] console - [32m[2013-01-26 11:51:58.211] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-26 11:51:58.225] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "gate-server-1", "gate"
+[2013-01-26 11:51:58.226] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-1", "connector"
+[2013-01-26 11:51:58.236] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-3", "connector"
+[2013-01-26 11:51:58.247] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-2", "connector"
+[2013-01-26 11:51:58.248] [INFO] /node_modules/pomelo/lib/master/master.js - [master] all servers have started and notify after start now...
+[2013-01-26 11:51:58.249] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "master-server-1"
+[2013-01-26 11:51:58.249] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "master-server-1" started.
+[2013-01-26 11:51:58.250] [INFO] console - [36m[2013-01-26 11:51:58.249] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-3"
+
+[2013-01-26 11:51:58.250] [INFO] console - [36m[2013-01-26 11:51:58.248] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "gate-server-1"
+
+[2013-01-26 11:51:58.250] [INFO] console - [36m[2013-01-26 11:51:58.248] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-1"
+[32m[2013-01-26 11:51:58.249] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-1" started.
+
+[2013-01-26 11:51:58.250] [INFO] console - [36m[2013-01-26 11:51:58.248] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-1"
+[32m[2013-01-26 11:51:58.250] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:51:58.250] [INFO] console - [36m[2013-01-26 11:51:58.248] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-2"
+[32m[2013-01-26 11:51:58.249] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-2" started.
+
+[2013-01-26 11:51:58.251] [INFO] console - [36m[2013-01-26 11:51:58.248] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-3"
+[32m[2013-01-26 11:51:58.249] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-3" started.
+
+[2013-01-26 11:51:58.251] [INFO] console - [36m[2013-01-26 11:51:58.250] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-2"
+
+[2013-01-26 11:51:58.251] [INFO] console - [32m[2013-01-26 11:51:58.250] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-26 11:51:58.250] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-3" started.
+
+[2013-01-26 11:51:58.251] [INFO] console - [32m[2013-01-26 11:51:58.250] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-1" started.
+
+[2013-01-26 11:51:58.252] [INFO] console - [32m[2013-01-26 11:51:58.251] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-26 11:51:58.251] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-2" started.
+
+[2013-01-26 11:51:58.252] [INFO] console - [32m[2013-01-26 11:51:58.252] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:51:58.253] [INFO] console - [32m[2013-01-26 11:51:58.252] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "gate-server-1" started.
+
+[2013-01-26 11:52:04.021] [INFO] console - [32m[2013-01-26 11:52:04.021] [INFO] console - [39minvoke enter
+
+[2013-01-26 11:52:04.067] [INFO] console - [32m[2013-01-26 11:52:04.067] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-26 11:52:04.116] [INFO] console - [32m[2013-01-26 11:52:04.114] [INFO] console - [39m[ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 } ]
+
+[2013-01-26 11:52:06.438] [INFO] console - [32m[2013-01-26 11:52:06.437] [INFO] console - [39m7
+
+[2013-01-26 11:52:06.458] [INFO] console - [31m[2013-01-26 11:52:06.458] [ERROR] console - [39m Caught exception: TypeError: Cannot call method 'query' of undefined
+    at Object.architectureDao.increaseArchitectureLevel (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/dao/architectureDAO.js:63:32)
+    at handler.increaseArchitectureLevel (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:14:21)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+
+[2013-01-26 11:52:09.438] [INFO] console - [33m[2013-01-26 11:52:09.438] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - [39mrequest "connector.entryHandler.increaseArchitectureLevel" timeout.
+
+[2013-01-26 11:53:09.409] [INFO] /node_modules/pomelo/lib/application.js - application inited: "master-server-1"
+[2013-01-26 11:53:09.578] [INFO] console - info: 'socket.io started'
+[2013-01-26 11:53:09.581] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-1 locally
+[2013-01-26 11:53:09.584] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-2 locally
+[2013-01-26 11:53:09.586] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=connector serverId=connector-server-3 locally
+[2013-01-26 11:53:09.587] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-1 locally
+[2013-01-26 11:53:09.589] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-2 locally
+[2013-01-26 11:53:09.591] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=chat serverId=chat-server-3 locally
+[2013-01-26 11:53:09.593] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server && node  /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app.js env=development serverType=gate serverId=gate-server-1 locally
+[2013-01-26 11:53:09.597] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "master", "127.0.0.1", 3005
+[2013-01-26 11:53:09.669] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "master-server-1", "master"
+[2013-01-26 11:53:09.736] [INFO] console - [32m[2013-01-26 11:53:09.720] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:53:09.743] [INFO] console - [32m[2013-01-26 11:53:09.722] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:53:09.749] [INFO] console - [32m[2013-01-26 11:53:09.727] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:53:09.752] [INFO] console - [32m[2013-01-26 11:53:09.751] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-1"
+
+[2013-01-26 11:53:09.754] [INFO] console - [32m[2013-01-26 11:53:09.754] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-1"
+
+[2013-01-26 11:53:09.755] [INFO] console - [32m[2013-01-26 11:53:09.731] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:53:09.763] [INFO] console - [32m[2013-01-26 11:53:09.730] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:53:09.766] [INFO] console - [32m[2013-01-26 11:53:09.765] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-2"
+
+[2013-01-26 11:53:09.768] [INFO] console - [32m[2013-01-26 11:53:09.737] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:53:09.774] [INFO] console - [32m[2013-01-26 11:53:09.770] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-2"
+
+[2013-01-26 11:53:09.775] [INFO] console - [32m[2013-01-26 11:53:09.740] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-01-26 11:53:09.785] [INFO] console - [32m[2013-01-26 11:53:09.783] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-3"
+
+[2013-01-26 11:53:09.789] [INFO] console - [32m[2013-01-26 11:53:09.788] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "chat-server-3"
+
+[2013-01-26 11:53:09.796] [INFO] console - [32m[2013-01-26 11:53:09.795] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "gate-server-1"
+
+[2013-01-26 11:53:10.165] [INFO] console - [32m[2013-01-26 11:53:10.162] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:53:10.175] [INFO] console - [32m[2013-01-26 11:53:10.174] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:53:10.176] [INFO] console - [32m[2013-01-26 11:53:10.175] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-26 11:53:10.195] [INFO] console - [32m[2013-01-26 11:53:10.194] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:53:10.197] [INFO] console - [32m[2013-01-26 11:53:10.196] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:53:10.206] [INFO] console - [32m[2013-01-26 11:53:10.205] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-26 11:53:10.214] [INFO] console - [32m[2013-01-26 11:53:10.214] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-26 11:53:10.218] [INFO] console - [32m[2013-01-26 11:53:10.217] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "gate", "127.0.0.1", 3005
+
+[2013-01-26 11:53:10.223] [INFO] console - [32m[2013-01-26 11:53:10.222] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:53:10.224] [INFO] console - [32m[2013-01-26 11:53:10.222] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:53:10.240] [INFO] console - [32m[2013-01-26 11:53:10.237] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-26 11:53:10.241] [INFO] console - [32m[2013-01-26 11:53:10.233] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "chat", "127.0.0.1", 3005
+
+[2013-01-26 11:53:10.242] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-1", "chat"
+[2013-01-26 11:53:10.254] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-2", "chat"
+[2013-01-26 11:53:10.260] [INFO] console - [32m[2013-01-26 11:53:10.260] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-01-26 11:53:10.275] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-1", "connector"
+[2013-01-26 11:53:10.283] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-2", "connector"
+[2013-01-26 11:53:10.284] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "gate-server-1", "gate"
+[2013-01-26 11:53:10.288] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "chat-server-3", "chat"
+[2013-01-26 11:53:10.297] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-3", "connector"
+[2013-01-26 11:53:10.297] [INFO] /node_modules/pomelo/lib/master/master.js - [master] all servers have started and notify after start now...
+[2013-01-26 11:53:10.298] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "master-server-1"
+[2013-01-26 11:53:10.299] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "master-server-1" started.
+[2013-01-26 11:53:10.299] [INFO] console - [36m[2013-01-26 11:53:10.299] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-3"
+
+[2013-01-26 11:53:10.300] [INFO] console - [36m[2013-01-26 11:53:10.298] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "gate-server-1"
+
+[2013-01-26 11:53:10.300] [INFO] console - [36m[2013-01-26 11:53:10.298] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-3"
+[32m[2013-01-26 11:53:10.299] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-3" started.
+
+[2013-01-26 11:53:10.300] [INFO] console - [36m[2013-01-26 11:53:10.298] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-2"
+[32m[2013-01-26 11:53:10.299] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-2" started.
+
+[2013-01-26 11:53:10.300] [INFO] console - [36m[2013-01-26 11:53:10.298] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-2"
+[32m[2013-01-26 11:53:10.300] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:53:10.300] [INFO] console - [36m[2013-01-26 11:53:10.298] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "chat-server-1"
+[32m[2013-01-26 11:53:10.299] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "chat-server-1" started.
+
+[2013-01-26 11:53:10.300] [INFO] console - [36m[2013-01-26 11:53:10.298] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-1"
+[32m[2013-01-26 11:53:10.300] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-01-26 11:53:10.300] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-1" started.
+
+[2013-01-26 11:53:10.300] [INFO] console - [32m[2013-01-26 11:53:10.300] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-2" started.
+
+[2013-01-26 11:53:10.301] [INFO] console - [32m[2013-01-26 11:53:10.301] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:53:10.301] [INFO] console - [32m[2013-01-26 11:53:10.301] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-3" started.
+
+[2013-01-26 11:53:10.302] [INFO] console - [32m[2013-01-26 11:53:10.302] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-01-26 11:53:10.303] [INFO] console - [32m[2013-01-26 11:53:10.302] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "gate-server-1" started.
+
+[2013-01-26 11:53:19.890] [INFO] console - [32m[2013-01-26 11:53:19.890] [INFO] console - [39minvoke enter
+
+[2013-01-26 11:53:19.940] [INFO] console - [32m[2013-01-26 11:53:19.939] [INFO] console - [39minvoke getArchitecture
+
+[2013-01-26 11:53:19.983] [INFO] console - [32m[2013-01-26 11:53:19.981] [INFO] console - [39m[ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9 } ]
+
+[2013-01-26 11:53:26.411] [INFO] console - [32m[2013-01-26 11:53:26.411] [INFO] console - [39m6
+

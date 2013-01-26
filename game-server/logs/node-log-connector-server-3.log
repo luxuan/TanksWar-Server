@@ -3769,3 +3769,432 @@
 [2013-01-23 17:19:51.624] [INFO] console - invoke deleteArchitecture
 [2013-01-23 17:19:51.624] [INFO] console - 92
 [2013-01-23 17:19:51.624] [INFO] console - delete from architecture where id = ?
+[2013-01-26 10:09:26.717] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-26 10:09:27.227] [INFO] console - info: 'socket.io started'
+[2013-01-26 10:09:27.456] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-26 10:09:27.492] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-26 10:09:27.494] [INFO] console - info: 'socket.io started'
+[2013-01-26 10:09:27.494] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-26 10:10:04.774] [INFO] console - invoke enter
+[2013-01-26 10:10:04.889] [INFO] console - invoke getArchitecture
+[2013-01-26 10:10:05.067] [INFO] console - []
+[2013-01-26 10:10:18.392] [INFO] console - invoke addArchitecture
+[2013-01-26 10:10:18.392] [INFO] console - 512
+[2013-01-26 10:10:52.016] [INFO] console - invoke enter
+[2013-01-26 10:10:52.063] [INFO] console - invoke getArchitecture
+[2013-01-26 10:10:52.068] [INFO] console - [ { id: 1,
+    pointx: 512,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military' } ]
+[2013-01-26 10:15:19.484] [INFO] console - invoke enter
+[2013-01-26 10:15:19.527] [INFO] console - invoke getArchitecture
+[2013-01-26 10:15:19.531] [INFO] console - [ { id: 1,
+    pointx: 512,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military',
+    alevel: null } ]
+[2013-01-26 10:15:57.546] [INFO] console - invoke enter
+[2013-01-26 10:15:57.554] [INFO] console - invoke getArchitecture
+[2013-01-26 10:15:57.557] [INFO] console - [ { id: 1,
+    pointx: 512,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military',
+    alevel: null } ]
+[2013-01-26 10:15:58.902] [INFO] console - invoke addArchitecture
+[2013-01-26 10:15:58.902] [INFO] console - 341.3333
+[2013-01-26 10:17:09.209] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-26 10:17:09.652] [INFO] console - info: 'socket.io started'
+[2013-01-26 10:17:09.691] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-26 10:17:09.734] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-26 10:17:09.736] [INFO] console - info: 'socket.io started'
+[2013-01-26 10:17:09.736] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-26 10:17:17.532] [INFO] console - invoke enter
+[2013-01-26 10:17:17.619] [INFO] console - invoke getArchitecture
+[2013-01-26 10:17:17.658] [INFO] console - [ { id: 1,
+    pointx: 512,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military',
+    alevel: null },
+  { id: 2,
+    pointx: 341.3333,
+    pointy: 460.8,
+    png: 'building2.png',
+    category: 'military',
+    alevel: null } ]
+[2013-01-26 10:17:18.945] [INFO] console - invoke addArchitecture
+[2013-01-26 10:17:18.945] [INFO] console - 426.6667,undefined
+[2013-01-26 10:17:58.172] [INFO] console - invoke enter
+[2013-01-26 10:17:58.217] [INFO] console - invoke getArchitecture
+[2013-01-26 10:17:58.221] [INFO] console - [ { id: 1,
+    pointx: 512,
+    pointy: 307.2,
+    png: 'building2.png',
+    category: 'military',
+    alevel: null },
+  { id: 2,
+    pointx: 341.3333,
+    pointy: 460.8,
+    png: 'building2.png',
+    category: 'military',
+    alevel: null },
+  { id: 3,
+    pointx: 426.6667,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: null } ]
+[2013-01-26 10:18:00.335] [INFO] console - invoke addArchitecture
+[2013-01-26 10:18:00.335] [INFO] console - 426.6667,1
+[2013-01-26 10:18:36.229] [INFO] console - invoke enter
+[2013-01-26 10:18:36.275] [INFO] console - invoke getArchitecture
+[2013-01-26 10:18:36.279] [INFO] console - []
+[2013-01-26 10:18:38.197] [INFO] console - invoke addArchitecture
+[2013-01-26 10:18:38.197] [INFO] console - 341.3333,1
+[2013-01-26 10:18:39.747] [INFO] console - invoke addArchitecture
+[2013-01-26 10:18:39.749] [INFO] console - 512,1
+[2013-01-26 10:18:41.280] [INFO] console - invoke addArchitecture
+[2013-01-26 10:18:41.281] [INFO] console - 512,1
+[2013-01-26 10:32:06.128] [INFO] console - invoke enter
+[2013-01-26 10:32:06.171] [INFO] console - invoke getArchitecture
+[2013-01-26 10:32:06.174] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 } ]
+[2013-01-26 10:33:20.693] [INFO] console - invoke enter
+[2013-01-26 10:33:20.741] [INFO] console - invoke getArchitecture
+[2013-01-26 10:33:20.744] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 } ]
+[2013-01-26 10:34:31.887] [INFO] console - invoke enter
+[2013-01-26 10:34:31.929] [INFO] console - invoke getArchitecture
+[2013-01-26 10:34:31.932] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 } ]
+[2013-01-26 11:10:09.371] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-26 11:10:09.745] [INFO] console - info: 'socket.io started'
+[2013-01-26 11:10:09.778] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-26 11:10:09.841] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-26 11:10:09.843] [INFO] console - info: 'socket.io started'
+[2013-01-26 11:10:09.843] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-26 11:34:40.883] [INFO] console - invoke enter
+[2013-01-26 11:34:40.934] [INFO] console - invoke getArchitecture
+[2013-01-26 11:34:40.973] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 } ]
+[2013-01-26 11:34:43.529] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-26 11:34:43.970] [INFO] console - info: 'socket.io started'
+[2013-01-26 11:34:44.032] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-26 11:34:44.137] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-26 11:34:44.139] [INFO] console - info: 'socket.io started'
+[2013-01-26 11:34:44.139] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-26 11:34:49.121] [INFO] console - invoke enter
+[2013-01-26 11:34:49.217] [INFO] console - invoke getArchitecture
+[2013-01-26 11:34:49.257] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 } ]
+[2013-01-26 11:34:52.112] [ERROR] /node_modules/pomelo/lib/common/service/handlerService.js - [handleManager]: fail to find handler for "connector.entryHandler.increaseArchitectureLevel"
+[2013-01-26 11:34:52.113] [DEBUG] /node_modules/pomelo/lib/server/server.js - no default error handler to resolve unknown exception. Error: fail to find handler for connector.entryHandler.increaseArchitectureLevel
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:29:8)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+[2013-01-26 11:34:53.679] [ERROR] /node_modules/pomelo/lib/common/service/handlerService.js - [handleManager]: fail to find handler for "connector.entryHandler.increaseArchitectureLevel"
+[2013-01-26 11:34:53.680] [DEBUG] /node_modules/pomelo/lib/server/server.js - no default error handler to resolve unknown exception. Error: fail to find handler for connector.entryHandler.increaseArchitectureLevel
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:29:8)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+[2013-01-26 11:47:17.868] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-26 11:47:18.309] [INFO] console - info: 'socket.io started'
+[2013-01-26 11:47:18.351] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-26 11:47:18.410] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-26 11:47:18.412] [INFO] console - info: 'socket.io started'
+[2013-01-26 11:47:18.412] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-26 11:47:27.073] [INFO] console - invoke enter
+[2013-01-26 11:47:27.118] [INFO] console - invoke getArchitecture
+[2013-01-26 11:47:27.157] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 } ]
+[2013-01-26 11:47:31.821] [ERROR] /node_modules/pomelo/lib/common/service/handlerService.js - [handleManager]: fail to find handler for "connector.entryHandler.increaseArchitectureLevel"
+[2013-01-26 11:47:31.822] [DEBUG] /node_modules/pomelo/lib/server/server.js - no default error handler to resolve unknown exception. Error: fail to find handler for connector.entryHandler.increaseArchitectureLevel
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:29:8)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+[2013-01-26 11:47:34.455] [ERROR] /node_modules/pomelo/lib/common/service/handlerService.js - [handleManager]: fail to find handler for "connector.entryHandler.increaseArchitectureLevel"
+[2013-01-26 11:47:34.455] [DEBUG] /node_modules/pomelo/lib/server/server.js - no default error handler to resolve unknown exception. Error: fail to find handler for connector.entryHandler.increaseArchitectureLevel
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:29:8)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+[2013-01-26 11:47:35.890] [ERROR] /node_modules/pomelo/lib/common/service/handlerService.js - [handleManager]: fail to find handler for "connector.entryHandler.increaseArchitectureLevel"
+[2013-01-26 11:47:35.890] [DEBUG] /node_modules/pomelo/lib/server/server.js - no default error handler to resolve unknown exception. Error: fail to find handler for connector.entryHandler.increaseArchitectureLevel
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:29:8)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+[2013-01-26 11:48:49.735] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-26 11:48:50.150] [INFO] console - info: 'socket.io started'
+[2013-01-26 11:48:50.189] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-26 11:48:50.280] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-26 11:48:50.281] [INFO] console - info: 'socket.io started'
+[2013-01-26 11:48:50.281] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-26 11:48:55.421] [INFO] console - invoke enter
+[2013-01-26 11:48:55.470] [INFO] console - invoke getArchitecture
+[2013-01-26 11:48:55.511] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 } ]
+[2013-01-26 11:48:57.134] [ERROR] console -  Caught exception: TypeError: Object #<Object> has no method 'increaseLevel'
+    at handler.increaseArchitectureLevel (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:14:21)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-26 11:49:00.111] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.increaseArchitectureLevel" timeout.
+[2013-01-26 11:50:41.057] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-26 11:50:41.488] [INFO] console - info: 'socket.io started'
+[2013-01-26 11:50:41.529] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-26 11:50:41.580] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-26 11:50:41.581] [INFO] console - info: 'socket.io started'
+[2013-01-26 11:50:41.581] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-26 11:50:51.020] [INFO] console - invoke enter
+[2013-01-26 11:50:51.068] [INFO] console - invoke getArchitecture
+[2013-01-26 11:50:51.110] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 } ]
+[2013-01-26 11:50:53.331] [ERROR] console -  Caught exception: TypeError: Cannot call method 'query' of undefined
+    at Object.architectureDao.increaseArchitectureLevel (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/dao/architectureDAO.js:63:32)
+    at handler.increaseArchitectureLevel (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:14:21)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+[2013-01-26 11:50:56.310] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.increaseArchitectureLevel" timeout.
+[2013-01-26 11:51:57.720] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-26 11:51:58.155] [INFO] console - info: 'socket.io started'
+[2013-01-26 11:51:58.195] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-26 11:51:58.249] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-26 11:51:58.250] [INFO] console - info: 'socket.io started'
+[2013-01-26 11:51:58.250] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-26 11:52:04.021] [INFO] console - invoke enter
+[2013-01-26 11:52:04.067] [INFO] console - invoke getArchitecture
+[2013-01-26 11:52:04.114] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 } ]
+[2013-01-26 11:52:06.437] [INFO] console - 7
+[2013-01-26 11:52:06.458] [ERROR] console -  Caught exception: TypeError: Cannot call method 'query' of undefined
+    at Object.architectureDao.increaseArchitectureLevel (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/dao/architectureDAO.js:63:32)
+    at handler.increaseArchitectureLevel (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:14:21)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+[2013-01-26 11:52:09.438] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.increaseArchitectureLevel" timeout.
+[2013-01-26 11:53:09.783] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-26 11:53:10.222] [INFO] console - info: 'socket.io started'
+[2013-01-26 11:53:10.260] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-26 11:53:10.299] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-26 11:53:10.301] [INFO] console - info: 'socket.io started'
+[2013-01-26 11:53:10.301] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-26 11:53:19.890] [INFO] console - invoke enter
+[2013-01-26 11:53:19.939] [INFO] console - invoke getArchitecture
+[2013-01-26 11:53:19.981] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9 } ]
+[2013-01-26 11:53:26.411] [INFO] console - 6

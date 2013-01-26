@@ -56,9 +56,24 @@ architectureDao.updateResourceById = function(gold,id, cb) {
 	});
 };
 
-architectureDao.createArchitecture = function(pointx,pointy, png,category,cb) {
-	var sql = 'insert into architecture (pointx, pointy,png,category) values (?, ?, ?,?)';
-	var args = [pointx, pointy, png,category];
+architectureDao.increaseArchitectureLevel = function(msg,cb){
+    var sql = "update architecture set alevel =alevel+1 where id =?";
+    console.log(msg.id);
+    var args = [msg.id];
+    pomelo.app.get("dbclient").query(sql,args,function(err,res){
+        if(!!err){
+            logger.error('update increaseLevel failed'+err.stack);
+            utils.invokeCallback(cb,err);
+        }else{
+            utils.invokeCallback(cb,null,res);
+        }
+
+    })
+
+}
+architectureDao.createArchitecture = function(msg,cb) {
+	var sql = 'insert into architecture (pointx, pointy,png,category,alevel) values (?, ?, ?,?,?)';
+	var args = [msg.pointx, msg.pointy, msg.png,msg.category,msg.alevel];
 	
 	pomelo.app.get('dbclient').insert(sql, args, function(err, res) {
 		if (err) {
