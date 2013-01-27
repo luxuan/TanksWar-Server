@@ -1,4 +1,5 @@
 var architectureDAO = require('../../../dao/architectureDAO');
+var userinfoDAO = require('../../../dao/userinfoDAO');
 var logger = require('pomelo-logger').getLogger(__filename);
 module.exports = function(app) {
 	return new Handler(app);
@@ -112,36 +113,64 @@ handler.deleteArchitecture  = function(msg, session, next) {
 handler.enter = function(msg, session, next) {
 	console.log("invoke enter");
 	var self = this;
-	var rid = msg.rid;
-	
-	var uid = msg.username + '*' + rid
-	var sessionService = self.app.get('sessionService');
 
-	//duplicate log in
-	if( !! sessionService.getByUid(uid)) {
-		next(null, {
-			code: 500,
-			error: true
-		});
-		return;
-	}
 
-	session.bind(uid);
-	session.set('rid', rid);
-	session.push('rid', function(err) {
-		if(err) {
-			console.error('set rid for session service failed! error is : %j', err.stack);
-		}
-	});
-	session.on('closed', onUserLeave.bind(null, self.app));
+    //检测游戏账号是否在数据库中
+    userinfoDAO.checkUserinfoByUsernameAndPassword(msg,function(err,res){
 
-	
-	self.app.rpc.chat.chatRemote.add(session, uid, self.app.get('serverId'), rid, true, function(users) {
-		next(null, {
-			code: 200,
-			users: users
-		});
-	});
+        if(err){
+            logger.error("checkUserinfoByUsernameAndPassword failed");
+            next(new Error('fail to checkUserinfoByUsernameAndPassword at enter'));
+            return;
+        }else{
+
+           if(res.uid == 0){
+                next(null, {code: 200, reason: "用户不存在，请确认账户信息是否填写正确!"});
+
+
+           }else{
+               console.log("res="+res);
+               var rid = res.userid;
+               var uid = res.username + '*' + rid;
+               console.log("rid="+rid);
+               console.log("uid="+uid);
+               var sessionService = self.app.get('sessionService');
+
+               //duplicate log in
+               if( !! sessionService.getByUid(uid)) {
+                   next(null, {
+                       code: 500,
+                       error: true
+                   });
+                   return;
+               }
+
+               session.bind(uid);
+               session.set('rid', rid);
+               session.push('rid', function(err) {
+                   if(err) {
+                       console.error('set rid for session service failed! error is : %j', err.stack);
+                   }
+               });
+               session.on('closed', onUserLeave.bind(null, self.app));
+
+
+               self.app.rpc.chat.chatRemote.add(session, uid, self.app.get('serverId'), rid, true, function(users) {
+                   next(null, {
+                       code: 200,
+                       users: users
+                   });
+               });
+
+
+            }
+
+        }
+
+
+    });
+
+
 };
 
 /**

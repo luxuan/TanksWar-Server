@@ -4198,3 +4198,743 @@
     category: 'military',
     alevel: 9 } ]
 [2013-01-26 11:53:26.411] [INFO] console - 6
+[2013-01-27 19:18:58.426] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-27 19:18:58.931] [INFO] console - info: 'socket.io started'
+[2013-01-27 19:18:59.039] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-27 19:18:59.070] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-27 19:18:59.072] [INFO] console - info: 'socket.io started'
+[2013-01-27 19:18:59.072] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-27 21:23:06.308] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-27 21:23:06.707] [INFO] console - info: 'socket.io started'
+[2013-01-27 21:23:06.748] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-27 21:23:06.804] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-27 21:23:06.806] [INFO] console - info: 'socket.io started'
+[2013-01-27 21:23:06.806] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-27 21:23:27.504] [INFO] console - invoke enter
+[2013-01-27 21:23:27.624] [ERROR] console -  Caught exception: TypeError: Cannot read property 'id' of undefined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:140:30)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-27 21:23:30.504] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-27 21:24:53.012] [INFO] console - invoke enter
+[2013-01-27 21:24:53.014] [ERROR] console -  Caught exception: TypeError: Cannot read property 'id' of undefined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:140:30)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-27 21:24:56.011] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-27 21:25:38.298] [INFO] console - invoke enter
+[2013-01-27 21:25:38.300] [ERROR] console -  Caught exception: TypeError: Cannot read property 'id' of undefined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:140:30)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-27 21:25:41.298] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-27 21:26:50.839] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-27 21:26:51.232] [INFO] console - info: 'socket.io started'
+[2013-01-27 21:26:51.272] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-27 21:26:51.320] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-27 21:26:51.321] [INFO] console - info: 'socket.io started'
+[2013-01-27 21:26:51.322] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-27 21:26:53.247] [INFO] console - invoke enter
+[2013-01-27 21:26:53.282] [ERROR] console -  Caught exception: TypeError: Cannot read property 'id' of undefined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:141:30)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-27 21:26:53.285] [INFO] console - res = 
+[2013-01-27 21:26:56.247] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-27 21:28:07.879] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-27 21:28:08.275] [INFO] console - info: 'socket.io started'
+[2013-01-27 21:28:08.312] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-27 21:28:08.367] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-27 21:28:08.369] [INFO] console - info: 'socket.io started'
+[2013-01-27 21:28:08.369] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-27 21:28:24.645] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-27 21:28:25.036] [INFO] console - info: 'socket.io started'
+[2013-01-27 21:28:25.077] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-27 21:28:25.135] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-27 21:28:25.136] [INFO] console - info: 'socket.io started'
+[2013-01-27 21:28:25.137] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-27 21:28:53.293] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-27 21:28:53.687] [INFO] console - info: 'socket.io started'
+[2013-01-27 21:28:53.718] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-27 21:28:53.795] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-27 21:28:53.797] [INFO] console - info: 'socket.io started'
+[2013-01-27 21:28:53.797] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-27 21:29:48.307] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-27 21:29:48.691] [INFO] console - info: 'socket.io started'
+[2013-01-27 21:29:48.730] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-27 21:29:48.795] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-27 21:29:48.797] [INFO] console - info: 'socket.io started'
+[2013-01-27 21:29:48.797] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-27 21:30:30.685] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-27 21:30:31.067] [INFO] console - info: 'socket.io started'
+[2013-01-27 21:30:31.101] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-27 21:30:31.157] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-27 21:30:31.159] [INFO] console - info: 'socket.io started'
+[2013-01-27 21:30:31.159] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-27 21:31:03.699] [INFO] console - invoke enter
+[2013-01-27 21:31:03.738] [INFO] console - res = [object Object]
+[2013-01-27 21:31:03.738] [INFO] console - length=1
+[2013-01-27 21:31:06.699] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-28 00:20:31.161] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-28 00:20:31.663] [INFO] console - info: 'socket.io started'
+[2013-01-28 00:20:31.752] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-28 00:20:31.782] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-28 00:20:31.783] [INFO] console - info: 'socket.io started'
+[2013-01-28 00:20:31.783] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-28 00:23:58.566] [INFO] console - invoke enter
+[2013-01-28 00:23:58.601] [ERROR] console -  Caught exception: TypeError: Cannot read property 'id' of undefined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:141:30)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-28 00:23:58.604] [INFO] console - res = [object Object]
+[2013-01-28 00:23:58.605] [INFO] console - length=1
+[2013-01-28 00:24:01.567] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-28 00:25:24.074] [INFO] console - invoke enter
+[2013-01-28 00:25:24.077] [ERROR] console -  Caught exception: TypeError: Cannot read property 'id' of undefined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:141:30)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-28 00:25:24.078] [INFO] console - res = [object Object]
+[2013-01-28 00:25:24.078] [INFO] console - length=1
+[2013-01-28 00:25:27.074] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-28 00:25:59.079] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-28 00:25:59.477] [INFO] console - info: 'socket.io started'
+[2013-01-28 00:25:59.515] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-28 00:25:59.565] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-28 00:25:59.566] [INFO] console - info: 'socket.io started'
+[2013-01-28 00:25:59.566] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-28 00:26:00.115] [INFO] console - invoke enter
+[2013-01-28 00:26:00.149] [INFO] console - undefined
+[2013-01-28 00:26:00.150] [ERROR] console -  Caught exception: TypeError: Cannot read property 'id' of undefined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:141:30)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-28 00:26:00.153] [INFO] console - res = [object Object]
+[2013-01-28 00:26:00.153] [INFO] console - length=1
+[2013-01-28 00:26:03.114] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-28 00:27:25.662] [INFO] console - invoke enter
+[2013-01-28 00:27:25.664] [INFO] console - undefined
+[2013-01-28 00:27:25.664] [ERROR] console -  Caught exception: TypeError: Cannot read property 'id' of undefined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:141:30)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-28 00:27:25.668] [INFO] console - res = [object Object]
+[2013-01-28 00:27:25.669] [INFO] console - length=1
+[2013-01-28 00:27:28.662] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-28 00:28:11.497] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-28 00:28:11.940] [INFO] console - info: 'socket.io started'
+[2013-01-28 00:28:11.985] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-28 00:28:12.084] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-28 00:28:12.085] [INFO] console - info: 'socket.io started'
+[2013-01-28 00:28:12.086] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-28 00:28:13.687] [INFO] console - invoke enter
+[2013-01-28 00:28:13.722] [INFO] console - undefined
+[2013-01-28 00:28:13.724] [ERROR] console -  Caught exception: TypeError: Cannot read property 'id' of undefined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:142:30)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-28 00:28:13.727] [INFO] console - 1
+[2013-01-28 00:28:13.727] [INFO] console - res = [object Object]
+[2013-01-28 00:28:13.727] [INFO] console - length=1
+[2013-01-28 00:28:16.687] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-28 00:29:39.234] [INFO] console - invoke enter
+[2013-01-28 00:29:39.235] [INFO] console - undefined
+[2013-01-28 00:29:39.236] [ERROR] console -  Caught exception: TypeError: Cannot read property 'id' of undefined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:142:30)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-28 00:29:39.241] [INFO] console - 1
+[2013-01-28 00:29:39.241] [INFO] console - res = [object Object]
+[2013-01-28 00:29:39.241] [INFO] console - length=1
+[2013-01-28 00:29:42.233] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-28 00:30:09.981] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-28 00:30:10.385] [INFO] console - info: 'socket.io started'
+[2013-01-28 00:30:10.424] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-28 00:30:10.468] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-28 00:30:10.470] [INFO] console - info: 'socket.io started'
+[2013-01-28 00:30:10.470] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-28 00:30:11.222] [INFO] console - invoke enter
+[2013-01-28 00:30:11.259] [INFO] console - undefined
+[2013-01-28 00:30:11.260] [ERROR] console -  Caught exception: TypeError: Cannot read property 'id' of undefined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:143:30)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-28 00:30:11.263] [INFO] console - res.length=1
+[2013-01-28 00:30:11.263] [INFO] console - length=1
+[2013-01-28 00:30:11.263] [INFO] console - res = [object Object]
+[2013-01-28 00:30:11.263] [INFO] console - length=1
+[2013-01-28 00:30:14.221] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-28 00:31:36.731] [INFO] console - invoke enter
+[2013-01-28 00:31:36.732] [INFO] console - undefined
+[2013-01-28 00:31:36.734] [ERROR] console -  Caught exception: TypeError: Cannot read property 'id' of undefined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:143:30)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-28 00:31:36.737] [INFO] console - res.length=1
+[2013-01-28 00:31:36.737] [INFO] console - length=1
+[2013-01-28 00:31:36.737] [INFO] console - res = [object Object]
+[2013-01-28 00:31:36.737] [INFO] console - length=1
+[2013-01-28 00:31:39.730] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-28 00:33:02.239] [INFO] console - invoke enter
+[2013-01-28 00:33:02.240] [INFO] console - undefined
+[2013-01-28 00:33:02.241] [ERROR] console -  Caught exception: TypeError: Cannot read property 'id' of undefined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:143:30)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-28 00:33:02.242] [INFO] console - res.length=1
+[2013-01-28 00:33:02.242] [INFO] console - length=1
+[2013-01-28 00:33:02.243] [INFO] console - res = [object Object]
+[2013-01-28 00:33:02.243] [INFO] console - length=1
+[2013-01-28 00:33:05.239] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-28 00:33:33.160] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-28 00:33:33.554] [INFO] console - info: 'socket.io started'
+[2013-01-28 00:33:33.592] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-28 00:33:33.655] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-28 00:33:33.656] [INFO] console - info: 'socket.io started'
+[2013-01-28 00:33:33.656] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-28 00:33:35.474] [INFO] console - invoke enter
+[2013-01-28 00:33:35.509] [INFO] console - undefined
+[2013-01-28 00:33:35.510] [ERROR] console -  Caught exception: TypeError: Cannot read property 'userid' of undefined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:143:30)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-28 00:33:35.513] [INFO] console - res.length=1
+[2013-01-28 00:33:35.513] [INFO] console - length=1
+[2013-01-28 00:33:35.513] [INFO] console - res = [object Object]
+[2013-01-28 00:33:35.513] [INFO] console - length=1
+[2013-01-28 00:33:38.474] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-28 00:35:00.984] [INFO] console - invoke enter
+[2013-01-28 00:35:00.986] [INFO] console - undefined
+[2013-01-28 00:35:00.988] [ERROR] console -  Caught exception: TypeError: Cannot read property 'userid' of undefined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:143:30)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-28 00:35:00.992] [INFO] console - res.length=1
+[2013-01-28 00:35:00.992] [INFO] console - length=1
+[2013-01-28 00:35:00.992] [INFO] console - res = [object Object]
+[2013-01-28 00:35:00.992] [INFO] console - length=1
+[2013-01-28 00:35:03.984] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-28 00:36:26.495] [INFO] console - invoke enter
+[2013-01-28 00:36:26.496] [INFO] console - undefined
+[2013-01-28 00:36:26.496] [ERROR] console -  Caught exception: TypeError: Cannot read property 'userid' of undefined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:143:30)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-28 00:36:26.498] [INFO] console - res.length=1
+[2013-01-28 00:36:26.498] [INFO] console - length=1
+[2013-01-28 00:36:26.498] [INFO] console - res = [object Object]
+[2013-01-28 00:36:26.498] [INFO] console - length=1
+[2013-01-28 00:36:29.496] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-28 00:37:52.004] [INFO] console - invoke enter
+[2013-01-28 00:37:52.006] [INFO] console - undefined
+[2013-01-28 00:37:52.006] [ERROR] console -  Caught exception: TypeError: Cannot read property 'userid' of undefined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:143:30)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-28 00:37:52.009] [INFO] console - res.length=1
+[2013-01-28 00:37:52.010] [INFO] console - length=1
+[2013-01-28 00:37:52.010] [INFO] console - res = [object Object]
+[2013-01-28 00:37:52.010] [INFO] console - length=1
+[2013-01-28 00:37:55.003] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-28 00:39:17.553] [INFO] console - invoke enter
+[2013-01-28 00:39:17.555] [INFO] console - undefined
+[2013-01-28 00:39:17.555] [ERROR] console -  Caught exception: TypeError: Cannot read property 'userid' of undefined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:143:30)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-28 00:39:17.557] [INFO] console - res.length=1
+[2013-01-28 00:39:17.557] [INFO] console - length=1
+[2013-01-28 00:39:17.557] [INFO] console - res = [object Object]
+[2013-01-28 00:39:17.557] [INFO] console - length=1
+[2013-01-28 00:39:20.552] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-28 00:40:43.063] [INFO] console - invoke enter
+[2013-01-28 00:40:43.067] [INFO] console - undefined
+[2013-01-28 00:40:43.067] [ERROR] console -  Caught exception: TypeError: Cannot read property 'userid' of undefined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:143:30)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-28 00:40:43.069] [INFO] console - res.length=1
+[2013-01-28 00:40:43.069] [INFO] console - length=1
+[2013-01-28 00:40:43.070] [INFO] console - res = [object Object]
+[2013-01-28 00:40:43.070] [INFO] console - length=1
+[2013-01-28 00:40:46.062] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-28 00:53:25.718] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-28 00:53:26.111] [INFO] console - info: 'socket.io started'
+[2013-01-28 00:53:26.150] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-28 00:53:26.189] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-28 00:53:26.190] [INFO] console - info: 'socket.io started'
+[2013-01-28 00:53:26.191] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-28 00:53:59.517] [INFO] console - invoke enter
+[2013-01-28 00:53:59.550] [INFO] console - undefined
+[2013-01-28 00:53:59.551] [ERROR] console -  Caught exception: TypeError: Cannot read property 'userid' of undefined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:143:30)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-28 00:53:59.555] [INFO] console - res.length=0
+[2013-01-28 00:53:59.555] [INFO] console - length=0
+[2013-01-28 00:53:59.555] [INFO] console - res = 
+[2013-01-28 00:53:59.556] [INFO] console - length=0
+[2013-01-28 00:54:02.517] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-28 00:55:25.029] [INFO] console - invoke enter
+[2013-01-28 00:55:25.032] [INFO] console - undefined
+[2013-01-28 00:55:25.035] [ERROR] console -  Caught exception: TypeError: Cannot read property 'userid' of undefined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:143:30)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-28 00:55:25.038] [INFO] console - res.length=0
+[2013-01-28 00:55:25.038] [INFO] console - length=0
+[2013-01-28 00:55:25.038] [INFO] console - res = 
+[2013-01-28 00:55:25.038] [INFO] console - length=0
+[2013-01-28 00:55:28.028] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-28 00:56:50.535] [INFO] console - invoke enter
+[2013-01-28 00:56:50.536] [INFO] console - undefined
+[2013-01-28 00:56:50.537] [ERROR] console -  Caught exception: TypeError: Cannot read property 'userid' of undefined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:143:30)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-28 00:56:50.538] [INFO] console - res.length=0
+[2013-01-28 00:56:50.538] [INFO] console - length=0
+[2013-01-28 00:56:50.539] [INFO] console - res = 
+[2013-01-28 00:56:50.539] [INFO] console - length=0
+[2013-01-28 00:56:53.535] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-28 00:58:16.042] [INFO] console - invoke enter
+[2013-01-28 00:58:16.044] [INFO] console - undefined
+[2013-01-28 00:58:16.045] [ERROR] console -  Caught exception: TypeError: Cannot read property 'userid' of undefined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:143:30)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-28 00:58:16.047] [INFO] console - res.length=0
+[2013-01-28 00:58:16.048] [INFO] console - length=0
+[2013-01-28 00:58:16.048] [INFO] console - res = 
+[2013-01-28 00:58:16.048] [INFO] console - length=0
+[2013-01-28 00:58:19.043] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-28 00:59:41.590] [INFO] console - invoke enter
+[2013-01-28 00:59:41.591] [INFO] console - undefined
+[2013-01-28 00:59:41.592] [ERROR] console -  Caught exception: TypeError: Cannot read property 'userid' of undefined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:143:30)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-28 00:59:41.593] [INFO] console - res.length=0
+[2013-01-28 00:59:41.594] [INFO] console - length=0
+[2013-01-28 00:59:41.594] [INFO] console - res = 
+[2013-01-28 00:59:41.594] [INFO] console - length=0
+[2013-01-28 00:59:44.590] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-28 01:01:07.100] [INFO] console - invoke enter
+[2013-01-28 01:01:07.104] [INFO] console - undefined
+[2013-01-28 01:01:07.104] [ERROR] console -  Caught exception: TypeError: Cannot read property 'userid' of undefined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:143:30)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-28 01:01:07.107] [INFO] console - res.length=0
+[2013-01-28 01:01:07.107] [INFO] console - length=0
+[2013-01-28 01:01:07.107] [INFO] console - res = 
+[2013-01-28 01:01:07.107] [INFO] console - length=0
+[2013-01-28 01:01:10.099] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-28 01:02:32.609] [INFO] console - invoke enter
+[2013-01-28 01:02:32.611] [INFO] console - undefined
+[2013-01-28 01:02:32.611] [ERROR] console -  Caught exception: TypeError: Cannot read property 'userid' of undefined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:143:30)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-28 01:02:32.613] [INFO] console - res.length=0
+[2013-01-28 01:02:32.614] [INFO] console - length=0
+[2013-01-28 01:02:32.614] [INFO] console - res = 
+[2013-01-28 01:02:32.614] [INFO] console - length=0
+[2013-01-28 01:02:35.608] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-28 01:03:58.115] [INFO] console - invoke enter
+[2013-01-28 01:03:58.116] [INFO] console - undefined
+[2013-01-28 01:03:58.116] [ERROR] console -  Caught exception: TypeError: Cannot read property 'userid' of undefined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:143:30)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-28 01:03:58.117] [INFO] console - res.length=0
+[2013-01-28 01:03:58.118] [INFO] console - length=0
+[2013-01-28 01:03:58.118] [INFO] console - res = 
+[2013-01-28 01:03:58.118] [INFO] console - length=0
+[2013-01-28 01:04:01.115] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-28 01:05:23.621] [INFO] console - invoke enter
+[2013-01-28 01:05:23.622] [INFO] console - undefined
+[2013-01-28 01:05:23.623] [ERROR] console -  Caught exception: TypeError: Cannot read property 'userid' of undefined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:143:30)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-28 01:05:23.624] [INFO] console - res.length=0
+[2013-01-28 01:05:23.624] [INFO] console - length=0
+[2013-01-28 01:05:23.624] [INFO] console - res = 
+[2013-01-28 01:05:23.624] [INFO] console - length=0
+[2013-01-28 01:05:26.621] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-28 01:06:49.127] [INFO] console - invoke enter
+[2013-01-28 01:06:49.128] [INFO] console - undefined
+[2013-01-28 01:06:49.128] [ERROR] console -  Caught exception: TypeError: Cannot read property 'userid' of undefined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:143:30)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-28 01:06:49.129] [INFO] console - res.length=0
+[2013-01-28 01:06:49.129] [INFO] console - length=0
+[2013-01-28 01:06:49.129] [INFO] console - res = 
+[2013-01-28 01:06:49.129] [INFO] console - length=0
+[2013-01-28 01:06:52.127] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-28 01:08:14.635] [INFO] console - invoke enter
+[2013-01-28 01:08:14.635] [INFO] console - undefined
+[2013-01-28 01:08:14.636] [ERROR] console -  Caught exception: TypeError: Cannot read property 'userid' of undefined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:143:30)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-28 01:08:14.637] [INFO] console - res.length=0
+[2013-01-28 01:08:14.637] [INFO] console - length=0
+[2013-01-28 01:08:14.637] [INFO] console - res = 
+[2013-01-28 01:08:14.637] [INFO] console - length=0
+[2013-01-28 01:08:17.635] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-28 01:09:40.508] [INFO] console - invoke enter
+[2013-01-28 01:09:40.510] [INFO] console - undefined
+[2013-01-28 01:09:40.511] [ERROR] console -  Caught exception: TypeError: Cannot read property 'userid' of undefined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:143:30)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-28 01:09:40.512] [INFO] console - res.length=0
+[2013-01-28 01:09:40.512] [INFO] console - length=0
+[2013-01-28 01:09:40.512] [INFO] console - res = 
+[2013-01-28 01:09:40.513] [INFO] console - length=0
+[2013-01-28 01:09:43.508] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-28 01:11:06.014] [INFO] console - invoke enter
+[2013-01-28 01:11:06.015] [INFO] console - undefined
+[2013-01-28 01:11:06.015] [ERROR] console -  Caught exception: TypeError: Cannot read property 'userid' of undefined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:143:30)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-28 01:11:06.017] [INFO] console - res.length=0
+[2013-01-28 01:11:06.017] [INFO] console - length=0
+[2013-01-28 01:11:06.017] [INFO] console - res = 
+[2013-01-28 01:11:06.017] [INFO] console - length=0
+[2013-01-28 01:11:09.014] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-28 01:12:31.521] [INFO] console - invoke enter
+[2013-01-28 01:12:31.522] [INFO] console - undefined
+[2013-01-28 01:12:31.522] [ERROR] console -  Caught exception: TypeError: Cannot read property 'userid' of undefined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:143:30)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-28 01:12:31.523] [INFO] console - res.length=0
+[2013-01-28 01:12:31.524] [INFO] console - length=0
+[2013-01-28 01:12:31.524] [INFO] console - res = 
+[2013-01-28 01:12:31.524] [INFO] console - length=0
+[2013-01-28 01:12:34.520] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-28 01:13:57.028] [INFO] console - invoke enter
+[2013-01-28 01:13:57.029] [INFO] console - undefined
+[2013-01-28 01:13:57.029] [ERROR] console -  Caught exception: TypeError: Cannot read property 'userid' of undefined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:143:30)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-28 01:13:57.030] [INFO] console - res.length=0
+[2013-01-28 01:13:57.031] [INFO] console - length=0
+[2013-01-28 01:13:57.031] [INFO] console - res = 
+[2013-01-28 01:13:57.031] [INFO] console - length=0
+[2013-01-28 01:14:00.028] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.enter" timeout.
+[2013-01-28 01:14:59.008] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-28 01:14:59.408] [INFO] console - info: 'socket.io started'
+[2013-01-28 01:14:59.452] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-28 01:14:59.492] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-28 01:14:59.493] [INFO] console - info: 'socket.io started'
+[2013-01-28 01:14:59.494] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-28 01:15:00.879] [INFO] console - invoke enter
+[2013-01-28 01:15:00.917] [ERROR] console -  Caught exception: ReferenceError: res is not defined
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:138:20)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-01-28 01:16:05.840] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-28 01:16:06.239] [INFO] console - info: 'socket.io started'
+[2013-01-28 01:16:06.283] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-28 01:16:06.322] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-28 01:16:06.323] [INFO] console - info: 'socket.io started'
+[2013-01-28 01:16:06.323] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-28 01:16:08.264] [INFO] console - invoke enter
+[2013-01-28 01:16:08.304] [INFO] console - res=[object Object]
+[2013-01-28 01:16:08.304] [INFO] console - rid=undefined
+[2013-01-28 01:16:08.304] [INFO] console - uid=chenyl107*undefined
+[2013-01-28 01:16:08.306] [ERROR] console -  Caught exception: TypeError: Cannot read property 'length' of undefined
+    at Object.crc32 (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/crc/lib/crc.js:322:13)
+    at Object.module.exports.dispatch (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/util/dispatcher.js:4:27)
+    at exp.chat (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/util/routeUtil.js:12:23)
+    at genRouteFun (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/proxy.js:145:7)
+    at proxyCB (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-client/client.js:157:9)
+    at Object.genFunctionProxy [as add] (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/util/proxy.js:59:12)
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:156:45)
+    at Object.utils.invokeCallback (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/util/utils.js:8:6)
+    at userinfoDao.checkUserinfoByUsernameAndPassword (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/dao/userinfoDAO.js:26:23)
+    at Query.NND.query (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/dao/mysql/mysql.js:31:4)
+[2013-01-28 01:18:09.768] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-28 01:18:10.168] [INFO] console - info: 'socket.io started'
+[2013-01-28 01:18:10.196] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-28 01:18:10.254] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-28 01:18:10.256] [INFO] console - info: 'socket.io started'
+[2013-01-28 01:18:10.256] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-28 01:18:11.971] [INFO] console - invoke enter
+[2013-01-28 01:18:12.005] [INFO] console - res=[object Object]
+[2013-01-28 01:18:12.006] [INFO] console - rid=undefined
+[2013-01-28 01:18:12.006] [INFO] console - uid=chenyl107*undefined
+[2013-01-28 01:18:12.007] [ERROR] console -  Caught exception: TypeError: Cannot read property 'length' of undefined
+    at Object.crc32 (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/crc/lib/crc.js:322:13)
+    at Object.module.exports.dispatch (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/util/dispatcher.js:4:27)
+    at exp.chat (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/util/routeUtil.js:12:23)
+    at genRouteFun (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/proxy.js:145:7)
+    at proxyCB (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-client/client.js:157:9)
+    at Object.genFunctionProxy [as add] (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/util/proxy.js:59:12)
+    at handler.enter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/connector/handler/entryHandler.js:156:45)
+    at Object.utils.invokeCallback (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/util/utils.js:8:6)
+    at userinfoDao.checkUserinfoByUsernameAndPassword (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/dao/userinfoDAO.js:26:23)
+    at Query.NND.query (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/dao/mysql/mysql.js:31:4)
+[2013-01-28 01:20:59.818] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-3"
+[2013-01-28 01:21:00.220] [INFO] console - info: 'socket.io started'
+[2013-01-28 01:21:00.258] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-01-28 01:21:00.321] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-3"
+[2013-01-28 01:21:00.323] [INFO] console - info: 'socket.io started'
+[2013-01-28 01:21:00.323] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-3" started.
+[2013-01-28 01:21:24.757] [INFO] console - invoke enter
+[2013-01-28 01:21:24.792] [INFO] console - res=[object Object]
+[2013-01-28 01:21:24.792] [INFO] console - rid=1
+[2013-01-28 01:21:24.792] [INFO] console - uid=chenyl107*1
+[2013-01-28 01:21:37.561] [INFO] console - invoke enter
