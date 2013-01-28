@@ -8,6 +8,44 @@
 var pomelo = window.pomelo;
 
 
+
+function enterGame(username,password,host,port)
+{
+
+
+    pomelo.init({host:host,port:port,log:true},function(){
+        var route = "connector.entryHandler.enter";
+        pomelo.request(route,{username:username,password:password},function(data){
+
+            //如果返回的字段有reason说明用户信息有问题
+            if(null != data.reason )
+            {
+                alert(data.reason);
+            }else{
+                $("#loginView").hide();
+                $("#chatHistory").show();
+
+
+
+
+
+
+                console.log(data.userinfo.food);
+                $("#food").html(data.userinfo.food);
+                $("#oil").html(data.userinfo.oil);
+                $("#iron").html(data.userinfo.iron);
+                $("#mine").html(data.userinfo.mine);
+
+
+                //得到自己的建筑function
+
+
+
+
+            }
+        });
+    });
+}
 //连接Gate服务器得到分配的Connector服务器host和port
 function connectToGateAndGetConnector(uid,callback){
     var route = 'gate.gateHandler.queryEntry';
@@ -27,8 +65,8 @@ function connectToGateAndGetConnector(uid,callback){
 function showLogin() {
     $("#loginView").show();
     $("#chatHistory").hide();
-    $("#toolbar").hide();
-    $("#loginError").hide();
+
+
     $("#loginUser").focus();
 
     $("#login").click(function() {
@@ -38,14 +76,10 @@ function showLogin() {
         //连接Gate服务器得到分配的Connector服务器host和port
         connectToGateAndGetConnector(username,function(host,port){//username(uid)用来做分配Connector服务器的依据
 
-            pomelo.init({host:host,port:port,log:true},function(){
-                var route = "connector.entryHandler.enter";
-                pomelo.request(route,{username:username,password:password},function(data){
+            enterGame(username,password,host,port);
 
-                    console.log(data);
-                });
 
-            });
+
 
         });
 

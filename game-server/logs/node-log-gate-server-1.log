@@ -480,3 +480,53 @@
 [2013-01-28 01:21:00.321] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
 [2013-01-28 01:21:00.325] [INFO] console - info: 'socket.io started'
 [2013-01-28 01:21:00.326] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-01-29 03:46:29.127] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-01-29 03:46:29.887] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-01-29 03:46:30.010] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-01-29 03:46:30.013] [INFO] console - info: 'socket.io started'
+[2013-01-29 03:46:30.014] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-01-29 03:49:37.909] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-01-29 03:49:38.309] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-01-29 03:49:38.365] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-01-29 03:49:38.368] [INFO] console - info: 'socket.io started'
+[2013-01-29 03:49:38.369] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-01-29 03:57:13.098] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-01-29 03:57:13.499] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-01-29 03:57:13.576] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-01-29 03:57:13.579] [INFO] console - info: 'socket.io started'
+[2013-01-29 03:57:13.580] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-01-29 04:12:55.242] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-01-29 04:12:55.648] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-01-29 04:12:55.708] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-01-29 04:12:55.710] [INFO] console - info: 'socket.io started'
+[2013-01-29 04:12:55.711] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-01-29 04:28:34.392] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-01-29 04:28:34.801] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-01-29 04:28:34.871] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-01-29 04:28:34.875] [INFO] console - info: 'socket.io started'
+[2013-01-29 04:28:34.876] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-01-29 04:32:41.778] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-01-29 04:32:42.164] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-01-29 04:32:42.237] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-01-29 04:32:42.241] [INFO] console - info: 'socket.io started'
+[2013-01-29 04:32:42.241] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-01-29 04:36:23.232] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-01-29 04:36:23.630] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-01-29 04:36:23.703] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-01-29 04:36:23.707] [INFO] console - info: 'socket.io started'
+[2013-01-29 04:36:23.707] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-01-29 04:41:30.847] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-01-29 04:41:31.255] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-01-29 04:41:31.313] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-01-29 04:41:31.316] [INFO] console - info: 'socket.io started'
+[2013-01-29 04:41:31.317] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-01-29 04:53:28.359] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-01-29 04:53:28.775] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-01-29 04:53:28.834] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-01-29 04:53:28.838] [INFO] console - info: 'socket.io started'
+[2013-01-29 04:53:28.838] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-01-29 05:03:44.819] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-01-29 05:03:45.223] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-01-29 05:03:45.292] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-01-29 05:03:45.295] [INFO] console - info: 'socket.io started'
+[2013-01-29 05:03:45.296] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.

@@ -125,24 +125,28 @@ handler.enter = function(msg, session, next) {
         }else{
 
            if(res.uid == 0){
-                next(null, {code: 200, reason: "用户不存在，请确认账户信息是否填写正确!"});
-
+               next(null, {code: 200, reason: "用户不存在，请确认账户信息是否填写正确!"});
+               return;
 
            }else{
                console.log("res="+res);
                var rid = res.userid;
                var uid = res.username + '*' + rid;
-               console.log("rid="+rid);
-               console.log("uid="+uid);
                var sessionService = self.app.get('sessionService');
 
-               //duplicate log in
+               console.log("sessionService.getByUid(uid)="+sessionService.getByUid(uid));
+               //判断用户是否重复登陆
                if( !! sessionService.getByUid(uid)) {
-                   next(null, {
-                       code: 500,
-                       error: true
+                   sessionService.kick(uid,function(){
+                       next(null, {
+                           code: 500,
+                           error: true,
+                           reason:"当前玩家已在线，不能重复登陆"
+                       });
+                       return;
+
                    });
-                   return;
+
                }
 
                session.bind(uid);
@@ -152,17 +156,23 @@ handler.enter = function(msg, session, next) {
                        console.error('set rid for session service failed! error is : %j', err.stack);
                    }
                });
-               session.on('closed', onUserLeave.bind(null, self.app));
+
+               //这个是用来当玩家T出去的时候（看kick源代码）把玩家从chat服务器也T出去（暂时用不上）
+               //session.on('closed', onUserLeave.bind(null, self.app));
 
 
-               self.app.rpc.chat.chatRemote.add(session, uid, self.app.get('serverId'), rid, true, function(users) {
-                   next(null, {
+               //暂时用不是聊天服务器
+//               self.app.rpc.chat.chatRemote.add(session, uid, self.app.get('serverId'), rid, true, function(users) {
+//                   next(null, {
+//                       code: 200,
+//                       users: users
+//                   });
+//               });
+
+               next(null, {
                        code: 200,
-                       users: users
+                       userinfo: res
                    });
-               });
-
-
             }
 
         }
@@ -181,6 +191,7 @@ handler.enter = function(msg, session, next) {
  *
  */
 var onUserLeave = function(app, session) {
+    console.log("invoke");
 		if(!session || !session.uid) {
 			return;
 		}
