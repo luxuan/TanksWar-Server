@@ -31,6 +31,7 @@ handler.increaseArchitectureLevel = function(msg,session,next){
 handler.getArchitecture = function(msg, session, next) {
 	console.log("invoke getArchitecture");
     //得到数据库的建筑的信息
+
 	architectureDAO.getResourceByCategory(msg.category,function(err,Resources) {
 		if (err) {
 			logger.error('getResourceByCategory failed!');
@@ -118,23 +119,26 @@ handler.enter = function(msg, session, next) {
     //检测游戏账号是否在数据库中
     userinfoDAO.checkUserinfoByUsernameAndPassword(msg,function(err,res){
 
-        if(err){
+        if(err)
+        {
             logger.error("checkUserinfoByUsernameAndPassword failed");
             next(new Error('fail to checkUserinfoByUsernameAndPassword at enter'));
             return;
         }else{
 
-           if(res.uid == 0){
+           if(res.uid == 0)
+           {
                next(null, {code: 200, reason: "用户不存在，请确认账户信息是否填写正确!"});
                return;
-
            }else{
                console.log("res="+res);
                var rid = res.userid;
                var uid = res.username + '*' + rid;
                var sessionService = self.app.get('sessionService');
 
-               console.log("sessionService.getByUid(uid)="+sessionService.getByUid(uid));
+
+
+               //console.log("sessionService.getByUid(uid)="+sessionService.getByUid(uid));
                //判断用户是否重复登陆
                if( !! sessionService.getByUid(uid)) {
                    sessionService.kick(uid,function(){
@@ -152,27 +156,24 @@ handler.enter = function(msg, session, next) {
                session.bind(uid);
                session.set('rid', rid);
                session.push('rid', function(err) {
-                   if(err) {
+                   if(err)
+                   {
                        console.error('set rid for session service failed! error is : %j', err.stack);
                    }
                });
 
-               //这个是用来当玩家T出去的时候（看kick源代码）把玩家从chat服务器也T出去（暂时用不上）
-               //session.on('closed', onUserLeave.bind(null, self.app));
+
+               //测试我修改的pomelo源代码
+//               var sessionService = this.app.get('sessionService');
+//               console.log("sessionService.getAll()="+sessionService.getAll());
+//               var thesessions = sessionService.getAll();
+//               for(var hehe in thesessions)
+//               {
+//                   console.log("hehe="+hehe);
+//               }
 
 
-               //暂时用不是聊天服务器
-//               self.app.rpc.chat.chatRemote.add(session, uid, self.app.get('serverId'), rid, true, function(users) {
-//                   next(null, {
-//                       code: 200,
-//                       users: users
-//                   });
-//               });
-
-               next(null, {
-                       code: 200,
-                       userinfo: res
-                   });
+               next(null, {code: 200,userinfo: res});
             }
 
         }
@@ -190,10 +191,10 @@ handler.enter = function(msg, session, next) {
  * @param {Object} session current session object
  *
  */
-var onUserLeave = function(app, session) {
-    console.log("invoke");
-		if(!session || !session.uid) {
-			return;
-		}
-		app.rpc.chat.chatRemote.kick(session, session.uid, app.get('serverId'), session.get('rid'), null);
-	};
+//var onUserLeave = function(app, session) {
+//    console.log("invoke");
+//		if(!session || !session.uid) {
+//			return;
+//		}
+//		app.rpc.chat.chatRemote.kick(session, session.uid, app.get('serverId'), session.get('rid'), null);
+//	};

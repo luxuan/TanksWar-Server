@@ -1,412 +1,1665 @@
-[2013-01-06 21:02:26.079] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-06 21:02:26.505] [INFO] console - info: 'socket.io started'
-[2013-01-06 21:02:26.522] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-06 21:02:26.597] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-06 21:02:26.598] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-06 21:25:20.226] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-06 21:25:20.600] [INFO] console - info: 'socket.io started'
-[2013-01-06 21:25:20.612] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-06 21:25:20.677] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-06 21:25:20.677] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-07 20:04:42.479] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-07 20:04:43.261] [INFO] console - info: 'socket.io started'
-[2013-01-07 20:04:43.323] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 20:04:43.396] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-07 20:04:43.396] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-07 20:57:17.755] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-07 20:57:18.206] [INFO] console - info: 'socket.io started'
-[2013-01-07 20:57:18.216] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 20:57:18.261] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-07 20:57:18.262] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-07 21:06:11.542] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-07 21:06:12.005] [INFO] console - info: 'socket.io started'
-[2013-01-07 21:06:12.017] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 21:06:12.072] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-07 21:06:12.073] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-07 21:15:31.191] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-07 21:15:31.613] [INFO] console - info: 'socket.io started'
-[2013-01-07 21:15:31.627] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 21:15:31.693] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-07 21:15:31.693] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-07 22:07:59.426] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-07 22:07:59.845] [INFO] console - info: 'socket.io started'
-[2013-01-07 22:07:59.854] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 22:09:18.292] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-07 22:09:18.771] [INFO] console - info: 'socket.io started'
-[2013-01-07 22:09:18.784] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 22:09:18.860] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-07 22:09:18.860] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-07 22:10:36.045] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-07 22:10:36.492] [INFO] console - info: 'socket.io started'
-[2013-01-07 22:10:36.506] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 22:10:36.598] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-07 22:10:36.599] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-07 22:11:37.539] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-07 22:11:38.053] [INFO] console - info: 'socket.io started'
-[2013-01-07 22:11:38.063] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 22:11:38.125] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-07 22:11:38.126] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-07 22:13:59.678] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-07 22:14:00.102] [INFO] console - info: 'socket.io started'
-[2013-01-07 22:14:00.112] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 22:14:00.220] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-07 22:14:00.220] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-07 22:14:41.585] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-07 22:14:42.021] [INFO] console - info: 'socket.io started'
-[2013-01-07 22:14:42.044] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 22:14:42.099] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-07 22:14:42.100] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-07 22:15:50.483] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-07 22:15:50.910] [INFO] console - info: 'socket.io started'
-[2013-01-07 22:15:50.920] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 22:15:50.986] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-07 22:15:50.986] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-07 22:17:21.399] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-07 22:17:21.822] [INFO] console - info: 'socket.io started'
-[2013-01-07 22:17:21.834] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 22:17:21.900] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-07 22:17:21.900] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-07 22:24:00.950] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-07 22:24:01.369] [INFO] console - info: 'socket.io started'
-[2013-01-07 22:24:01.383] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 22:24:01.455] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-07 22:24:01.456] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-07 22:40:04.900] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-07 22:40:05.349] [INFO] console - info: 'socket.io started'
-[2013-01-07 22:40:05.358] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 22:42:41.729] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-07 22:42:42.158] [INFO] console - info: 'socket.io started'
-[2013-01-07 22:42:42.166] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 22:43:51.802] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-07 22:43:52.217] [INFO] console - info: 'socket.io started'
-[2013-01-07 22:43:52.229] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 22:44:41.556] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-07 22:44:41.998] [INFO] console - info: 'socket.io started'
-[2013-01-07 22:44:42.008] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 22:44:42.066] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-07 22:44:42.067] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-07 22:45:30.924] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-07 22:45:31.342] [INFO] console - info: 'socket.io started'
-[2013-01-07 22:45:31.352] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 22:45:58.577] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-07 22:45:59.043] [INFO] console - info: 'socket.io started'
-[2013-01-07 22:45:59.054] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 22:45:59.144] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-07 22:45:59.144] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-07 22:48:02.566] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-07 22:48:03.004] [INFO] console - info: 'socket.io started'
-[2013-01-07 22:48:03.013] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 22:48:03.116] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-07 22:48:03.117] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-08 09:30:49.997] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-08 09:30:50.724] [INFO] console - info: 'socket.io started'
-[2013-01-08 09:30:50.787] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-08 09:30:50.912] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-08 09:30:50.912] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-10 17:10:34.385] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-10 17:10:35.025] [INFO] console - info: 'socket.io started'
-[2013-01-10 17:10:35.034] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-10 17:10:35.185] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-10 17:10:35.186] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-10 17:12:11.959] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-10 17:12:12.351] [INFO] console - info: 'socket.io started'
-[2013-01-10 17:12:12.363] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-10 17:12:12.436] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-10 17:12:12.436] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-10 19:35:15.373] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-10 19:35:15.801] [INFO] console - info: 'socket.io started'
-[2013-01-10 19:35:15.811] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-10 19:35:15.869] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-10 19:35:15.870] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-10 20:17:02.930] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-10 20:17:03.340] [INFO] console - info: 'socket.io started'
-[2013-01-10 20:17:03.351] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-10 20:17:03.452] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-10 20:17:03.453] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-13 15:22:36.749] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-13 15:22:37.438] [INFO] console - info: 'socket.io started'
-[2013-01-13 15:22:37.447] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-13 15:22:37.595] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-13 15:22:37.595] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-14 15:18:58.243] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-14 15:18:58.862] [INFO] console - info: 'socket.io started'
-[2013-01-14 15:18:58.871] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-14 15:18:59.050] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-14 15:18:59.051] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-14 16:47:29.384] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-14 16:47:30.008] [INFO] console - info: 'socket.io started'
-[2013-01-14 16:47:30.015] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-14 16:47:30.304] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-14 16:47:30.305] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-14 18:45:18.401] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-14 18:45:18.787] [INFO] console - info: 'socket.io started'
-[2013-01-14 18:45:18.796] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-14 18:45:18.856] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-14 18:45:18.857] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-15 08:19:34.601] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-15 08:19:35.210] [INFO] console - info: 'socket.io started'
-[2013-01-15 08:19:35.219] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-15 08:19:35.554] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-15 08:19:35.554] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-17 18:22:30.176] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-17 18:22:30.658] [INFO] console - info: 'socket.io started'
-[2013-01-17 18:22:30.667] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-17 18:22:30.807] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-17 18:22:30.808] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-17 19:46:52.868] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-17 19:46:53.246] [INFO] console - info: 'socket.io started'
-[2013-01-17 19:46:53.255] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-17 19:46:53.340] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-17 19:46:53.340] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-23 14:53:00.181] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-23 14:53:00.546] [INFO] console - info: 'socket.io started'
-[2013-01-23 14:53:00.558] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-23 14:53:00.679] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-23 14:53:00.680] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-23 15:14:41.920] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-23 15:14:42.332] [INFO] console - info: 'socket.io started'
-[2013-01-23 15:14:42.346] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-23 15:14:42.427] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-23 15:14:42.427] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-23 15:17:47.106] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-23 15:17:47.525] [INFO] console - info: 'socket.io started'
-[2013-01-23 15:17:47.538] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-23 15:17:47.628] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-23 15:17:47.629] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-23 15:19:22.083] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-23 15:19:22.508] [INFO] console - info: 'socket.io started'
-[2013-01-23 15:19:22.522] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-23 15:19:22.599] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-23 15:19:22.599] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-23 15:20:14.778] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-23 15:20:15.201] [INFO] console - info: 'socket.io started'
-[2013-01-23 15:20:15.214] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-23 15:20:15.274] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-23 15:20:15.275] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-23 15:22:38.373] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-23 15:22:38.802] [INFO] console - info: 'socket.io started'
-[2013-01-23 15:22:38.815] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-23 15:22:38.913] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-23 15:22:38.914] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-23 15:52:08.983] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-23 15:52:09.380] [INFO] console - info: 'socket.io started'
-[2013-01-23 15:52:09.392] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-23 15:52:09.454] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-23 15:52:09.455] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-23 16:00:40.718] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-23 16:00:41.109] [INFO] console - info: 'socket.io started'
-[2013-01-23 16:00:41.122] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-23 16:00:41.190] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-23 16:00:41.191] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-23 17:10:25.028] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-23 17:10:25.456] [INFO] console - info: 'socket.io started'
-[2013-01-23 17:10:25.476] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-23 17:10:25.529] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-23 17:10:25.530] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-26 10:09:26.724] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-26 10:09:27.222] [INFO] console - info: 'socket.io started'
-[2013-01-26 10:09:27.235] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-26 10:09:27.492] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-26 10:09:27.492] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-26 10:17:09.232] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-26 10:17:09.652] [INFO] console - info: 'socket.io started'
-[2013-01-26 10:17:09.663] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-26 10:17:09.734] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-26 10:17:09.735] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-26 11:10:09.367] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-26 11:10:09.755] [INFO] console - info: 'socket.io started'
-[2013-01-26 11:10:09.767] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-26 11:10:09.841] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-26 11:10:09.842] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-26 11:34:43.553] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-26 11:34:44.000] [INFO] console - info: 'socket.io started'
-[2013-01-26 11:34:44.014] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-26 11:34:44.138] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-26 11:34:44.139] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-26 11:47:17.908] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-26 11:47:18.336] [INFO] console - info: 'socket.io started'
-[2013-01-26 11:47:18.352] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-26 11:47:18.410] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-26 11:47:18.411] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-26 11:48:49.759] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-26 11:48:50.187] [INFO] console - info: 'socket.io started'
-[2013-01-26 11:48:50.199] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-26 11:48:50.280] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-26 11:48:50.280] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-26 11:50:41.070] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-26 11:50:41.496] [INFO] console - info: 'socket.io started'
-[2013-01-26 11:50:41.507] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-26 11:50:41.580] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-26 11:50:41.580] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-26 11:51:57.708] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-26 11:51:58.117] [INFO] console - info: 'socket.io started'
-[2013-01-26 11:51:58.131] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-26 11:51:58.248] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-26 11:51:58.249] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-26 11:53:09.754] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-26 11:53:10.162] [INFO] console - info: 'socket.io started'
-[2013-01-26 11:53:10.175] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-26 11:53:10.298] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-26 11:53:10.299] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-27 19:18:58.412] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-27 19:18:58.919] [INFO] console - info: 'socket.io started'
-[2013-01-27 19:18:58.929] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-27 19:18:59.070] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-27 19:18:59.071] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-27 21:23:06.316] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-27 21:23:06.719] [INFO] console - info: 'socket.io started'
-[2013-01-27 21:23:06.730] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-27 21:23:06.804] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-27 21:23:06.805] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-27 21:26:50.830] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-27 21:26:51.223] [INFO] console - info: 'socket.io started'
-[2013-01-27 21:26:51.235] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-27 21:26:51.320] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-27 21:26:51.320] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-27 21:28:07.896] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-27 21:28:08.285] [INFO] console - info: 'socket.io started'
-[2013-01-27 21:28:08.297] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-27 21:28:08.367] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-27 21:28:08.369] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-27 21:28:24.651] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-27 21:28:25.026] [INFO] console - info: 'socket.io started'
-[2013-01-27 21:28:25.038] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-27 21:28:25.134] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-27 21:28:25.135] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-27 21:28:53.310] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-27 21:28:53.698] [INFO] console - info: 'socket.io started'
-[2013-01-27 21:28:53.710] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-27 21:28:53.795] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-27 21:28:53.796] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-27 21:29:48.309] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-27 21:29:48.697] [INFO] console - info: 'socket.io started'
-[2013-01-27 21:29:48.710] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-27 21:29:48.795] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-27 21:29:48.796] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-27 21:29:50.828] [ERROR] console -  Caught exception: TypeError: Object 1 has no method 'split'
-    at ChatRemote.get (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/chat/remote/chatRemote.js:44:25)
-    at ChatRemote.add (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/chat/remote/chatRemote.js:25:11)
-    at Object.module.exports.route (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/dispatcher.js:31:9)
-    at /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:16:14
-    at processMsg (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:87:14)
-    at Socket.pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:44:5)
-    at Socket.EventEmitter.emit [as $emit] (events.js:96:17)
-    at SocketNamespace.handlePacket (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/namespace.js:335:22)
-    at Manager.onClientMessage (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/manager.js:488:38)
-    at WebSocket.Transport.onMessage (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/transport.js:387:20)
-[2013-01-27 21:30:30.677] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-27 21:30:31.054] [INFO] console - info: 'socket.io started'
-[2013-01-27 21:30:31.066] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-27 21:30:31.157] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-27 21:30:31.158] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-27 21:31:03.762] [ERROR] console -  Caught exception: TypeError: Object 1 has no method 'split'
-    at ChatRemote.get (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/chat/remote/chatRemote.js:44:25)
-    at ChatRemote.add (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/chat/remote/chatRemote.js:25:11)
-    at Object.module.exports.route (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/dispatcher.js:31:9)
-    at /Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:16:14
-    at processMsg (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:87:14)
-    at Socket.pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:44:5)
-    at Socket.EventEmitter.emit [as $emit] (events.js:96:17)
-    at SocketNamespace.handlePacket (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/namespace.js:335:22)
-    at Manager.onClientMessage (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/manager.js:488:38)
-    at WebSocket.Transport.onMessage (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/transport.js:387:20)
-[2013-01-28 00:20:31.183] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-28 00:20:31.650] [INFO] console - info: 'socket.io started'
-[2013-01-28 00:20:31.662] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-28 00:20:31.782] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-28 00:20:31.782] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-28 00:25:59.093] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-28 00:25:59.463] [INFO] console - info: 'socket.io started'
-[2013-01-28 00:25:59.475] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-28 00:25:59.565] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-28 00:25:59.565] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-28 00:28:11.500] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-28 00:28:11.962] [INFO] console - info: 'socket.io started'
-[2013-01-28 00:28:11.975] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-28 00:28:12.084] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-28 00:28:12.084] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-28 00:30:09.992] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-28 00:30:10.382] [INFO] console - info: 'socket.io started'
-[2013-01-28 00:30:10.394] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-28 00:30:10.468] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-28 00:30:10.469] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-28 00:33:33.191] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-28 00:33:33.595] [INFO] console - info: 'socket.io started'
-[2013-01-28 00:33:33.607] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-28 00:33:33.655] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-28 00:33:33.655] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-28 00:53:25.714] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-28 00:53:26.085] [INFO] console - info: 'socket.io started'
-[2013-01-28 00:53:26.097] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-28 00:53:26.189] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-28 00:53:26.190] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-28 01:14:59.030] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-28 01:14:59.404] [INFO] console - info: 'socket.io started'
-[2013-01-28 01:14:59.416] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-28 01:14:59.491] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-28 01:14:59.492] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-28 01:16:05.827] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-28 01:16:06.207] [INFO] console - info: 'socket.io started'
-[2013-01-28 01:16:06.220] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-28 01:16:06.321] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-28 01:16:06.323] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-28 01:18:09.750] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-28 01:18:10.133] [INFO] console - info: 'socket.io started'
-[2013-01-28 01:18:10.145] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-28 01:18:10.254] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-28 01:18:10.255] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-28 01:20:59.811] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-28 01:21:00.185] [INFO] console - info: 'socket.io started'
-[2013-01-28 01:21:00.194] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-28 01:21:00.321] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-28 01:21:00.322] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-29 03:46:29.117] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-29 03:46:29.758] [INFO] console - info: 'socket.io started'
-[2013-01-29 03:46:29.870] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-29 03:46:30.009] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-29 03:46:30.010] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-29 03:49:37.895] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-29 03:49:38.270] [INFO] console - info: 'socket.io started'
-[2013-01-29 03:49:38.281] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-29 03:49:38.364] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-29 03:49:38.365] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-29 03:57:13.092] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-29 03:57:13.466] [INFO] console - info: 'socket.io started'
-[2013-01-29 03:57:13.479] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-29 03:57:13.575] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-29 03:57:13.576] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-29 04:12:55.228] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-29 04:12:55.626] [INFO] console - info: 'socket.io started'
-[2013-01-29 04:12:55.639] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-29 04:12:55.707] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-29 04:12:55.708] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-29 04:28:34.404] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-29 04:28:34.800] [INFO] console - info: 'socket.io started'
-[2013-01-29 04:28:34.813] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-29 04:28:34.871] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-29 04:28:34.872] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-29 04:32:41.762] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-29 04:32:42.145] [INFO] console - info: 'socket.io started'
-[2013-01-29 04:32:42.158] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-29 04:32:42.237] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-29 04:32:42.237] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-29 04:36:23.198] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-29 04:36:23.589] [INFO] console - info: 'socket.io started'
-[2013-01-29 04:36:23.606] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-29 04:36:23.703] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-29 04:36:23.703] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-29 04:41:30.841] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-29 04:41:31.222] [INFO] console - info: 'socket.io started'
-[2013-01-29 04:41:31.234] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-29 04:41:31.313] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-29 04:41:31.313] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-29 04:53:28.332] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-29 04:53:28.712] [INFO] console - info: 'socket.io started'
-[2013-01-29 04:53:28.723] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-29 04:53:28.834] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-29 04:53:28.835] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
-[2013-01-29 05:03:44.809] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
-[2013-01-29 05:03:45.195] [INFO] console - info: 'socket.io started'
-[2013-01-29 05:03:45.207] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-29 05:03:45.291] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
-[2013-01-29 05:03:45.292] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
+[2013-02-02 00:29:28.674] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-02-02 00:29:29.073] [INFO] console - info: 'socket.io started'
+[2013-02-02 00:29:29.075] [WARN] console - path is empty, path:/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/chat/handler
+[2013-02-02 00:29:29.084] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
+[2013-02-02 00:29:29.171] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
+[2013-02-02 00:29:29.172] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
+[2013-02-02 00:58:16.102] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-02-02 00:58:16.485] [INFO] console - info: 'socket.io started'
+[2013-02-02 00:58:16.487] [WARN] console - path is empty, path:/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/chat/handler
+[2013-02-02 00:58:16.498] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
+[2013-02-02 00:58:16.594] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
+[2013-02-02 00:58:16.595] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
+[2013-02-02 00:59:45.018] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-02-02 00:59:45.428] [INFO] console - info: 'socket.io started'
+[2013-02-02 00:59:45.430] [WARN] console - path is empty, path:/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/chat/handler
+[2013-02-02 00:59:45.439] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
+[2013-02-02 00:59:45.527] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
+[2013-02-02 00:59:45.527] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
+[2013-02-02 01:00:45.361] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-02-02 01:00:45.731] [INFO] console - info: 'socket.io started'
+[2013-02-02 01:00:45.732] [WARN] console - path is empty, path:/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/chat/handler
+[2013-02-02 01:00:45.742] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
+[2013-02-02 01:00:45.827] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
+[2013-02-02 01:00:45.828] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
+[2013-02-02 01:01:05.668] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-02-02 01:01:06.054] [INFO] console - info: 'socket.io started'
+[2013-02-02 01:01:06.056] [WARN] console - path is empty, path:/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/chat/handler
+[2013-02-02 01:01:06.067] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
+[2013-02-02 01:01:06.137] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
+[2013-02-02 01:01:06.137] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
+[2013-02-02 01:02:45.158] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-02-02 01:02:45.562] [INFO] console - info: 'socket.io started'
+[2013-02-02 01:02:45.564] [WARN] console - path is empty, path:/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/chat/handler
+[2013-02-02 01:02:45.574] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
+[2013-02-02 01:02:45.667] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
+[2013-02-02 01:02:45.667] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
+[2013-02-02 01:03:35.490] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-02-02 01:03:35.882] [INFO] console - info: 'socket.io started'
+[2013-02-02 01:03:35.884] [WARN] console - path is empty, path:/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/chat/handler
+[2013-02-02 01:03:35.894] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
+[2013-02-02 01:03:35.989] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
+[2013-02-02 01:03:35.989] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
+[2013-02-02 01:03:55.728] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-02-02 01:03:56.120] [INFO] console - info: 'socket.io started'
+[2013-02-02 01:03:56.122] [WARN] console - path is empty, path:/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/chat/handler
+[2013-02-02 01:03:56.130] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
+[2013-02-02 01:03:56.243] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
+[2013-02-02 01:03:56.244] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
+[2013-02-02 01:06:06.585] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-02-02 01:06:06.959] [INFO] console - info: 'socket.io started'
+[2013-02-02 01:06:06.989] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-02 01:06:07.055] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
+[2013-02-02 01:06:07.055] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
+[2013-02-02 01:09:15.666] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-02-02 01:09:16.053] [INFO] console - info: 'socket.io started'
+[2013-02-02 01:09:16.085] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-02 01:09:16.157] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
+[2013-02-02 01:09:16.158] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
+[2013-02-02 01:09:16.278] [INFO] console - invoke getArchitecture
+[2013-02-02 01:09:16.278] [INFO] console - session.get(uid)=undefined
+[2013-02-02 01:09:16.312] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 01:10:05.337] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-02-02 01:10:05.720] [INFO] console - info: 'socket.io started'
+[2013-02-02 01:10:05.751] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-02 01:10:05.819] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
+[2013-02-02 01:10:05.820] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
+[2013-02-02 01:10:05.961] [INFO] console - invoke getArchitecture
+[2013-02-02 01:10:05.961] [INFO] console - session.get(rid)=1
+[2013-02-02 01:10:05.995] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 01:13:33.145] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-02-02 01:13:33.522] [INFO] console - info: 'socket.io started'
+[2013-02-02 01:13:33.554] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-02 01:13:33.648] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
+[2013-02-02 01:13:33.649] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
+[2013-02-02 01:13:41.182] [INFO] console - invoke getArchitecture
+[2013-02-02 01:13:41.215] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 01:13:50.628] [INFO] console - invoke getArchitecture
+[2013-02-02 01:13:50.631] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 01:26:15.588] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-02-02 01:26:15.974] [INFO] console - info: 'socket.io started'
+[2013-02-02 01:26:16.006] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-02 01:26:16.102] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
+[2013-02-02 01:26:16.103] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
+[2013-02-02 01:26:19.283] [INFO] console - invoke getArchitecture
+[2013-02-02 01:26:19.316] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 01:26:32.125] [INFO] console - invoke getArchitecture
+[2013-02-02 01:26:32.126] [INFO] console - invoke getArchitecture
+[2013-02-02 01:26:32.130] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 01:26:32.134] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 03:57:07.357] [INFO] console - invoke getArchitecture
+[2013-02-02 03:57:07.360] [INFO] console - invoke getArchitecture
+[2013-02-02 03:57:07.362] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 03:57:07.365] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 03:57:59.234] [INFO] console - invoke getArchitecture
+[2013-02-02 03:57:59.236] [INFO] console - invoke getArchitecture
+[2013-02-02 03:57:59.238] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 03:57:59.239] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 03:59:44.174] [INFO] console - invoke getArchitecture
+[2013-02-02 03:59:44.176] [INFO] console - invoke getArchitecture
+[2013-02-02 03:59:44.179] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 03:59:44.180] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 04:00:19.290] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-02-02 04:00:19.757] [INFO] console - info: 'socket.io started'
+[2013-02-02 04:00:19.870] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-02 04:00:19.938] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
+[2013-02-02 04:00:19.939] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
+[2013-02-02 04:00:21.319] [INFO] console - invoke getArchitecture
+[2013-02-02 04:00:21.349] [INFO] console - invoke getArchitecture
+[2013-02-02 04:00:21.355] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 04:00:21.358] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 04:00:36.970] [INFO] console - invoke getArchitecture
+[2013-02-02 04:00:36.971] [INFO] console - invoke getArchitecture
+[2013-02-02 04:00:36.975] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 04:00:36.977] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 04:03:06.534] [INFO] console - invoke getArchitecture
+[2013-02-02 04:03:06.537] [INFO] console - invoke getArchitecture
+[2013-02-02 04:03:06.539] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 04:03:06.541] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 04:06:09.811] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-02-02 04:06:10.209] [INFO] console - info: 'socket.io started'
+[2013-02-02 04:06:10.233] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-02 04:06:10.300] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
+[2013-02-02 04:06:10.300] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
+[2013-02-02 04:06:13.342] [INFO] console - invoke getArchitecture
+[2013-02-02 04:06:13.393] [INFO] console - invoke getArchitecture
+[2013-02-02 04:06:13.398] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 04:06:13.400] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 04:06:18.685] [INFO] console - invoke getArchitecture
+[2013-02-02 04:06:18.687] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 04:08:47.963] [INFO] console - invoke getArchitecture
+[2013-02-02 04:08:47.966] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 04:09:26.968] [INFO] console - invoke getArchitecture
+[2013-02-02 04:09:26.972] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 04:11:02.459] [INFO] console - invoke getArchitecture
+[2013-02-02 04:11:02.462] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 04:14:00.484] [INFO] console - invoke getArchitecture
+[2013-02-02 04:14:00.487] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 04:16:07.550] [INFO] console - invoke getArchitecture
+[2013-02-02 04:16:07.553] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 04:19:33.784] [INFO] console - invoke getArchitecture
+[2013-02-02 04:19:33.787] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 04:20:11.978] [INFO] console - invoke getArchitecture
+[2013-02-02 04:20:11.982] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 04:25:47.162] [INFO] console - invoke getArchitecture
+[2013-02-02 04:25:47.165] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 04:32:24.951] [INFO] console - invoke getArchitecture
+[2013-02-02 04:32:24.953] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 04:33:42.859] [INFO] console - invoke getArchitecture
+[2013-02-02 04:33:42.862] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 04:35:25.820] [INFO] console - invoke getArchitecture
+[2013-02-02 04:35:25.822] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 04:35:44.050] [INFO] console - invoke getArchitecture
+[2013-02-02 04:35:44.051] [INFO] console - invoke getArchitecture
+[2013-02-02 04:35:44.053] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 04:35:44.055] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 04:41:31.329] [INFO] console - invoke getArchitecture
+[2013-02-02 04:41:31.331] [INFO] console - invoke getArchitecture
+[2013-02-02 04:41:31.333] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 04:41:31.334] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 04:43:22.792] [INFO] console - invoke getArchitecture
+[2013-02-02 04:43:22.793] [INFO] console - invoke getArchitecture
+[2013-02-02 04:43:22.795] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 04:43:22.797] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 04:43:58.920] [INFO] console - invoke getArchitecture
+[2013-02-02 04:43:58.922] [INFO] console - invoke getArchitecture
+[2013-02-02 04:43:58.924] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 04:43:58.925] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 04:46:10.229] [INFO] console - invoke getArchitecture
+[2013-02-02 04:46:10.231] [INFO] console - invoke getArchitecture
+[2013-02-02 04:46:10.234] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 04:46:10.235] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 04:48:59.395] [INFO] console - invoke getArchitecture
+[2013-02-02 04:48:59.397] [INFO] console - invoke getArchitecture
+[2013-02-02 04:48:59.400] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 04:48:59.402] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 04:50:15.074] [INFO] console - invoke getArchitecture
+[2013-02-02 04:50:15.075] [INFO] console - invoke getArchitecture
+[2013-02-02 04:50:15.077] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 04:50:15.079] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 04:50:56.038] [INFO] console - invoke getArchitecture
+[2013-02-02 04:50:56.041] [INFO] console - invoke getArchitecture
+[2013-02-02 04:50:56.042] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 04:50:56.043] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 04:52:38.346] [INFO] console - invoke getArchitecture
+[2013-02-02 04:52:38.348] [INFO] console - invoke getArchitecture
+[2013-02-02 04:52:38.350] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 04:52:38.351] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 04:53:25.392] [INFO] console - invoke getArchitecture
+[2013-02-02 04:53:25.395] [INFO] console - invoke getArchitecture
+[2013-02-02 04:53:25.397] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 04:53:25.398] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 04:55:23.361] [INFO] console - invoke getArchitecture
+[2013-02-02 04:55:23.362] [INFO] console - invoke getArchitecture
+[2013-02-02 04:55:23.364] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 04:55:23.365] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 04:57:35.291] [INFO] console - invoke getArchitecture
+[2013-02-02 04:57:35.292] [INFO] console - invoke getArchitecture
+[2013-02-02 04:57:35.294] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 04:57:35.295] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 04:58:37.427] [INFO] console - invoke getArchitecture
+[2013-02-02 04:58:37.428] [INFO] console - invoke getArchitecture
+[2013-02-02 04:58:37.430] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 04:58:37.432] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 04:59:08.699] [INFO] console - invoke getArchitecture
+[2013-02-02 04:59:08.701] [INFO] console - invoke getArchitecture
+[2013-02-02 04:59:08.703] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 04:59:08.704] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 05:00:07.730] [INFO] console - invoke getArchitecture
+[2013-02-02 05:00:07.732] [INFO] console - invoke getArchitecture
+[2013-02-02 05:00:07.735] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 05:00:07.736] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 05:00:41.156] [INFO] console - invoke getArchitecture
+[2013-02-02 05:00:41.157] [INFO] console - invoke getArchitecture
+[2013-02-02 05:00:41.160] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 05:00:41.161] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 05:03:29.292] [INFO] console - invoke getArchitecture
+[2013-02-02 05:03:29.293] [INFO] console - invoke getArchitecture
+[2013-02-02 05:03:29.295] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 05:03:29.297] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 05:04:30.766] [INFO] console - invoke getArchitecture
+[2013-02-02 05:04:30.767] [INFO] console - invoke getArchitecture
+[2013-02-02 05:04:30.769] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 05:04:30.770] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 05:41:19.029] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-02-02 05:41:19.479] [INFO] console - info: 'socket.io started'
+[2013-02-02 05:41:19.581] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-02 05:41:19.650] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
+[2013-02-02 05:41:19.651] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
+[2013-02-02 05:41:20.339] [INFO] console - invoke getArchitecture
+[2013-02-02 05:41:20.370] [INFO] console - invoke getArchitecture
+[2013-02-02 05:41:20.376] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 05:41:20.379] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 05:41:45.718] [INFO] console - invoke getArchitecture
+[2013-02-02 05:41:45.721] [INFO] console - invoke getArchitecture
+[2013-02-02 05:41:45.723] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 05:41:45.725] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 05:42:16.660] [INFO] console - invoke getArchitecture
+[2013-02-02 05:42:16.663] [INFO] console - invoke getArchitecture
+[2013-02-02 05:42:16.665] [INFO] console - []
+[2013-02-02 05:42:16.665] [INFO] console - []
+[2013-02-02 05:43:25.408] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-02-02 05:43:25.802] [INFO] console - info: 'socket.io started'
+[2013-02-02 05:43:25.842] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-02 05:43:25.899] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
+[2013-02-02 05:43:25.899] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
+[2013-02-02 05:43:27.819] [INFO] console - invoke getArchitecture
+[2013-02-02 05:43:27.850] [INFO] console - invoke getArchitecture
+[2013-02-02 05:43:27.856] [INFO] console - invoke getArchitecture
+[2013-02-02 05:43:27.857] [INFO] console - invoke getArchitecture
+[2013-02-02 05:43:27.860] [INFO] console - []
+[2013-02-02 05:43:27.861] [INFO] console - []
+[2013-02-02 05:43:27.864] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 05:43:27.866] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 05:48:34.483] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-02-02 05:48:34.863] [INFO] console - info: 'socket.io started'
+[2013-02-02 05:48:34.894] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-02 05:48:35.005] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
+[2013-02-02 05:48:35.005] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
+[2013-02-02 05:49:45.557] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-02-02 05:49:45.970] [INFO] console - info: 'socket.io started'
+[2013-02-02 05:49:45.999] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-02 05:49:46.078] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
+[2013-02-02 05:49:46.079] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
+[2013-02-02 05:57:14.432] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-02-02 05:57:14.808] [INFO] console - info: 'socket.io started'
+[2013-02-02 05:57:14.838] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-02 05:57:14.918] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
+[2013-02-02 05:57:14.918] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
+[2013-02-02 05:57:23.764] [INFO] console - invoke getArchitecture
+[2013-02-02 05:57:23.795] [INFO] console - invoke getArchitecture
+[2013-02-02 05:57:23.801] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 05:57:23.804] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 05:57:46.734] [INFO] console - invoke getArchitecture
+[2013-02-02 05:57:46.737] [INFO] console - invoke getArchitecture
+[2013-02-02 05:57:46.739] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 05:57:46.741] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 05:57:53.034] [INFO] console - invoke getArchitecture
+[2013-02-02 05:57:53.035] [INFO] console - invoke getArchitecture
+[2013-02-02 05:57:53.036] [INFO] console - []
+[2013-02-02 05:57:53.036] [INFO] console - []
+[2013-02-02 05:59:25.252] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-02-02 05:59:25.666] [INFO] console - info: 'socket.io started'
+[2013-02-02 05:59:25.705] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-02 05:59:25.815] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
+[2013-02-02 05:59:25.815] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
+[2013-02-02 05:59:27.793] [INFO] console - invoke getArchitecture
+[2013-02-02 05:59:27.823] [INFO] console - invoke getArchitecture
+[2013-02-02 05:59:27.829] [INFO] console - invoke getArchitecture
+[2013-02-02 05:59:27.830] [INFO] console - invoke getArchitecture
+[2013-02-02 05:59:27.833] [INFO] console - []
+[2013-02-02 05:59:27.834] [INFO] console - []
+[2013-02-02 05:59:27.837] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 05:59:27.839] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 05:59:34.916] [INFO] console - invoke getArchitecture
+[2013-02-02 05:59:34.918] [INFO] console - invoke getArchitecture
+[2013-02-02 05:59:34.920] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 05:59:34.921] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 05:59:39.626] [INFO] console - invoke getArchitecture
+[2013-02-02 05:59:39.627] [INFO] console - invoke getArchitecture
+[2013-02-02 05:59:39.629] [INFO] console - []
+[2013-02-02 05:59:39.630] [INFO] console - []
+[2013-02-02 06:01:12.086] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-02-02 06:01:12.446] [INFO] console - info: 'socket.io started'
+[2013-02-02 06:01:12.477] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-02 06:01:12.560] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
+[2013-02-02 06:01:12.560] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
+[2013-02-02 06:01:20.052] [INFO] console - invoke getArchitecture
+[2013-02-02 06:01:20.083] [INFO] console - invoke getArchitecture
+[2013-02-02 06:01:20.089] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 06:01:20.092] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 06:01:34.766] [INFO] console - invoke getArchitecture
+[2013-02-02 06:01:34.767] [INFO] console - invoke getArchitecture
+[2013-02-02 06:01:34.770] [INFO] console - []
+[2013-02-02 06:01:34.771] [INFO] console - []
+[2013-02-02 06:02:32.315] [INFO] console - invoke getArchitecture
+[2013-02-02 06:02:32.317] [INFO] console - invoke getArchitecture
+[2013-02-02 06:02:32.319] [INFO] console - []
+[2013-02-02 06:02:32.320] [INFO] console - []
+[2013-02-02 06:02:53.526] [INFO] console - invoke getArchitecture
+[2013-02-02 06:02:53.528] [INFO] console - invoke getArchitecture
+[2013-02-02 06:02:53.531] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 06:02:53.532] [INFO] console - [ { id: 8,
+    pointx: 111,
+    pointy: 111,
+    png: 'building2.png',
+    category: 'resource',
+    alevel: 1,
+    userid: 1 } ]
+[2013-02-02 06:04:47.344] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-02-02 06:04:47.765] [INFO] console - info: 'socket.io started'
+[2013-02-02 06:04:47.800] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-02 06:04:47.886] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
+[2013-02-02 06:04:47.887] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
+[2013-02-02 06:04:49.698] [INFO] console - invoke getArchitecture
+[2013-02-02 06:04:49.702] [ERROR] console -  Caught exception: ReferenceError: self is not defined
+    at Object.handler.getArchitecture (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/area/handler/architectureHandler.js:33:26)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-02-02 06:04:49.704] [INFO] console - invoke getArchitecture
+[2013-02-02 06:04:49.705] [ERROR] console -  Caught exception: ReferenceError: self is not defined
+    at Object.handler.getArchitecture (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/area/handler/architectureHandler.js:33:26)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-02-02 06:04:52.699] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "area.architectureHandler.getArchitecture" timeout.
+[2013-02-02 06:04:52.704] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "area.architectureHandler.getArchitecture" timeout.
+[2013-02-02 06:05:42.392] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-02-02 06:05:42.812] [INFO] console - info: 'socket.io started'
+[2013-02-02 06:05:42.849] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-02 06:05:42.944] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
+[2013-02-02 06:05:42.945] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
+[2013-02-02 06:05:44.839] [INFO] console - invoke getArchitecture
+[2013-02-02 06:05:44.841] [ERROR] console -  Caught exception: TypeError: Cannot call method 'get' of undefined
+    at Object.handler.getArchitecture (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/area/handler/architectureHandler.js:33:35)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-02-02 06:05:44.856] [INFO] console - invoke getArchitecture
+[2013-02-02 06:05:44.857] [ERROR] console -  Caught exception: TypeError: Cannot call method 'get' of undefined
+    at Object.handler.getArchitecture (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/area/handler/architectureHandler.js:33:35)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-02-02 06:05:47.839] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "area.architectureHandler.getArchitecture" timeout.
+[2013-02-02 06:05:47.857] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "area.architectureHandler.getArchitecture" timeout.
+[2013-02-02 06:08:06.321] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-02-02 06:08:06.758] [INFO] console - info: 'socket.io started'
+[2013-02-02 06:08:06.799] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-02 06:08:06.876] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
+[2013-02-02 06:08:06.876] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
+[2013-02-02 06:08:08.465] [INFO] console - invoke getArchitecture
+[2013-02-02 06:08:08.467] [ERROR] console -  Caught exception: TypeError: Cannot call method 'getAll' of undefined
+    at handler.getArchitecture (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/area/handler/architectureHandler.js:46:59)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-02-02 06:08:08.468] [INFO] console - invoke getArchitecture
+[2013-02-02 06:08:08.468] [ERROR] console -  Caught exception: TypeError: Cannot call method 'getAll' of undefined
+    at handler.getArchitecture (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/area/handler/architectureHandler.js:46:59)
+    at Service.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-02-02 06:08:11.466] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "area.architectureHandler.getArchitecture" timeout.
+[2013-02-02 06:08:11.468] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "area.architectureHandler.getArchitecture" timeout.

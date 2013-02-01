@@ -3,9 +3,9 @@ var logger = require('pomelo-logger').getLogger(__filename);
 var architectureDao = module.exports;
 var utils = require('../util/utils');
 
-architectureDao.getResourceByCategory = function(category, cb) {
-	var sql = 'select * from architecture where category = ?';
-	var args = [category];
+architectureDao.getArchitectureByCategory = function(category,userid, cb) {
+	var sql = 'select * from architecture where category = ? and userid = ?';
+	var args = [category,userid];
 	pomelo.app.get('dbclient').query(sql, args, function(err,res) {
 		if (err) {
 			logger.error('get architecture by getResourceByCategory for architectureDao failed!' + err.stack);

@@ -1,15 +1,15 @@
 var exp = module.exports;
 var dispatcher = require('./dispatcher');
 
-exp.chat = function(session, msg, app, cb) {
-	var chatServers = app.getServersByType('chat');
+exp.area = function(session, msg, app, cb) {
+	var areaServers = app.getServersByType('area');
 
-	if(!chatServers || chatServers.length === 0) {
-		cb(new Error('can not find chat servers.'));
+	if(!areaServers || areaServers.length === 0) {
+		cb(new Error('can not find area servers.'));
 		return;
 	}
 
-	var res = dispatcher.dispatch(session.get('rid'), chatServers);
+	var res = dispatcher.dispatch(session.get('rid'), areaServers);
 
 	cb(null, res.id);
 };

@@ -7,7 +7,43 @@
  */
 var pomelo = window.pomelo;
 
+function getMyArchitecture(category)
+{
+    var route = "area.architectureHandler.getArchitecture";
+    pomelo.request(route,{category:category},function(data){
 
+        console.log(data);
+        if(data.code === 200)
+        {
+
+            for(var i = 0;i<data.architecture.length;i++)
+            {
+
+                var htmlvalue = "";
+                for(var key in data.architecture[i])
+                {
+                        console.log("key="+key);
+                    htmlvalue = htmlvalue+key+"="+data.architecture[i][key]+"   ";
+
+                }
+
+                var messageElement2 = document.createElement("button");
+                messageElement2.value = "升级";
+                $("#"+category).append(messageElement2);
+
+                var messageElement = $(document.createElement("label"));
+                messageElement.html(htmlvalue);
+                $("#"+category).append(messageElement);
+
+
+
+                $("#"+category).append('</br>');
+            }
+        }
+
+       // $("#loginView");
+    });
+}
 
 function enterGame(username,password,host,port)
 {
@@ -24,21 +60,17 @@ function enterGame(username,password,host,port)
             }else{
                 $("#loginView").hide();
                 $("#chatHistory").show();
-
-
-
-
-
-
-                console.log(data.userinfo.food);
+                $("#username").html(data.userinfo.username);
                 $("#food").html(data.userinfo.food);
                 $("#oil").html(data.userinfo.oil);
                 $("#iron").html(data.userinfo.iron);
                 $("#mine").html(data.userinfo.mine);
 
 
-                //得到自己的建筑function
-
+                //得到自己军事区建筑
+                getMyArchitecture("military");
+                //得到自己资源区建筑
+                getMyArchitecture("resource");
 
 
 

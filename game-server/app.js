@@ -10,8 +10,8 @@ app.defaultConfiguration();
 
 //app configure
 app.configure('production|development', function() {
-	// route configures
-	app.route('chat', routeUtil.chat);
+	// route configures 和remote请求有关，handler无关
+	app.route('area', routeUtil.area);
 
 	// filter configures
 	app.filter(pomelo.timeout());

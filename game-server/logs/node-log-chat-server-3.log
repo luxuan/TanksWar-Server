@@ -1,390 +1,155 @@
-[2013-01-06 21:02:26.058] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-06 21:02:26.489] [INFO] console - info: 'socket.io started'
-[2013-01-06 21:02:26.501] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-06 21:02:26.597] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-06 21:02:26.598] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-06 21:25:20.242] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-06 21:25:20.619] [INFO] console - info: 'socket.io started'
-[2013-01-06 21:25:20.629] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-06 21:25:20.677] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-06 21:25:20.678] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-07 20:04:42.484] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-07 20:04:43.256] [INFO] console - info: 'socket.io started'
-[2013-01-07 20:04:43.318] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 20:04:43.396] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-07 20:04:43.396] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-07 20:57:17.715] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-07 20:57:18.159] [INFO] console - info: 'socket.io started'
-[2013-01-07 20:57:18.172] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 20:57:18.260] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-07 20:57:18.261] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-07 21:06:11.514] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-07 21:06:11.982] [INFO] console - info: 'socket.io started'
-[2013-01-07 21:06:11.994] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 21:06:12.071] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-07 21:06:12.071] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-07 21:15:31.205] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-07 21:15:31.617] [INFO] console - info: 'socket.io started'
-[2013-01-07 21:15:31.631] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 21:15:31.694] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-07 21:15:31.694] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-07 22:07:59.444] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-07 22:07:59.850] [INFO] console - info: 'socket.io started'
-[2013-01-07 22:07:59.857] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 22:09:18.310] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-07 22:09:18.800] [INFO] console - info: 'socket.io started'
-[2013-01-07 22:09:18.813] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 22:09:18.860] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-07 22:09:18.861] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-07 22:10:36.062] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-07 22:10:36.542] [INFO] console - info: 'socket.io started'
-[2013-01-07 22:10:36.557] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 22:10:36.598] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-07 22:10:36.599] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-07 22:11:37.511] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-07 22:11:38.027] [INFO] console - info: 'socket.io started'
-[2013-01-07 22:11:38.036] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 22:11:38.125] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-07 22:11:38.125] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-07 22:13:59.710] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-07 22:14:00.134] [INFO] console - info: 'socket.io started'
-[2013-01-07 22:14:00.144] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 22:14:00.220] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-07 22:14:00.220] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-07 22:14:41.571] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-07 22:14:42.012] [INFO] console - info: 'socket.io started'
-[2013-01-07 22:14:42.022] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 22:14:42.099] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-07 22:14:42.099] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-07 22:15:50.469] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-07 22:15:50.901] [INFO] console - info: 'socket.io started'
-[2013-01-07 22:15:50.910] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 22:15:50.986] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-07 22:15:50.986] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-07 22:17:21.400] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-07 22:17:21.819] [INFO] console - info: 'socket.io started'
-[2013-01-07 22:17:21.830] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 22:17:21.898] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-07 22:17:21.899] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-07 22:24:00.945] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-07 22:24:01.369] [INFO] console - info: 'socket.io started'
-[2013-01-07 22:24:01.381] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 22:24:01.455] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-07 22:24:01.456] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-07 22:40:04.918] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-07 22:40:05.355] [INFO] console - info: 'socket.io started'
-[2013-01-07 22:40:05.363] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 22:42:41.736] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-07 22:42:42.144] [INFO] console - info: 'socket.io started'
-[2013-01-07 22:42:42.152] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 22:43:51.820] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-07 22:43:52.239] [INFO] console - info: 'socket.io started'
-[2013-01-07 22:43:52.249] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 22:44:41.546] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-07 22:44:41.967] [INFO] console - info: 'socket.io started'
-[2013-01-07 22:44:41.979] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 22:44:42.066] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-07 22:44:42.067] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-07 22:45:30.916] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-07 22:45:31.334] [INFO] console - info: 'socket.io started'
-[2013-01-07 22:45:31.344] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 22:45:58.611] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-07 22:45:59.050] [INFO] console - info: 'socket.io started'
-[2013-01-07 22:45:59.060] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 22:45:59.144] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-07 22:45:59.145] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-07 22:48:02.600] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-07 22:48:03.057] [INFO] console - info: 'socket.io started'
-[2013-01-07 22:48:03.066] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-07 22:48:03.117] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-07 22:48:03.119] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-08 09:30:50.013] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-08 09:30:50.719] [INFO] console - info: 'socket.io started'
-[2013-01-08 09:30:50.784] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-08 09:30:50.912] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-08 09:30:50.912] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-10 17:10:34.397] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-10 17:10:35.023] [INFO] console - info: 'socket.io started'
-[2013-01-10 17:10:35.033] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-10 17:10:35.185] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-10 17:10:35.186] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-10 17:12:11.921] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-10 17:12:12.333] [INFO] console - info: 'socket.io started'
-[2013-01-10 17:12:12.344] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-10 17:12:12.436] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-10 17:12:12.436] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-10 19:35:15.389] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-10 19:35:15.801] [INFO] console - info: 'socket.io started'
-[2013-01-10 19:35:15.811] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-10 19:35:15.869] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-10 19:35:15.870] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-10 20:17:02.938] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-10 20:17:03.365] [INFO] console - info: 'socket.io started'
-[2013-01-10 20:17:03.384] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-10 20:17:03.452] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-10 20:17:03.453] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-13 15:22:36.731] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-13 15:22:37.444] [INFO] console - info: 'socket.io started'
-[2013-01-13 15:22:37.452] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-13 15:22:37.595] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-13 15:22:37.596] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-14 15:18:58.264] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-14 15:18:58.865] [INFO] console - info: 'socket.io started'
-[2013-01-14 15:18:58.874] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-14 15:18:59.050] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-14 15:18:59.051] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-14 16:47:29.379] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-14 16:47:30.000] [INFO] console - info: 'socket.io started'
-[2013-01-14 16:47:30.012] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-14 16:47:30.304] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-14 16:47:30.305] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-14 18:45:18.422] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-14 18:45:18.810] [INFO] console - info: 'socket.io started'
-[2013-01-14 18:45:18.820] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-14 18:45:18.856] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-14 18:45:18.857] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-15 08:19:34.605] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-15 08:19:35.210] [INFO] console - info: 'socket.io started'
-[2013-01-15 08:19:35.218] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-15 08:19:35.554] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-15 08:19:35.555] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-17 18:22:30.150] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-17 18:22:30.662] [INFO] console - info: 'socket.io started'
-[2013-01-17 18:22:30.670] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-17 18:22:30.807] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-17 18:22:30.807] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-17 19:46:52.881] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-17 19:46:53.276] [INFO] console - info: 'socket.io started'
-[2013-01-17 19:46:53.285] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-17 19:46:53.340] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-17 19:46:53.341] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-23 14:53:00.174] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-23 14:53:00.548] [INFO] console - info: 'socket.io started'
-[2013-01-23 14:53:00.560] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-23 14:53:00.679] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-23 14:53:00.680] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-23 15:14:41.926] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-23 15:14:42.334] [INFO] console - info: 'socket.io started'
-[2013-01-23 15:14:42.346] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-23 15:14:42.427] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-23 15:14:42.427] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-23 15:17:47.115] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-23 15:17:47.544] [INFO] console - info: 'socket.io started'
-[2013-01-23 15:17:47.561] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-23 15:17:47.628] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-23 15:17:47.629] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-23 15:19:22.096] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-23 15:19:22.512] [INFO] console - info: 'socket.io started'
-[2013-01-23 15:19:22.528] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-23 15:19:22.599] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-23 15:19:22.600] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-23 15:20:14.756] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-23 15:20:15.165] [INFO] console - info: 'socket.io started'
-[2013-01-23 15:20:15.179] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-23 15:20:15.274] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-23 15:20:15.274] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-23 15:22:38.397] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-23 15:22:38.817] [INFO] console - info: 'socket.io started'
-[2013-01-23 15:22:38.832] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-23 15:22:38.913] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-23 15:22:38.914] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-23 15:52:08.976] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-23 15:52:09.369] [INFO] console - info: 'socket.io started'
-[2013-01-23 15:52:09.382] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-23 15:52:09.454] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-23 15:52:09.455] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-23 16:00:40.711] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-23 16:00:41.085] [INFO] console - info: 'socket.io started'
-[2013-01-23 16:00:41.094] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-23 16:00:41.191] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-23 16:00:41.192] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-23 17:10:25.041] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-23 17:10:25.458] [INFO] console - info: 'socket.io started'
-[2013-01-23 17:10:25.469] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-23 17:10:25.528] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-23 17:10:25.529] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-26 10:09:26.733] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-26 10:09:27.225] [INFO] console - info: 'socket.io started'
-[2013-01-26 10:09:27.235] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-26 10:09:27.491] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-26 10:09:27.492] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-26 10:17:09.203] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-26 10:17:09.607] [INFO] console - info: 'socket.io started'
-[2013-01-26 10:17:09.619] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-26 10:17:09.734] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-26 10:17:09.735] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-26 11:10:09.385] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-26 11:10:09.776] [INFO] console - info: 'socket.io started'
-[2013-01-26 11:10:09.791] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-26 11:10:09.841] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-26 11:10:09.842] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-26 11:34:43.562] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-26 11:34:43.975] [INFO] console - info: 'socket.io started'
-[2013-01-26 11:34:43.987] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-26 11:34:44.137] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-26 11:34:44.138] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-26 11:47:17.900] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-26 11:47:18.323] [INFO] console - info: 'socket.io started'
-[2013-01-26 11:47:18.338] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-26 11:47:18.410] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-26 11:47:18.411] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-26 11:48:49.775] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-26 11:48:50.198] [INFO] console - info: 'socket.io started'
-[2013-01-26 11:48:50.209] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-26 11:48:50.280] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-26 11:48:50.280] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-26 11:50:41.063] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-26 11:50:41.503] [INFO] console - info: 'socket.io started'
-[2013-01-26 11:50:41.520] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-26 11:50:41.581] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-26 11:50:41.581] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-26 11:51:57.724] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-26 11:51:58.132] [INFO] console - info: 'socket.io started'
-[2013-01-26 11:51:58.144] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-26 11:51:58.248] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-26 11:51:58.249] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-26 11:53:09.788] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-26 11:53:10.222] [INFO] console - info: 'socket.io started'
-[2013-01-26 11:53:10.233] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-26 11:53:10.298] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-26 11:53:10.299] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-27 19:18:58.432] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-27 19:18:58.917] [INFO] console - info: 'socket.io started'
-[2013-01-27 19:18:58.930] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-27 19:18:59.070] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-27 19:18:59.071] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-27 21:23:06.339] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-27 21:23:06.741] [INFO] console - info: 'socket.io started'
-[2013-01-27 21:23:06.753] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-27 21:23:06.804] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-27 21:23:06.805] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-27 21:26:50.845] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-27 21:26:51.233] [INFO] console - info: 'socket.io started'
-[2013-01-27 21:26:51.245] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-27 21:26:51.320] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-27 21:26:51.320] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-27 21:28:07.889] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-27 21:28:08.260] [INFO] console - info: 'socket.io started'
-[2013-01-27 21:28:08.272] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-27 21:28:08.367] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-27 21:28:08.368] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-27 21:28:24.659] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-27 21:28:25.042] [INFO] console - info: 'socket.io started'
-[2013-01-27 21:28:25.055] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-27 21:28:25.135] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-27 21:28:25.135] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-27 21:28:53.323] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-27 21:28:53.704] [INFO] console - info: 'socket.io started'
-[2013-01-27 21:28:53.716] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-27 21:28:53.795] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-27 21:28:53.796] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-27 21:29:48.323] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-27 21:29:48.708] [INFO] console - info: 'socket.io started'
-[2013-01-27 21:29:48.721] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-27 21:29:48.795] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-27 21:29:48.796] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-27 21:30:30.706] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-27 21:30:31.088] [INFO] console - info: 'socket.io started'
-[2013-01-27 21:30:31.102] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-27 21:30:31.157] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-27 21:30:31.158] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-28 00:20:31.188] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-28 00:20:31.635] [INFO] console - info: 'socket.io started'
-[2013-01-28 00:20:31.646] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-28 00:20:31.782] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-28 00:20:31.782] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-28 00:25:59.113] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-28 00:25:59.499] [INFO] console - info: 'socket.io started'
-[2013-01-28 00:25:59.512] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-28 00:25:59.565] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-28 00:25:59.566] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-28 00:28:11.524] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-28 00:28:11.986] [INFO] console - info: 'socket.io started'
-[2013-01-28 00:28:11.999] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-28 00:28:12.084] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-28 00:28:12.084] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-28 00:30:09.998] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-28 00:30:10.385] [INFO] console - info: 'socket.io started'
-[2013-01-28 00:30:10.397] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-28 00:30:10.468] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-28 00:30:10.469] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-28 00:33:33.185] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-28 00:33:33.573] [INFO] console - info: 'socket.io started'
-[2013-01-28 00:33:33.586] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-28 00:33:33.655] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-28 00:33:33.655] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-28 00:53:25.731] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-28 00:53:26.111] [INFO] console - info: 'socket.io started'
-[2013-01-28 00:53:26.124] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-28 00:53:26.189] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-28 00:53:26.189] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-28 01:14:59.016] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-28 01:14:59.403] [INFO] console - info: 'socket.io started'
-[2013-01-28 01:14:59.417] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-28 01:14:59.491] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-28 01:14:59.492] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-28 01:16:05.850] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-28 01:16:06.231] [INFO] console - info: 'socket.io started'
-[2013-01-28 01:16:06.243] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-28 01:16:06.321] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-28 01:16:06.323] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-28 01:18:09.759] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-28 01:18:10.147] [INFO] console - info: 'socket.io started'
-[2013-01-28 01:18:10.161] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-28 01:18:10.254] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-28 01:18:10.255] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-28 01:20:59.830] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-28 01:21:00.210] [INFO] console - info: 'socket.io started'
-[2013-01-28 01:21:00.222] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-28 01:21:00.321] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-28 01:21:00.322] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-29 03:46:29.123] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-29 03:46:29.762] [INFO] console - info: 'socket.io started'
-[2013-01-29 03:46:29.872] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-29 03:46:30.009] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-29 03:46:30.010] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-29 03:49:37.898] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-29 03:49:38.278] [INFO] console - info: 'socket.io started'
-[2013-01-29 03:49:38.291] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-29 03:49:38.365] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-29 03:49:38.366] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-29 03:57:13.066] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-29 03:57:13.448] [INFO] console - info: 'socket.io started'
-[2013-01-29 03:57:13.460] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-29 03:57:13.575] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-29 03:57:13.576] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-29 04:12:55.223] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-29 04:12:55.623] [INFO] console - info: 'socket.io started'
-[2013-01-29 04:12:55.635] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-29 04:12:55.706] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-29 04:12:55.707] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-29 04:28:34.413] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-29 04:28:34.810] [INFO] console - info: 'socket.io started'
-[2013-01-29 04:28:34.821] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-29 04:28:34.871] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-29 04:28:34.872] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-29 04:32:41.773] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-29 04:32:42.169] [INFO] console - info: 'socket.io started'
-[2013-01-29 04:32:42.179] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-29 04:32:42.237] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-29 04:32:42.238] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-29 04:36:23.209] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-29 04:36:23.611] [INFO] console - info: 'socket.io started'
-[2013-01-29 04:36:23.623] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-29 04:36:23.703] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-29 04:36:23.703] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-29 04:41:30.834] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-29 04:41:31.208] [INFO] console - info: 'socket.io started'
-[2013-01-29 04:41:31.221] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-29 04:41:31.312] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-29 04:41:31.313] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-29 04:53:28.366] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-29 04:53:28.770] [INFO] console - info: 'socket.io started'
-[2013-01-29 04:53:28.779] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-29 04:53:28.834] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-29 04:53:28.835] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
-[2013-01-29 05:03:44.814] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
-[2013-01-29 05:03:45.215] [INFO] console - info: 'socket.io started'
-[2013-01-29 05:03:45.227] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
-[2013-01-29 05:03:45.291] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
-[2013-01-29 05:03:45.292] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
+[2013-02-02 00:29:28.689] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
+[2013-02-02 00:29:29.093] [INFO] console - info: 'socket.io started'
+[2013-02-02 00:29:29.095] [WARN] console - path is empty, path:/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/chat/handler
+[2013-02-02 00:29:29.106] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
+[2013-02-02 00:29:29.171] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
+[2013-02-02 00:29:29.172] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
+[2013-02-02 00:58:16.111] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
+[2013-02-02 00:58:16.485] [INFO] console - info: 'socket.io started'
+[2013-02-02 00:58:16.488] [WARN] console - path is empty, path:/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/chat/handler
+[2013-02-02 00:58:16.498] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
+[2013-02-02 00:58:16.594] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
+[2013-02-02 00:58:16.595] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
+[2013-02-02 00:59:45.012] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
+[2013-02-02 00:59:45.417] [INFO] console - info: 'socket.io started'
+[2013-02-02 00:59:45.420] [WARN] console - path is empty, path:/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/chat/handler
+[2013-02-02 00:59:45.431] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
+[2013-02-02 00:59:45.527] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
+[2013-02-02 00:59:45.528] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
+[2013-02-02 01:00:45.373] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
+[2013-02-02 01:00:45.766] [INFO] console - info: 'socket.io started'
+[2013-02-02 01:00:45.768] [WARN] console - path is empty, path:/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/chat/handler
+[2013-02-02 01:00:45.779] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
+[2013-02-02 01:00:45.827] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
+[2013-02-02 01:00:45.828] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
+[2013-02-02 01:01:05.677] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
+[2013-02-02 01:01:06.051] [INFO] console - info: 'socket.io started'
+[2013-02-02 01:01:06.053] [WARN] console - path is empty, path:/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/chat/handler
+[2013-02-02 01:01:06.065] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
+[2013-02-02 01:01:06.137] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
+[2013-02-02 01:01:06.137] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
+[2013-02-02 01:02:45.173] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
+[2013-02-02 01:02:45.570] [INFO] console - info: 'socket.io started'
+[2013-02-02 01:02:45.572] [WARN] console - path is empty, path:/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/chat/handler
+[2013-02-02 01:02:45.582] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
+[2013-02-02 01:02:45.667] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
+[2013-02-02 01:02:45.668] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
+[2013-02-02 01:03:35.506] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
+[2013-02-02 01:03:35.898] [INFO] console - info: 'socket.io started'
+[2013-02-02 01:03:35.901] [WARN] console - path is empty, path:/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/chat/handler
+[2013-02-02 01:03:35.911] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
+[2013-02-02 01:03:35.989] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
+[2013-02-02 01:03:35.989] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
+[2013-02-02 01:03:55.754] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
+[2013-02-02 01:03:56.154] [INFO] console - info: 'socket.io started'
+[2013-02-02 01:03:56.156] [WARN] console - path is empty, path:/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/servers/chat/handler
+[2013-02-02 01:03:56.165] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "chat", "127.0.0.1", 3005
+[2013-02-02 01:03:56.243] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
+[2013-02-02 01:03:56.244] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
+[2013-02-02 01:06:06.565] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
+[2013-02-02 01:06:06.936] [INFO] console - info: 'socket.io started'
+[2013-02-02 01:06:06.968] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-02 01:06:07.055] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
+[2013-02-02 01:06:07.055] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
+[2013-02-02 01:06:33.396] [INFO] console - invoke getArchitecture
+[2013-02-02 01:06:33.430] [INFO] console - [ { id: 5,
+    pointx: 341.3333,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 3,
+    userid: 1 },
+  { id: 6,
+    pointx: 512,
+    pointy: 384,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 2,
+    userid: 1 },
+  { id: 7,
+    pointx: 512,
+    pointy: 230.4,
+    png: 'building2.png',
+    category: 'military',
+    alevel: 9,
+    userid: 1 } ]
+[2013-02-02 01:09:15.684] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
+[2013-02-02 01:09:16.062] [INFO] console - info: 'socket.io started'
+[2013-02-02 01:09:16.090] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-02 01:09:16.157] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
+[2013-02-02 01:09:16.158] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
+[2013-02-02 01:10:05.350] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
+[2013-02-02 01:10:05.737] [INFO] console - info: 'socket.io started'
+[2013-02-02 01:10:05.765] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-02 01:10:05.819] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
+[2013-02-02 01:10:05.821] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
+[2013-02-02 01:13:33.157] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
+[2013-02-02 01:13:33.544] [INFO] console - info: 'socket.io started'
+[2013-02-02 01:13:33.584] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-02 01:13:33.648] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
+[2013-02-02 01:13:33.649] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
+[2013-02-02 01:26:15.600] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
+[2013-02-02 01:26:15.984] [INFO] console - info: 'socket.io started'
+[2013-02-02 01:26:16.015] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-02 01:26:16.102] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
+[2013-02-02 01:26:16.103] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
+[2013-02-02 04:00:19.284] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
+[2013-02-02 04:00:19.760] [INFO] console - info: 'socket.io started'
+[2013-02-02 04:00:19.869] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-02 04:00:19.938] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
+[2013-02-02 04:00:19.939] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
+[2013-02-02 04:06:09.822] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
+[2013-02-02 04:06:10.226] [INFO] console - info: 'socket.io started'
+[2013-02-02 04:06:10.251] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-02 04:06:10.300] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
+[2013-02-02 04:06:10.300] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
+[2013-02-02 05:41:19.023] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
+[2013-02-02 05:41:19.479] [INFO] console - info: 'socket.io started'
+[2013-02-02 05:41:19.581] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-02 05:41:19.650] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
+[2013-02-02 05:41:19.651] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
+[2013-02-02 05:43:25.397] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
+[2013-02-02 05:43:25.792] [INFO] console - info: 'socket.io started'
+[2013-02-02 05:43:25.831] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-02 05:43:25.898] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
+[2013-02-02 05:43:25.899] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
+[2013-02-02 05:48:34.510] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
+[2013-02-02 05:48:34.906] [INFO] console - info: 'socket.io started'
+[2013-02-02 05:48:34.936] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-02 05:48:35.005] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
+[2013-02-02 05:48:35.006] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
+[2013-02-02 05:49:45.576] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
+[2013-02-02 05:49:45.988] [INFO] console - info: 'socket.io started'
+[2013-02-02 05:49:46.019] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-02 05:49:46.078] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
+[2013-02-02 05:49:46.079] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
+[2013-02-02 05:57:14.442] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
+[2013-02-02 05:57:14.823] [INFO] console - info: 'socket.io started'
+[2013-02-02 05:57:14.853] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-02 05:57:14.918] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
+[2013-02-02 05:57:14.919] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
+[2013-02-02 05:59:25.286] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
+[2013-02-02 05:59:25.697] [INFO] console - info: 'socket.io started'
+[2013-02-02 05:59:25.733] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-02 05:59:25.815] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
+[2013-02-02 05:59:25.815] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
+[2013-02-02 06:01:12.080] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
+[2013-02-02 06:01:12.469] [INFO] console - info: 'socket.io started'
+[2013-02-02 06:01:12.496] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-02 06:01:12.560] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
+[2013-02-02 06:01:12.561] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
+[2013-02-02 06:04:47.370] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
+[2013-02-02 06:04:47.791] [INFO] console - info: 'socket.io started'
+[2013-02-02 06:04:47.823] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-02 06:04:47.887] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
+[2013-02-02 06:04:47.887] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
+[2013-02-02 06:05:42.413] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
+[2013-02-02 06:05:42.838] [INFO] console - info: 'socket.io started'
+[2013-02-02 06:05:42.882] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-02 06:05:42.945] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
+[2013-02-02 06:05:42.946] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
+[2013-02-02 06:08:06.335] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-3"
+[2013-02-02 06:08:06.752] [INFO] console - info: 'socket.io started'
+[2013-02-02 06:08:06.785] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-02 06:08:06.876] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-3"
+[2013-02-02 06:08:06.876] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-3" started.
