@@ -141,3 +141,2483 @@
 [2013-02-04 13:07:32.456] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
 [2013-02-04 13:07:32.459] [INFO] console - info: 'socket.io started'
 [2013-02-04 13:07:32.459] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 14:40:46.645] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 14:40:46.664] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 14:40:47.169] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 14:40:47.284] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 14:40:47.288] [INFO] console - info: 'socket.io started'
+[2013-02-04 14:40:47.289] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 14:45:23.322] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 14:45:23.336] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 14:45:24.030] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 14:45:24.168] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 14:45:24.173] [INFO] console - info: 'socket.io started'
+[2013-02-04 14:45:24.173] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 14:46:04.951] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 14:46:04.964] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 14:46:05.593] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 14:46:05.743] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 14:46:05.747] [INFO] console - info: 'socket.io started'
+[2013-02-04 14:46:05.748] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 14:48:42.130] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 14:48:42.150] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 14:48:42.731] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 14:48:42.795] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 14:48:42.799] [INFO] console - info: 'socket.io started'
+[2013-02-04 14:48:42.799] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 14:53:34.712] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 14:53:34.727] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 14:53:35.383] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 14:53:35.508] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 14:53:35.512] [INFO] console - info: 'socket.io started'
+[2013-02-04 14:53:35.513] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 14:55:36.674] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 14:55:36.692] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 14:55:37.257] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 14:55:37.360] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 14:55:37.364] [INFO] console - info: 'socket.io started'
+[2013-02-04 14:55:37.364] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 14:58:10.798] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 14:58:10.816] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 14:58:11.357] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 14:58:11.453] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 14:58:11.457] [INFO] console - info: 'socket.io started'
+[2013-02-04 14:58:11.458] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 15:04:23.734] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 15:04:23.747] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 15:04:24.196] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 15:04:24.280] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 15:04:24.284] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:04:24.284] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 15:04:45.633] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 15:04:45.646] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 15:04:46.086] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 15:04:46.164] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 15:04:46.167] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:04:46.167] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 15:07:26.560] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 15:07:26.572] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 15:07:27.002] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 15:07:27.068] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 15:07:27.072] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:07:27.073] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 15:10:08.148] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 15:10:08.162] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 15:10:08.604] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 15:10:08.675] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 15:10:08.678] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:10:08.679] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 15:13:11.877] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 15:13:11.894] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 15:13:12.337] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 15:13:12.384] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 15:13:12.388] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:13:12.388] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 15:15:42.714] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 15:15:42.727] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 15:15:43.158] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 15:15:43.259] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 15:15:43.263] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:15:43.263] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 15:18:37.408] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 15:18:37.421] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 15:18:37.868] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 15:18:37.936] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 15:18:37.939] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:18:37.939] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 15:21:06.036] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 15:21:06.049] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 15:21:06.483] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 15:21:06.558] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 15:21:06.562] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:21:06.563] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 15:23:13.146] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 15:23:13.158] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 15:23:13.591] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 15:23:13.669] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 15:23:13.673] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:23:13.673] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 15:23:53.285] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 15:23:53.300] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 15:23:53.738] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 15:23:53.806] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 15:23:53.809] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:23:53.810] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 15:24:08.274] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 15:24:08.287] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 15:24:08.731] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 15:24:08.808] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 15:24:08.812] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:24:08.812] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 15:25:20.694] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 15:25:20.707] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 15:25:21.139] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 15:25:21.202] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 15:25:21.205] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:25:21.206] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 15:26:57.133] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 15:26:57.145] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 15:26:57.585] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 15:26:57.664] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 15:26:57.668] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:26:57.668] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 15:28:25.490] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 15:28:25.502] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 15:28:25.934] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 15:28:26.018] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 15:28:26.021] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:28:26.021] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 15:35:10.375] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 15:35:10.390] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 15:35:10.836] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 15:35:10.890] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 15:35:10.892] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:35:10.893] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 15:35:35.719] [INFO] console - warn: 'client not handshaken' 'client should reconnect'
+[2013-02-04 15:36:00.621] [INFO] console - warn: 'client not handshaken' 'client should reconnect'
+[2013-02-04 15:36:31.263] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 15:36:31.276] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 15:36:31.727] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 15:36:31.800] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 15:36:31.803] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:36:31.803] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 15:41:56.115] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 15:41:56.129] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 15:41:56.554] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 15:41:56.630] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 15:41:56.633] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:41:56.634] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 15:43:06.630] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 15:43:06.642] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 15:43:07.084] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 15:43:07.139] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 15:43:07.142] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:43:07.143] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 15:49:00.003] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 15:49:00.015] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 15:49:00.439] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 15:49:42.705] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 15:49:42.718] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 15:49:43.132] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 15:50:35.735] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 15:50:35.752] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 15:50:36.203] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 15:50:36.248] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 15:50:36.251] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:50:36.251] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 15:51:27.684] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 15:51:27.696] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 15:51:28.131] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 15:51:28.185] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 15:51:28.188] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:51:28.188] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 15:52:10.580] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 15:52:10.593] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 15:52:11.012] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 15:52:11.087] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 15:52:11.091] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:52:11.091] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 15:52:54.349] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 15:52:54.360] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 15:52:54.786] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 15:52:54.859] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 15:52:54.863] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:52:54.863] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 15:53:07.997] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 15:53:08.009] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 15:53:08.446] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 15:53:08.501] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 15:53:08.504] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:53:08.504] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 15:54:20.319] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 15:54:20.336] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 15:54:20.748] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 15:54:20.841] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 15:54:20.845] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:54:20.845] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 15:59:35.353] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 15:59:35.365] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 15:59:35.787] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 15:59:35.864] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 15:59:35.868] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:59:35.869] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 16:00:49.984] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 16:00:49.997] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 16:00:50.421] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 16:00:50.487] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 16:00:50.490] [INFO] console - info: 'socket.io started'
+[2013-02-04 16:00:50.490] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 16:01:03.075] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 16:01:03.087] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 16:01:03.520] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 16:01:03.583] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 16:01:03.586] [INFO] console - info: 'socket.io started'
+[2013-02-04 16:01:03.586] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 16:01:43.458] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 16:01:43.471] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 16:01:43.901] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 16:01:43.960] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 16:01:43.964] [INFO] console - info: 'socket.io started'
+[2013-02-04 16:01:43.965] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 16:04:53.531] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 16:04:53.543] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 16:04:53.978] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 16:04:54.053] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 16:04:54.057] [INFO] console - info: 'socket.io started'
+[2013-02-04 16:04:54.057] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 16:06:28.333] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 16:06:28.345] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 16:06:28.775] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 16:06:28.851] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 16:06:28.854] [INFO] console - info: 'socket.io started'
+[2013-02-04 16:06:28.854] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 16:52:18.307] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 16:52:18.319] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 16:52:18.742] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 16:52:18.853] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 16:52:18.857] [INFO] console - info: 'socket.io started'
+[2013-02-04 16:52:18.858] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 16:58:13.225] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 16:58:13.239] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 16:58:13.653] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 16:58:13.709] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 16:58:13.712] [INFO] console - info: 'socket.io started'
+[2013-02-04 16:58:13.713] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 17:11:40.534] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 17:11:40.548] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 17:11:40.973] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 17:11:41.030] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 17:11:41.033] [INFO] console - info: 'socket.io started'
+[2013-02-04 17:11:41.034] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 17:16:59.902] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 17:16:59.917] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 17:17:00.335] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 17:17:00.392] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 17:17:00.394] [INFO] console - info: 'socket.io started'
+[2013-02-04 17:17:00.395] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 17:17:13.844] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 17:17:13.862] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 17:17:14.290] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 17:17:14.346] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 17:17:14.349] [INFO] console - info: 'socket.io started'
+[2013-02-04 17:17:14.349] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 17:22:41.952] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 17:22:41.966] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 17:22:42.393] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 17:22:42.452] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 17:22:42.455] [INFO] console - info: 'socket.io started'
+[2013-02-04 17:22:42.455] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 17:23:50.935] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 17:23:50.951] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 17:23:51.394] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 17:23:51.453] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 17:23:51.456] [INFO] console - info: 'socket.io started'
+[2013-02-04 17:23:51.457] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 18:40:46.345] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 18:40:46.360] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 18:40:46.838] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 18:40:46.871] [ERROR] console -  Caught exception: ReferenceError: rs is not defined
+    at Query.userinfoDao.getAllIncreaseUser [as _callback] (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/dao/userinfoDAO.js:44:47)
+    at Query.Sequence.end (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/mysql/lib/protocol/sequences/Sequence.js:66:24)
+    at Query._handleFinalResultPacket (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/mysql/lib/protocol/sequences/Query.js:138:8)
+    at Query.EofPacket (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/mysql/lib/protocol/sequences/Query.js:122:8)
+    at Protocol._parsePacket (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/mysql/lib/protocol/Protocol.js:165:24)
+    at Parser.write (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/mysql/lib/protocol/Parser.js:60:12)
+    at Protocol.write (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/mysql/lib/protocol/Protocol.js:32:16)
+    at Socket.ondata (stream.js:38:26)
+    at Socket.EventEmitter.emit (events.js:96:17)
+    at TCP.onread (net.js:397:14)
+[2013-02-04 18:40:46.875] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 18:40:46.878] [INFO] console - info: 'socket.io started'
+[2013-02-04 18:40:46.878] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 18:41:30.337] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 18:41:30.352] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 18:41:30.826] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 18:41:30.874] [ERROR] console -  Caught exception: TypeError: Cannot read property 'length' of null
+    at act.actResourceIncrease (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/util/activate.js:8:33)
+    at Object.utils.invokeCallback (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/util/utils.js:8:6)
+    at Query.userinfoDao.getAllIncreaseUser [as _callback] (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/dao/userinfoDAO.js:44:23)
+    at Query.Sequence.end (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/mysql/lib/protocol/sequences/Sequence.js:66:24)
+    at Query._handleFinalResultPacket (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/mysql/lib/protocol/sequences/Query.js:138:8)
+    at Query.EofPacket (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/mysql/lib/protocol/sequences/Query.js:122:8)
+    at Protocol._parsePacket (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/mysql/lib/protocol/Protocol.js:165:24)
+    at Parser.write (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/mysql/lib/protocol/Parser.js:60:12)
+    at Protocol.write (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/mysql/lib/protocol/Protocol.js:32:16)
+    at Socket.ondata (stream.js:38:26)
+[2013-02-04 18:41:30.877] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 18:41:30.881] [INFO] console - info: 'socket.io started'
+[2013-02-04 18:41:30.881] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 18:42:47.562] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 18:42:47.578] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 18:42:48.044] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 18:42:48.075] [INFO] console - null
+[2013-02-04 18:42:48.079] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 18:42:48.083] [INFO] console - info: 'socket.io started'
+[2013-02-04 18:42:48.083] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 18:44:31.125] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 18:44:31.141] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 18:44:31.556] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 18:44:31.605] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 18:44:31.608] [INFO] console - info: 'socket.io started'
+[2013-02-04 18:44:31.609] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 18:44:51.548] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 18:44:51.564] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 18:44:51.992] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 18:44:52.036] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 18:44:52.039] [INFO] console - info: 'socket.io started'
+[2013-02-04 18:44:52.039] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 18:45:31.489] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 18:45:31.502] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 18:45:31.949] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 18:45:32.021] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 18:45:32.024] [INFO] console - info: 'socket.io started'
+[2013-02-04 18:45:32.024] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 18:45:56.371] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 18:45:56.389] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 18:45:56.868] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 18:45:56.900] [INFO] console - null
+[2013-02-04 18:45:56.904] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 18:45:56.907] [INFO] console - info: 'socket.io started'
+[2013-02-04 18:45:56.908] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 18:47:00.860] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 18:47:00.874] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 18:47:01.342] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 18:47:01.373] [INFO] console - chenyl
+[2013-02-04 18:47:01.374] [INFO] console - null
+[2013-02-04 18:47:01.374] [INFO] console - chenyl
+[2013-02-04 18:47:01.377] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 18:47:01.380] [INFO] console - info: 'socket.io started'
+[2013-02-04 18:47:01.380] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 18:48:52.563] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 18:48:52.578] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 18:48:52.579] [INFO] console - getAllIncreaseUser invoke
+[2013-02-04 18:48:53.038] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 18:48:53.070] [INFO] console - res=[object Object]
+[2013-02-04 18:48:53.070] [INFO] console - chenyl
+[2013-02-04 18:48:53.070] [INFO] console - null
+[2013-02-04 18:48:53.070] [INFO] console - chenyl
+[2013-02-04 18:48:53.074] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 18:48:53.077] [INFO] console - info: 'socket.io started'
+[2013-02-04 18:48:53.077] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 18:54:36.260] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 18:54:36.276] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 18:54:36.276] [INFO] console - getAllIncreaseUser invoke
+[2013-02-04 18:54:36.732] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 18:54:36.781] [INFO] console - res=[object Object]
+[2013-02-04 18:54:36.781] [INFO] console - chenyl
+[2013-02-04 18:54:36.781] [INFO] console - null
+[2013-02-04 18:54:36.782] [INFO] console - chenyl
+[2013-02-04 18:54:36.783] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 18:54:36.785] [INFO] console - info: 'socket.io started'
+[2013-02-04 18:54:36.785] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 18:54:39.278] [ERROR] console -  Caught exception: TypeError: Property 'stack' of object TypeError: Property 'func' of object [object Object] is not a function is not a function
+    at pro.run (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo-schedule/lib/job.js:49:55)
+    at Object.excuteJob [as _onTimeout] (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo-schedule/lib/schedule.js:92:9)
+    at Timer.list.ontimeout (timers.js:101:19)
+[2013-02-04 18:58:25.670] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 18:58:25.684] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 18:58:25.684] [INFO] console - getAllIncreaseUser invoke
+[2013-02-04 18:58:26.147] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 18:58:26.197] [INFO] console - res=[object Object]
+[2013-02-04 18:58:26.198] [INFO] console - chenyl
+[2013-02-04 18:58:26.198] [INFO] console - null
+[2013-02-04 18:58:26.198] [INFO] console - chenyl
+[2013-02-04 18:58:26.201] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 18:58:26.204] [INFO] console - info: 'socket.io started'
+[2013-02-04 18:58:26.204] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 18:58:28.689] [ERROR] console -  Caught exception: TypeError: Property 'stack' of object TypeError: Property 'func' of object [object Object] is not a function is not a function
+    at pro.run (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo-schedule/lib/job.js:49:55)
+    at Object.excuteJob [as _onTimeout] (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo-schedule/lib/schedule.js:92:9)
+    at Timer.list.ontimeout (timers.js:101:19)
+[2013-02-04 19:02:36.087] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 19:02:36.503] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 19:02:36.563] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 19:02:36.566] [INFO] console - info: 'socket.io started'
+[2013-02-04 19:02:36.567] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 19:02:39.100] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 19:02:39.100] [INFO] console - getAllIncreaseUser invoke
+[2013-02-04 19:02:39.138] [INFO] console - res=[object Object]
+[2013-02-04 19:02:39.138] [INFO] console - chenyl
+[2013-02-04 19:02:39.138] [INFO] console - null
+[2013-02-04 19:02:39.138] [INFO] console - chenyl
+[2013-02-04 19:09:46.883] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 19:09:47.311] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 19:09:47.366] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 19:09:47.369] [INFO] console - info: 'socket.io started'
+[2013-02-04 19:09:47.370] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 19:09:49.897] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 19:09:49.897] [INFO] console - getAllIncreaseUser invoke
+[2013-02-04 19:09:49.931] [INFO] console - res=[object Object]
+[2013-02-04 19:09:49.931] [INFO] console - chenyl
+[2013-02-04 19:09:49.932] [INFO] console - null
+[2013-02-04 19:09:49.932] [INFO] console - chenyl
+[2013-02-04 19:16:19.384] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 19:16:19.813] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 19:16:19.868] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 19:16:19.872] [INFO] console - info: 'socket.io started'
+[2013-02-04 19:16:19.872] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 19:16:22.399] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 19:16:22.399] [INFO] console - getAllIncreaseUser invoke
+[2013-02-04 19:16:22.434] [INFO] console - res=[object Object]
+[2013-02-04 19:16:22.434] [INFO] console - chenyl
+[2013-02-04 19:16:22.435] [INFO] console - [ { userid: 2,
+    username: '1111',
+    password: '1111',
+    food: 11,
+    oil: 11,
+    iron: 11,
+    mine: 11,
+    rid: '1',
+    foodadd: 1,
+    oiladd: 1,
+    ironadd: 1,
+    mineadd: 1 } ]
+[2013-02-04 19:16:22.436] [INFO] console - chenyl
+[2013-02-04 19:17:57.664] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 19:17:57.676] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 19:17:57.677] [INFO] console - getAllIncreaseUser invoke
+[2013-02-04 19:17:58.133] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 19:17:58.179] [INFO] console - res=[object Object]
+[2013-02-04 19:17:58.180] [INFO] console - chenyl
+[2013-02-04 19:17:58.180] [INFO] console - null
+[2013-02-04 19:17:58.180] [INFO] console - chenyl
+[2013-02-04 19:17:58.184] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 19:17:58.186] [INFO] console - info: 'socket.io started'
+[2013-02-04 19:17:58.187] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 19:18:00.677] [ERROR] console -  Caught exception: TypeError: Property 'stack' of object TypeError: Property 'func' of object [object Object] is not a function is not a function
+    at pro.run (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo-schedule/lib/job.js:49:55)
+    at Object.excuteJob [as _onTimeout] (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo-schedule/lib/schedule.js:92:9)
+    at Timer.list.ontimeout (timers.js:101:19)
+[2013-02-04 19:18:38.390] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 19:18:38.816] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 19:18:38.859] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 19:18:38.863] [INFO] console - info: 'socket.io started'
+[2013-02-04 19:18:38.863] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 19:18:41.406] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 19:18:41.406] [INFO] console - getAllIncreaseUser invoke
+[2013-02-04 19:18:41.441] [INFO] console - res=[object Object]
+[2013-02-04 19:18:41.441] [INFO] console - chenyl
+[2013-02-04 19:18:41.442] [INFO] console - null
+[2013-02-04 19:18:41.442] [INFO] console - chenyl
+[2013-02-04 19:19:03.918] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 19:19:04.336] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 19:19:04.393] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 19:19:04.396] [INFO] console - info: 'socket.io started'
+[2013-02-04 19:19:04.397] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 19:19:06.930] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 19:19:06.930] [INFO] console - getAllIncreaseUser invoke
+[2013-02-04 19:19:06.965] [INFO] console - res=[object Object]
+[2013-02-04 19:19:06.965] [INFO] console - chenyl
+[2013-02-04 19:19:06.965] [INFO] console - [ { userid: 2,
+    username: '1111',
+    password: '1111',
+    food: 11,
+    oil: 11,
+    iron: 11,
+    mine: 11,
+    rid: '1',
+    foodadd: 1,
+    oiladd: 1,
+    ironadd: 1,
+    mineadd: 1 } ]
+[2013-02-04 19:19:06.966] [INFO] console - chenyl
+[2013-02-04 19:22:08.055] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 19:22:08.468] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 19:22:08.547] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 19:22:08.550] [INFO] console - info: 'socket.io started'
+[2013-02-04 19:22:08.551] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 19:22:13.069] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 19:22:13.069] [INFO] console - getAllIncreaseUser invoke
+[2013-02-04 19:22:13.104] [INFO] console - res=[object Object],[object Object]
+[2013-02-04 19:22:13.104] [INFO] console - chenyl
+[2013-02-04 19:22:13.104] [INFO] console - [ { userid: 2,
+    username: '1111',
+    password: '1111',
+    food: 11,
+    oil: 11,
+    iron: 11,
+    mine: 11,
+    rid: '1',
+    foodadd: 1,
+    oiladd: 1,
+    ironadd: 1,
+    mineadd: 1 },
+  { userid: 3,
+    username: '2222',
+    password: '2222',
+    food: 22,
+    oil: 22,
+    iron: 22,
+    mine: 22,
+    rid: '1',
+    foodadd: 2,
+    oiladd: 2,
+    ironadd: 2,
+    mineadd: 2 } ]
+[2013-02-04 19:22:13.105] [INFO] console - chenyl
+[2013-02-04 19:23:18.881] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 19:23:19.315] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 19:23:19.358] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 19:23:19.361] [INFO] console - info: 'socket.io started'
+[2013-02-04 19:23:19.362] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 19:23:23.898] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 19:23:23.898] [INFO] console - getAllIncreaseUser invoke
+[2013-02-04 19:23:23.933] [INFO] console - res=[object Object],[object Object]
+[2013-02-04 19:23:23.933] [INFO] console - undefined
+[2013-02-04 19:23:23.933] [INFO] console - undefined
+[2013-02-04 19:23:56.203] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 19:23:56.634] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 19:23:56.693] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 19:23:56.696] [INFO] console - info: 'socket.io started'
+[2013-02-04 19:23:56.697] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 19:24:01.217] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 19:24:01.217] [INFO] console - getAllIncreaseUser invoke
+[2013-02-04 19:24:01.251] [INFO] console - res=[object Object],[object Object]
+[2013-02-04 19:24:01.252] [INFO] console - 1111
+[2013-02-04 19:24:01.252] [INFO] console - 2222
+[2013-02-04 19:30:46.290] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 19:30:46.715] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 19:30:46.775] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 19:30:46.778] [INFO] console - info: 'socket.io started'
+[2013-02-04 19:30:46.778] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 19:30:51.303] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 19:30:51.303] [INFO] console - getAllIncreaseUser invoke
+[2013-02-04 19:30:51.338] [INFO] console - res=[object Object],[object Object]
+[2013-02-04 19:30:51.339] [INFO] console - 1111
+[2013-02-04 19:30:51.339] [INFO] console - 2222
+[2013-02-04 19:35:54.481] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 19:35:54.897] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 19:35:54.967] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 19:35:54.970] [INFO] console - info: 'socket.io started'
+[2013-02-04 19:35:54.971] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 19:35:59.495] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 19:35:59.495] [INFO] console - getAllIncreaseUser invoke
+[2013-02-04 19:35:59.531] [INFO] console - res=[object Object],[object Object]
+[2013-02-04 19:35:59.531] [INFO] console - [object Object] undefined undefined undefined undefined
+[2013-02-04 19:35:59.532] [INFO] console - [object Object] undefined undefined undefined undefined
+[2013-02-04 19:36:01.532] [INFO] console - [object Object] undefined undefined undefined undefined
+[2013-02-04 19:36:01.532] [INFO] console - [object Object] undefined undefined undefined undefined
+[2013-02-04 19:36:03.532] [INFO] console - [object Object] undefined undefined undefined undefined
+[2013-02-04 19:36:03.532] [INFO] console - [object Object] undefined undefined undefined undefined
+[2013-02-04 19:36:05.531] [INFO] console - [object Object] undefined undefined undefined undefined
+[2013-02-04 19:36:05.531] [INFO] console - [object Object] undefined undefined undefined undefined
+[2013-02-04 19:36:07.532] [INFO] console - [object Object] undefined undefined undefined undefined
+[2013-02-04 19:36:07.532] [INFO] console - [object Object] undefined undefined undefined undefined
+[2013-02-04 19:36:09.530] [INFO] console - [object Object] undefined undefined undefined undefined
+[2013-02-04 19:36:09.531] [INFO] console - [object Object] undefined undefined undefined undefined
+[2013-02-04 19:38:08.444] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 19:38:08.874] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 19:38:08.939] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 19:38:08.943] [INFO] console - info: 'socket.io started'
+[2013-02-04 19:38:08.944] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 19:38:13.459] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 19:38:13.460] [INFO] console - getAllIncreaseUser invoke
+[2013-02-04 19:38:13.551] [INFO] console - res=[object Object],[object Object]
+[2013-02-04 19:38:13.552] [INFO] console - 2 1 1 1 1
+[2013-02-04 19:38:13.552] [INFO] console - 3 2 2 2 2
+[2013-02-04 19:38:15.551] [INFO] console - 2 1 1 1 1
+[2013-02-04 19:38:15.552] [INFO] console - 3 2 2 2 2
+[2013-02-04 19:38:17.552] [INFO] console - 2 1 1 1 1
+[2013-02-04 19:38:17.552] [INFO] console - 3 2 2 2 2
+[2013-02-04 19:38:19.551] [INFO] console - 2 1 1 1 1
+[2013-02-04 19:38:19.552] [INFO] console - 3 2 2 2 2
+[2013-02-04 19:38:21.552] [INFO] console - 2 1 1 1 1
+[2013-02-04 19:38:21.552] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:01:15.495] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 20:01:16.105] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 20:01:16.263] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 20:01:16.266] [INFO] console - info: 'socket.io started'
+[2013-02-04 20:01:16.267] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 20:01:20.508] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 20:01:20.508] [INFO] console - getAllIncreaseUser invoke
+[2013-02-04 20:01:20.592] [INFO] console - res=[object Object],[object Object]
+[2013-02-04 20:01:20.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:01:20.594] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:01:20.699] [INFO] console - res=[object Object]
+[2013-02-04 20:01:20.699] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:20.700] [INFO] console - res=[object Object]
+[2013-02-04 20:01:20.701] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:22.593] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:01:22.595] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:01:22.596] [INFO] console - res=[object Object]
+[2013-02-04 20:01:22.597] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:22.598] [INFO] console - res=[object Object]
+[2013-02-04 20:01:22.598] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:24.593] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:01:24.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:01:24.623] [INFO] console - res=[object Object]
+[2013-02-04 20:01:24.623] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:24.726] [INFO] console - res=[object Object]
+[2013-02-04 20:01:24.726] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:26.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:01:26.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:01:26.594] [INFO] console - res=[object Object]
+[2013-02-04 20:01:26.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:26.594] [INFO] console - res=[object Object]
+[2013-02-04 20:01:26.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:28.593] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:01:28.594] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:01:28.596] [INFO] console - res=[object Object]
+[2013-02-04 20:01:28.597] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:28.599] [INFO] console - res=[object Object]
+[2013-02-04 20:01:28.599] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:30.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:01:30.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:01:30.594] [INFO] console - res=[object Object]
+[2013-02-04 20:01:30.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:30.595] [INFO] console - res=[object Object]
+[2013-02-04 20:01:30.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:32.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:01:32.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:01:32.593] [INFO] console - res=[object Object]
+[2013-02-04 20:01:32.593] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:32.594] [INFO] console - res=[object Object]
+[2013-02-04 20:01:32.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:34.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:01:34.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:01:34.595] [INFO] console - res=[object Object]
+[2013-02-04 20:01:34.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:34.596] [INFO] console - res=[object Object]
+[2013-02-04 20:01:34.596] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:36.593] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:01:36.594] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:01:36.614] [INFO] console - res=[object Object]
+[2013-02-04 20:01:36.614] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:36.615] [INFO] console - res=[object Object]
+[2013-02-04 20:01:36.615] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:38.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:01:38.594] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:01:38.595] [INFO] console - res=[object Object]
+[2013-02-04 20:01:38.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:38.706] [INFO] console - res=[object Object]
+[2013-02-04 20:01:38.706] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:40.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:01:40.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:01:40.593] [INFO] console - res=[object Object]
+[2013-02-04 20:01:40.593] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:40.593] [INFO] console - res=[object Object]
+[2013-02-04 20:01:40.593] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:42.593] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:01:42.594] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:01:42.595] [INFO] console - res=[object Object]
+[2013-02-04 20:01:42.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:42.596] [INFO] console - res=[object Object]
+[2013-02-04 20:01:42.596] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:44.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:01:44.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:01:44.594] [INFO] console - res=[object Object]
+[2013-02-04 20:01:44.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:44.616] [INFO] console - res=[object Object]
+[2013-02-04 20:01:44.616] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:46.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:01:46.594] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:01:46.605] [INFO] console - res=[object Object]
+[2013-02-04 20:01:46.606] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:46.606] [INFO] console - res=[object Object]
+[2013-02-04 20:01:46.606] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:48.593] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:01:48.594] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:01:48.595] [INFO] console - res=[object Object]
+[2013-02-04 20:01:48.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:48.596] [INFO] console - res=[object Object]
+[2013-02-04 20:01:48.596] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:50.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:01:50.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:01:50.594] [INFO] console - res=[object Object]
+[2013-02-04 20:01:50.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:50.595] [INFO] console - res=[object Object]
+[2013-02-04 20:01:50.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:52.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:01:52.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:01:52.696] [INFO] console - res=[object Object]
+[2013-02-04 20:01:52.697] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:52.697] [INFO] console - res=[object Object]
+[2013-02-04 20:01:52.697] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:54.593] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:01:54.594] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:01:54.595] [INFO] console - res=[object Object]
+[2013-02-04 20:01:54.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:54.596] [INFO] console - res=[object Object]
+[2013-02-04 20:01:54.596] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:56.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:01:56.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:01:56.598] [INFO] console - res=[object Object]
+[2013-02-04 20:01:56.599] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:56.599] [INFO] console - res=[object Object]
+[2013-02-04 20:01:56.599] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:58.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:01:58.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:01:58.602] [INFO] console - res=[object Object]
+[2013-02-04 20:01:58.602] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:01:58.603] [INFO] console - res=[object Object]
+[2013-02-04 20:01:58.603] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:00.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:02:00.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:02:00.593] [INFO] console - res=[object Object]
+[2013-02-04 20:02:00.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:00.595] [INFO] console - res=[object Object]
+[2013-02-04 20:02:00.596] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:02.593] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:02:02.594] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:02:02.595] [INFO] console - res=[object Object]
+[2013-02-04 20:02:02.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:02.595] [INFO] console - res=[object Object]
+[2013-02-04 20:02:02.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:04.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:02:04.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:02:04.593] [INFO] console - res=[object Object]
+[2013-02-04 20:02:04.593] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:04.709] [INFO] console - res=[object Object]
+[2013-02-04 20:02:04.709] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:06.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:02:06.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:02:06.600] [INFO] console - res=[object Object]
+[2013-02-04 20:02:06.600] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:06.601] [INFO] console - res=[object Object]
+[2013-02-04 20:02:06.601] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:08.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:02:08.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:02:08.594] [INFO] console - res=[object Object]
+[2013-02-04 20:02:08.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:08.594] [INFO] console - res=[object Object]
+[2013-02-04 20:02:08.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:10.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:02:10.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:02:10.593] [INFO] console - res=[object Object]
+[2013-02-04 20:02:10.593] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:10.593] [INFO] console - res=[object Object]
+[2013-02-04 20:02:10.593] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:12.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:02:12.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:02:12.594] [INFO] console - res=[object Object]
+[2013-02-04 20:02:12.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:12.595] [INFO] console - res=[object Object]
+[2013-02-04 20:02:12.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:14.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:02:14.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:02:14.593] [INFO] console - res=[object Object]
+[2013-02-04 20:02:14.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:14.594] [INFO] console - res=[object Object]
+[2013-02-04 20:02:14.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:16.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:02:16.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:02:16.601] [INFO] console - res=[object Object]
+[2013-02-04 20:02:16.601] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:16.602] [INFO] console - res=[object Object]
+[2013-02-04 20:02:16.602] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:18.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:02:18.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:02:18.598] [INFO] console - res=[object Object]
+[2013-02-04 20:02:18.598] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:18.626] [INFO] console - res=[object Object]
+[2013-02-04 20:02:18.626] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:20.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:02:20.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:02:20.593] [INFO] console - res=[object Object]
+[2013-02-04 20:02:20.593] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:20.593] [INFO] console - res=[object Object]
+[2013-02-04 20:02:20.593] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:22.593] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:02:22.595] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:02:22.596] [INFO] console - res=[object Object]
+[2013-02-04 20:02:22.596] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:22.597] [INFO] console - res=[object Object]
+[2013-02-04 20:02:22.597] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:24.593] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:02:24.594] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:02:24.594] [INFO] console - res=[object Object]
+[2013-02-04 20:02:24.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:24.595] [INFO] console - res=[object Object]
+[2013-02-04 20:02:24.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:26.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:02:26.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:02:26.602] [INFO] console - res=[object Object]
+[2013-02-04 20:02:26.603] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:26.604] [INFO] console - res=[object Object]
+[2013-02-04 20:02:26.604] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:28.593] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:02:28.594] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:02:28.620] [INFO] console - res=[object Object]
+[2013-02-04 20:02:28.620] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:28.655] [INFO] console - res=[object Object]
+[2013-02-04 20:02:28.656] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:30.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:02:30.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:02:30.594] [INFO] console - res=[object Object]
+[2013-02-04 20:02:30.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:30.595] [INFO] console - res=[object Object]
+[2013-02-04 20:02:30.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:32.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:02:32.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:02:32.701] [INFO] console - res=[object Object]
+[2013-02-04 20:02:32.701] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:32.701] [INFO] console - res=[object Object]
+[2013-02-04 20:02:32.701] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:34.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:02:34.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:02:34.593] [INFO] console - res=[object Object]
+[2013-02-04 20:02:34.593] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:34.594] [INFO] console - res=[object Object]
+[2013-02-04 20:02:34.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:36.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:02:36.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:02:36.593] [INFO] console - res=[object Object]
+[2013-02-04 20:02:36.593] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:36.593] [INFO] console - res=[object Object]
+[2013-02-04 20:02:36.593] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:38.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:02:38.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:02:38.594] [INFO] console - res=[object Object]
+[2013-02-04 20:02:38.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:38.595] [INFO] console - res=[object Object]
+[2013-02-04 20:02:38.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:40.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:02:40.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:02:40.594] [INFO] console - res=[object Object]
+[2013-02-04 20:02:40.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:40.595] [INFO] console - res=[object Object]
+[2013-02-04 20:02:40.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:42.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:02:42.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:02:42.593] [INFO] console - res=[object Object]
+[2013-02-04 20:02:42.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:42.594] [INFO] console - res=[object Object]
+[2013-02-04 20:02:42.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:44.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:02:44.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:02:44.593] [INFO] console - res=[object Object]
+[2013-02-04 20:02:44.593] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:44.594] [INFO] console - res=[object Object]
+[2013-02-04 20:02:44.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:46.593] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:02:46.594] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:02:46.702] [INFO] console - res=[object Object]
+[2013-02-04 20:02:46.702] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:46.703] [INFO] console - res=[object Object]
+[2013-02-04 20:02:46.703] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:48.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:02:48.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:02:48.593] [INFO] console - res=[object Object]
+[2013-02-04 20:02:48.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:48.595] [INFO] console - res=[object Object]
+[2013-02-04 20:02:48.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:50.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:02:50.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:02:50.594] [INFO] console - res=[object Object]
+[2013-02-04 20:02:50.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:50.594] [INFO] console - res=[object Object]
+[2013-02-04 20:02:50.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:52.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:02:52.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:02:52.594] [INFO] console - res=[object Object]
+[2013-02-04 20:02:52.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:52.595] [INFO] console - res=[object Object]
+[2013-02-04 20:02:52.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:54.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:02:54.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:02:54.594] [INFO] console - res=[object Object]
+[2013-02-04 20:02:54.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:54.594] [INFO] console - res=[object Object]
+[2013-02-04 20:02:54.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:56.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:02:56.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:02:56.594] [INFO] console - res=[object Object]
+[2013-02-04 20:02:56.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:56.595] [INFO] console - res=[object Object]
+[2013-02-04 20:02:56.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:58.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:02:58.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:02:58.594] [INFO] console - res=[object Object]
+[2013-02-04 20:02:58.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:02:58.736] [INFO] console - res=[object Object]
+[2013-02-04 20:02:58.736] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:00.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:03:00.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:03:00.621] [INFO] console - res=[object Object]
+[2013-02-04 20:03:00.622] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:00.622] [INFO] console - res=[object Object]
+[2013-02-04 20:03:00.622] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:02.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:03:02.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:03:02.621] [INFO] console - res=[object Object]
+[2013-02-04 20:03:02.621] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:02.622] [INFO] console - res=[object Object]
+[2013-02-04 20:03:02.622] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:04.593] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:03:04.594] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:03:04.595] [INFO] console - res=[object Object]
+[2013-02-04 20:03:04.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:04.596] [INFO] console - res=[object Object]
+[2013-02-04 20:03:04.596] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:06.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:03:06.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:03:06.594] [INFO] console - res=[object Object]
+[2013-02-04 20:03:06.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:06.595] [INFO] console - res=[object Object]
+[2013-02-04 20:03:06.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:08.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:03:08.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:03:08.594] [INFO] console - res=[object Object]
+[2013-02-04 20:03:08.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:08.595] [INFO] console - res=[object Object]
+[2013-02-04 20:03:08.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:10.593] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:03:10.594] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:03:10.595] [INFO] console - res=[object Object]
+[2013-02-04 20:03:10.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:10.596] [INFO] console - res=[object Object]
+[2013-02-04 20:03:10.596] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:12.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:03:12.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:03:12.594] [INFO] console - res=[object Object]
+[2013-02-04 20:03:12.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:12.705] [INFO] console - res=[object Object]
+[2013-02-04 20:03:12.706] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:14.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:03:14.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:03:14.594] [INFO] console - res=[object Object]
+[2013-02-04 20:03:14.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:14.594] [INFO] console - res=[object Object]
+[2013-02-04 20:03:14.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:16.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:03:16.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:03:16.596] [INFO] console - res=[object Object]
+[2013-02-04 20:03:16.596] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:16.596] [INFO] console - res=[object Object]
+[2013-02-04 20:03:16.596] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:18.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:03:18.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:03:18.594] [INFO] console - res=[object Object]
+[2013-02-04 20:03:18.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:18.595] [INFO] console - res=[object Object]
+[2013-02-04 20:03:18.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:20.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:03:20.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:03:20.594] [INFO] console - res=[object Object]
+[2013-02-04 20:03:20.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:20.595] [INFO] console - res=[object Object]
+[2013-02-04 20:03:20.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:22.593] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:03:22.594] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:03:22.595] [INFO] console - res=[object Object]
+[2013-02-04 20:03:22.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:22.595] [INFO] console - res=[object Object]
+[2013-02-04 20:03:22.596] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:24.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:03:24.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:03:24.593] [INFO] console - res=[object Object]
+[2013-02-04 20:03:24.593] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:24.593] [INFO] console - res=[object Object]
+[2013-02-04 20:03:24.593] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:26.593] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:03:26.594] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:03:26.695] [INFO] console - res=[object Object]
+[2013-02-04 20:03:26.696] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:26.696] [INFO] console - res=[object Object]
+[2013-02-04 20:03:26.696] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:28.593] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:03:28.594] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:03:28.595] [INFO] console - res=[object Object]
+[2013-02-04 20:03:28.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:28.596] [INFO] console - res=[object Object]
+[2013-02-04 20:03:28.596] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:30.593] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:03:30.594] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:03:30.596] [INFO] console - res=[object Object]
+[2013-02-04 20:03:30.596] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:30.597] [INFO] console - res=[object Object]
+[2013-02-04 20:03:30.597] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:32.593] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:03:32.594] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:03:32.595] [INFO] console - res=[object Object]
+[2013-02-04 20:03:32.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:32.595] [INFO] console - res=[object Object]
+[2013-02-04 20:03:32.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:34.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:03:34.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:03:34.594] [INFO] console - res=[object Object]
+[2013-02-04 20:03:34.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:34.595] [INFO] console - res=[object Object]
+[2013-02-04 20:03:34.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:36.593] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:03:36.595] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:03:36.597] [INFO] console - res=[object Object]
+[2013-02-04 20:03:36.597] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:36.597] [INFO] console - res=[object Object]
+[2013-02-04 20:03:36.598] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:38.593] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:03:38.594] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:03:38.595] [INFO] console - res=[object Object]
+[2013-02-04 20:03:38.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:38.595] [INFO] console - res=[object Object]
+[2013-02-04 20:03:38.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:40.593] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:03:40.595] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:03:40.696] [INFO] console - res=[object Object]
+[2013-02-04 20:03:40.696] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:40.697] [INFO] console - res=[object Object]
+[2013-02-04 20:03:40.697] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:42.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:03:42.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:03:42.593] [INFO] console - res=[object Object]
+[2013-02-04 20:03:42.593] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:42.594] [INFO] console - res=[object Object]
+[2013-02-04 20:03:42.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:44.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:03:44.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:03:44.593] [INFO] console - res=[object Object]
+[2013-02-04 20:03:44.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:44.594] [INFO] console - res=[object Object]
+[2013-02-04 20:03:44.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:46.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:03:46.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:03:46.599] [INFO] console - res=[object Object]
+[2013-02-04 20:03:46.599] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:46.600] [INFO] console - res=[object Object]
+[2013-02-04 20:03:46.600] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:48.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:03:48.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:03:48.593] [INFO] console - res=[object Object]
+[2013-02-04 20:03:48.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:48.594] [INFO] console - res=[object Object]
+[2013-02-04 20:03:48.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:50.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:03:50.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:03:50.593] [INFO] console - res=[object Object]
+[2013-02-04 20:03:50.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:50.594] [INFO] console - res=[object Object]
+[2013-02-04 20:03:50.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:52.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:03:52.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:03:52.594] [INFO] console - res=[object Object]
+[2013-02-04 20:03:52.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:52.708] [INFO] console - res=[object Object]
+[2013-02-04 20:03:52.709] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:54.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:03:54.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:03:54.593] [INFO] console - res=[object Object]
+[2013-02-04 20:03:54.593] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:54.594] [INFO] console - res=[object Object]
+[2013-02-04 20:03:54.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:56.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:03:56.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:03:56.600] [INFO] console - res=[object Object]
+[2013-02-04 20:03:56.600] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:56.600] [INFO] console - res=[object Object]
+[2013-02-04 20:03:56.600] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:58.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:03:58.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:03:58.594] [INFO] console - res=[object Object]
+[2013-02-04 20:03:58.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:03:58.595] [INFO] console - res=[object Object]
+[2013-02-04 20:03:58.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:00.593] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:04:00.594] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:04:00.595] [INFO] console - res=[object Object]
+[2013-02-04 20:04:00.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:00.595] [INFO] console - res=[object Object]
+[2013-02-04 20:04:00.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:02.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:04:02.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:04:02.593] [INFO] console - res=[object Object]
+[2013-02-04 20:04:02.593] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:02.594] [INFO] console - res=[object Object]
+[2013-02-04 20:04:02.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:04.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:04:04.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:04:04.594] [INFO] console - res=[object Object]
+[2013-02-04 20:04:04.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:04.595] [INFO] console - res=[object Object]
+[2013-02-04 20:04:04.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:06.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:04:06.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:04:06.722] [INFO] console - res=[object Object]
+[2013-02-04 20:04:06.722] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:06.722] [INFO] console - res=[object Object]
+[2013-02-04 20:04:06.722] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:08.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:04:08.591] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:04:08.617] [INFO] console - res=[object Object]
+[2013-02-04 20:04:08.617] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:08.617] [INFO] console - res=[object Object]
+[2013-02-04 20:04:08.617] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:10.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:04:10.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:04:10.617] [INFO] console - res=[object Object]
+[2013-02-04 20:04:10.617] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:10.617] [INFO] console - res=[object Object]
+[2013-02-04 20:04:10.617] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:12.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:04:12.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:04:12.617] [INFO] console - res=[object Object]
+[2013-02-04 20:04:12.617] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:12.617] [INFO] console - res=[object Object]
+[2013-02-04 20:04:12.618] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:14.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:04:14.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:04:14.617] [INFO] console - res=[object Object]
+[2013-02-04 20:04:14.617] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:14.618] [INFO] console - res=[object Object]
+[2013-02-04 20:04:14.618] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:16.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:04:16.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:04:16.593] [INFO] console - res=[object Object]
+[2013-02-04 20:04:16.593] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:16.594] [INFO] console - res=[object Object]
+[2013-02-04 20:04:16.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:18.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:04:18.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:04:18.618] [INFO] console - res=[object Object]
+[2013-02-04 20:04:18.618] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:18.618] [INFO] console - res=[object Object]
+[2013-02-04 20:04:18.618] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:20.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:04:20.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:04:20.711] [INFO] console - res=[object Object]
+[2013-02-04 20:04:20.711] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:20.712] [INFO] console - res=[object Object]
+[2013-02-04 20:04:20.712] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:22.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:04:22.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:04:22.629] [INFO] console - res=[object Object]
+[2013-02-04 20:04:22.629] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:22.630] [INFO] console - res=[object Object]
+[2013-02-04 20:04:22.630] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:24.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:04:24.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:04:24.594] [INFO] console - res=[object Object]
+[2013-02-04 20:04:24.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:24.594] [INFO] console - res=[object Object]
+[2013-02-04 20:04:24.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:26.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:04:26.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:04:26.593] [INFO] console - res=[object Object]
+[2013-02-04 20:04:26.593] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:26.593] [INFO] console - res=[object Object]
+[2013-02-04 20:04:26.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:28.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:04:28.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:04:28.593] [INFO] console - res=[object Object]
+[2013-02-04 20:04:28.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:28.594] [INFO] console - res=[object Object]
+[2013-02-04 20:04:28.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:30.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:04:30.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:04:30.595] [INFO] console - res=[object Object]
+[2013-02-04 20:04:30.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:30.595] [INFO] console - res=[object Object]
+[2013-02-04 20:04:30.595] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:32.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:04:32.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:04:32.593] [INFO] console - res=[object Object]
+[2013-02-04 20:04:32.593] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:32.701] [INFO] console - res=[object Object]
+[2013-02-04 20:04:32.702] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:34.593] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:04:34.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:04:34.597] [INFO] console - res=[object Object]
+[2013-02-04 20:04:34.597] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:34.597] [INFO] console - res=[object Object]
+[2013-02-04 20:04:34.597] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:36.593] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:04:36.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:04:36.687] [INFO] console - res=[object Object]
+[2013-02-04 20:04:36.687] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:36.866] [INFO] console - res=[object Object]
+[2013-02-04 20:04:36.866] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:38.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:04:38.591] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:04:38.750] [INFO] console - res=[object Object]
+[2013-02-04 20:04:38.751] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:39.015] [INFO] console - res=[object Object]
+[2013-02-04 20:04:39.015] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:40.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:04:40.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:04:40.598] [INFO] console - res=[object Object]
+[2013-02-04 20:04:40.598] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:40.598] [INFO] console - res=[object Object]
+[2013-02-04 20:04:40.598] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:42.592] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:04:42.593] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:04:42.678] [INFO] console - res=[object Object]
+[2013-02-04 20:04:42.678] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:42.739] [INFO] console - res=[object Object]
+[2013-02-04 20:04:42.740] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:44.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:04:44.591] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:04:44.597] [INFO] console - res=[object Object]
+[2013-02-04 20:04:44.597] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:44.615] [INFO] console - res=[object Object]
+[2013-02-04 20:04:44.615] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:46.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:04:46.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:04:46.594] [INFO] console - res=[object Object]
+[2013-02-04 20:04:46.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:46.626] [INFO] console - res=[object Object]
+[2013-02-04 20:04:46.626] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:48.591] [INFO] console - 2 1 1 1 1
+[2013-02-04 20:04:48.592] [INFO] console - 3 2 2 2 2
+[2013-02-04 20:04:48.593] [INFO] console - res=[object Object]
+[2013-02-04 20:04:48.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }
+[2013-02-04 20:04:48.594] [INFO] console - res=[object Object]
+[2013-02-04 20:04:48.594] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  changedRows: 1 }

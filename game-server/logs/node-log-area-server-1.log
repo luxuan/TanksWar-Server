@@ -1,0 +1,408 @@
+[2013-02-04 14:40:46.542] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 14:40:47.110] [INFO] console - info: 'socket.io started'
+[2013-02-04 14:40:47.182] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 14:40:47.284] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 14:40:47.285] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 14:45:23.309] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 14:45:24.034] [INFO] console - info: 'socket.io started'
+[2013-02-04 14:45:24.073] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 14:45:24.170] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 14:45:24.171] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 14:46:04.893] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 14:46:05.604] [INFO] console - info: 'socket.io started'
+[2013-02-04 14:46:05.687] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 14:46:05.743] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 14:46:05.743] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 14:48:42.039] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 14:48:42.608] [INFO] console - info: 'socket.io started'
+[2013-02-04 14:48:42.646] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 14:48:42.794] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 14:48:42.795] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 14:53:34.698] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 14:53:35.333] [INFO] console - info: 'socket.io started'
+[2013-02-04 14:53:35.417] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 14:53:35.508] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 14:53:35.509] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 14:55:36.635] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 14:55:37.229] [INFO] console - info: 'socket.io started'
+[2013-02-04 14:55:37.270] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 14:55:37.361] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 14:55:37.362] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 14:58:10.765] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 14:58:11.299] [INFO] console - info: 'socket.io started'
+[2013-02-04 14:58:11.343] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 14:58:11.452] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 14:58:11.452] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 15:04:23.688] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 15:04:24.171] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:04:24.210] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 15:04:24.280] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 15:04:24.280] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 15:04:45.608] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 15:04:46.056] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:04:46.095] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 15:04:46.163] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 15:04:46.164] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 15:07:26.530] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 15:07:26.959] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:07:26.999] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 15:07:27.067] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 15:07:27.068] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 15:10:08.135] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 15:10:08.570] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:10:08.604] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 15:10:08.675] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 15:10:08.675] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 15:13:11.822] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 15:13:12.250] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:13:12.284] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 15:13:12.384] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 15:13:12.384] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 15:15:42.709] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 15:15:43.144] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:15:43.181] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 15:15:43.260] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 15:15:43.261] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 15:18:37.363] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 15:18:37.828] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:18:37.855] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 15:18:37.935] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 15:18:37.936] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 15:21:06.019] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 15:21:06.446] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:21:06.480] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 15:21:06.557] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 15:21:06.558] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 15:23:13.107] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 15:23:13.578] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:23:13.606] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 15:23:13.669] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 15:23:13.669] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 15:23:53.251] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 15:23:53.682] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:23:53.714] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 15:23:53.805] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 15:23:53.806] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 15:24:08.230] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 15:24:08.681] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:24:08.716] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 15:24:08.808] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 15:24:08.808] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 15:25:20.659] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 15:25:21.095] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:25:21.127] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 15:25:21.202] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 15:25:21.202] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 15:26:57.113] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 15:26:57.545] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:26:57.582] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 15:26:57.664] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 15:26:57.664] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 15:28:25.474] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 15:28:25.891] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:28:25.926] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 15:28:26.017] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 15:28:26.018] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 15:35:10.324] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 15:35:10.739] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:35:10.773] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 15:35:10.889] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 15:35:10.889] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 15:36:31.235] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 15:36:31.658] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:36:31.720] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 15:36:31.785] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 15:36:31.786] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 15:41:56.100] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 15:41:56.537] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:41:56.573] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 15:41:56.630] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 15:41:56.630] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 15:43:06.585] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 15:43:07.010] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:43:07.037] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 15:43:07.139] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 15:43:07.140] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 15:48:59.993] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 15:49:00.418] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:49:00.455] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 15:49:42.654] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 15:49:43.095] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:49:43.128] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 15:50:35.679] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 15:50:36.097] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:50:36.129] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 15:50:36.247] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 15:50:36.247] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 15:51:27.636] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 15:51:28.067] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:51:28.104] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 15:51:28.184] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 15:51:28.184] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 15:52:10.528] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 15:52:10.949] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:52:10.985] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 15:52:11.082] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 15:52:11.082] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 15:52:54.312] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 15:52:54.736] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:52:54.768] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 15:52:54.859] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 15:52:54.859] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 15:53:07.977] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 15:53:08.399] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:53:08.432] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 15:53:08.500] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 15:53:08.501] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 15:54:20.264] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 15:54:20.712] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:54:20.741] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 15:54:20.841] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 15:54:20.842] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 15:59:35.309] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 15:59:35.763] [INFO] console - info: 'socket.io started'
+[2013-02-04 15:59:35.796] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 15:59:35.865] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 15:59:35.866] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 16:00:49.934] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 16:00:50.366] [INFO] console - info: 'socket.io started'
+[2013-02-04 16:00:50.401] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 16:00:50.485] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 16:00:50.486] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 16:01:03.042] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 16:01:03.489] [INFO] console - info: 'socket.io started'
+[2013-02-04 16:01:03.524] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 16:01:03.582] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 16:01:03.583] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 16:01:43.434] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 16:01:43.863] [INFO] console - info: 'socket.io started'
+[2013-02-04 16:01:43.889] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 16:01:43.959] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 16:01:43.961] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 16:04:53.496] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 16:04:53.930] [INFO] console - info: 'socket.io started'
+[2013-02-04 16:04:53.968] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 16:04:54.052] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 16:04:54.052] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 16:06:28.303] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 16:06:28.730] [INFO] console - info: 'socket.io started'
+[2013-02-04 16:06:28.758] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 16:06:28.850] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 16:06:28.850] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 16:52:18.269] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 16:52:18.702] [INFO] console - info: 'socket.io started'
+[2013-02-04 16:52:18.797] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 16:52:18.853] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 16:52:18.854] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 16:58:13.171] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 16:58:13.597] [INFO] console - info: 'socket.io started'
+[2013-02-04 16:58:13.616] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 16:58:13.707] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 16:58:13.708] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 17:11:40.497] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 17:11:40.922] [INFO] console - info: 'socket.io started'
+[2013-02-04 17:11:40.941] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 17:11:41.029] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 17:11:41.030] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 17:16:59.870] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 17:17:00.293] [INFO] console - info: 'socket.io started'
+[2013-02-04 17:17:00.311] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 17:17:00.391] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 17:17:00.391] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 17:17:13.799] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 17:17:14.215] [INFO] console - info: 'socket.io started'
+[2013-02-04 17:17:14.234] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 17:17:14.345] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 17:17:14.346] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 17:22:41.921] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 17:22:42.346] [INFO] console - info: 'socket.io started'
+[2013-02-04 17:22:42.363] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 17:22:42.450] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 17:22:42.451] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 17:23:50.918] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 17:23:51.357] [INFO] console - info: 'socket.io started'
+[2013-02-04 17:23:51.376] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 17:23:51.452] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 17:23:51.452] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 18:40:18.555] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 18:40:18.983] [INFO] console - info: 'socket.io started'
+[2013-02-04 18:40:18.995] [ERROR] console -  Caught exception: Error: write EPIPE
+    at errnoException (net.js:770:11)
+    at Object.afterWrite (net.js:594:19)
+[2013-02-04 18:40:19.004] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 18:40:19.017] [ERROR] /node_modules/pomelo/lib/application.js - [pomelo application] fail to operate component, method:start, err:undefined
+[2013-02-04 18:40:46.313] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 18:40:46.753] [INFO] console - info: 'socket.io started'
+[2013-02-04 18:40:46.759] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:770:11)
+    at Server._listen2 (net.js:910:14)
+    at listen (net.js:937:10)
+    at Server.listen (net.js:986:5)
+    at Object.exports.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:20)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:16)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at Application._optComponents (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/application.js:383:19)
+    at async.forEachSeries.iterate (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/async/lib/async.js:108:13)
+[2013-02-04 18:40:46.777] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 18:40:46.874] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 18:40:46.874] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 18:41:30.294] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 18:41:30.708] [INFO] console - info: 'socket.io started'
+[2013-02-04 18:41:30.714] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:770:11)
+    at Server._listen2 (net.js:910:14)
+    at listen (net.js:937:10)
+    at Server.listen (net.js:986:5)
+    at Object.exports.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:20)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:16)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at Application._optComponents (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/application.js:383:19)
+    at async.forEachSeries.iterate (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/async/lib/async.js:108:13)
+[2013-02-04 18:41:30.730] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 18:41:30.876] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 18:41:30.877] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 18:42:47.546] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 18:42:47.967] [INFO] console - info: 'socket.io started'
+[2013-02-04 18:42:47.977] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:770:11)
+    at Server._listen2 (net.js:910:14)
+    at listen (net.js:937:10)
+    at Server.listen (net.js:986:5)
+    at Object.exports.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:20)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:16)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at Application._optComponents (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/application.js:383:19)
+    at async.forEachSeries.iterate (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/async/lib/async.js:108:13)
+[2013-02-04 18:42:47.996] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 18:42:48.078] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 18:42:48.079] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 18:44:31.095] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 18:44:31.504] [INFO] console - info: 'socket.io started'
+[2013-02-04 18:44:31.511] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:770:11)
+    at Server._listen2 (net.js:910:14)
+    at listen (net.js:937:10)
+    at Server.listen (net.js:986:5)
+    at Object.exports.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:20)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:16)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at Application._optComponents (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/application.js:383:19)
+    at async.forEachSeries.iterate (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/async/lib/async.js:108:13)
+[2013-02-04 18:44:31.530] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 18:44:31.605] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 18:44:31.605] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 18:44:51.541] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 18:44:51.951] [INFO] console - info: 'socket.io started'
+[2013-02-04 18:44:51.958] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:770:11)
+    at Server._listen2 (net.js:910:14)
+    at listen (net.js:937:10)
+    at Server.listen (net.js:986:5)
+    at Object.exports.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:20)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:16)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at Application._optComponents (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/application.js:383:19)
+    at async.forEachSeries.iterate (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/async/lib/async.js:108:13)
+[2013-02-04 18:44:51.977] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 18:44:52.035] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 18:44:52.035] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 18:45:31.523] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 18:45:31.933] [INFO] console - info: 'socket.io started'
+[2013-02-04 18:45:31.948] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 18:45:32.021] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 18:45:32.021] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 18:45:56.343] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 18:45:56.756] [INFO] console - info: 'socket.io started'
+[2013-02-04 18:45:56.774] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 18:45:56.903] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 18:45:56.904] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 18:47:00.815] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 18:47:01.239] [INFO] console - info: 'socket.io started'
+[2013-02-04 18:47:01.253] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 18:47:01.376] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 18:47:01.377] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 18:48:52.507] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 18:48:52.915] [INFO] console - info: 'socket.io started'
+[2013-02-04 18:48:52.930] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 18:48:53.073] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 18:48:53.074] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 18:54:36.223] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 18:54:36.630] [INFO] console - info: 'socket.io started'
+[2013-02-04 18:54:36.650] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 18:54:36.780] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 18:54:36.781] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 18:58:25.637] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 18:58:26.038] [INFO] console - info: 'socket.io started'
+[2013-02-04 18:58:26.055] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 18:58:26.200] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 18:58:26.201] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 19:02:36.048] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 19:02:36.445] [INFO] console - info: 'socket.io started'
+[2013-02-04 19:02:36.462] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 19:02:36.562] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 19:02:36.563] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 19:09:46.840] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 19:09:47.262] [INFO] console - info: 'socket.io started'
+[2013-02-04 19:09:47.276] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 19:09:47.365] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 19:09:47.366] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 19:16:19.343] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 19:16:19.752] [INFO] console - info: 'socket.io started'
+[2013-02-04 19:16:19.771] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 19:16:19.867] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 19:16:19.868] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 19:17:57.623] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 19:17:58.022] [INFO] console - info: 'socket.io started'
+[2013-02-04 19:17:58.041] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 19:17:58.183] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 19:17:58.183] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 19:18:38.349] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 19:18:38.752] [INFO] console - info: 'socket.io started'
+[2013-02-04 19:18:38.769] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 19:18:38.859] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 19:18:38.860] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 19:19:03.900] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 19:19:04.306] [INFO] console - info: 'socket.io started'
+[2013-02-04 19:19:04.323] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 19:19:04.393] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 19:19:04.393] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 19:22:08.028] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 19:22:08.438] [INFO] console - info: 'socket.io started'
+[2013-02-04 19:22:08.455] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 19:22:08.547] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 19:22:08.547] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 19:23:18.834] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 19:23:19.244] [INFO] console - info: 'socket.io started'
+[2013-02-04 19:23:19.263] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 19:23:19.357] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 19:23:19.358] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 19:23:56.167] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 19:23:56.566] [INFO] console - info: 'socket.io started'
+[2013-02-04 19:23:56.583] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 19:23:56.693] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 19:23:56.693] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 19:30:46.256] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 19:30:46.662] [INFO] console - info: 'socket.io started'
+[2013-02-04 19:30:46.680] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 19:30:46.774] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 19:30:46.775] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 19:35:54.447] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 19:35:54.864] [INFO] console - info: 'socket.io started'
+[2013-02-04 19:35:54.884] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 19:35:54.967] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 19:35:54.967] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 19:38:08.427] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 19:38:08.846] [INFO] console - info: 'socket.io started'
+[2013-02-04 19:38:08.865] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 19:38:08.939] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 19:38:08.940] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-04 20:01:15.459] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-04 20:01:16.100] [INFO] console - info: 'socket.io started'
+[2013-02-04 20:01:16.195] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 20:01:16.263] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-04 20:01:16.263] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.

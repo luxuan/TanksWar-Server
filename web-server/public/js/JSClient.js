@@ -7,10 +7,10 @@
  */
 var pomelo = window.pomelo;
 
-function getMyArchitecture(category)
+function getMyArchitecture(category,userid)
 {
     var route = "area.architectureHandler.getArchitecture";
-    pomelo.request(route,{category:category},function(data){
+    pomelo.request(route,{category:category,userid:userid},function(data){
 
         console.log(data);
         if(data.code === 200)
@@ -65,12 +65,12 @@ function enterGame(username,password,host,port)
                 $("#oil").html(data.userinfo.oil);
                 $("#iron").html(data.userinfo.iron);
                 $("#mine").html(data.userinfo.mine);
-
+                console.log(data.users);
 
                 //得到自己军事区建筑
-                getMyArchitecture("military");
+                getMyArchitecture("military",data.userinfo.userid);
                 //得到自己资源区建筑
-                getMyArchitecture("resource");
+                getMyArchitecture("resource",data.userinfo.userid);
 
 
 
@@ -101,6 +101,8 @@ function showLogin() {
 
     $("#loginUser").focus();
 
+
+
     $("#login").click(function() {
         var username = $("#loginUser").attr("value");
         var password = $('#loginPassword').val();
@@ -122,6 +124,7 @@ function showLogin() {
 $(document).ready(function() {
     //when first time into chat room.
     showLogin();
+
 
 
 

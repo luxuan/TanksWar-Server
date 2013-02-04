@@ -1,14 +1,17 @@
 {
     "development":{
         "connector":[
-             {"id":"connector-server-1", "host":"127.0.0.1", "port":4050, "wsPort":3050},
-             {"id":"connector-server-2", "host":"127.0.0.1", "port":4051, "wsPort":3051},
-             {"id":"connector-server-3", "host":"127.0.0.1", "port":4052, "wsPort":3052}
+             {"id":"connector-server-1", "host":"127.0.0.1", "port":4050, "wsPort":3050}
          ],
         "area":[
-             {"id":"chat-server-1", "host":"127.0.0.1", "port":6050},
-             {"id":"chat-server-2", "host":"127.0.0.1", "port":6051},
-             {"id":"chat-server-3", "host":"127.0.0.1", "port":6052}
+             {"id":"area-server-1", "host":"127.0.0.1", "port":6050},
+             {"id":"area-server-2", "host":"127.0.0.1", "port":6051},
+             {"id":"area-server-3", "host":"127.0.0.1", "port":6052}
+        ],
+        "chat":[
+            {"id":"chat-server-1", "host":"127.0.0.1", "port":9050},
+            {"id":"chat-server-2", "host":"127.0.0.1", "port":9051},
+            {"id":"chat-server-3", "host":"127.0.0.1", "port":9052}
         ],
         "gate":[
 	     {"id": "gate-server-1", "host": "127.0.0.1", "wsPort": 3014}
@@ -21,9 +24,14 @@
              {"id":"connector-server-3", "host":"127.0.0.1", "port":4052, "wsPort":3052}
          ],
         "area":[
-             {"id":"chat-server-1", "host":"127.0.0.1", "port":6050},
-             {"id":"chat-server-2", "host":"127.0.0.1", "port":6051},
-             {"id":"chat-server-3", "host":"127.0.0.1", "port":6052}
+             {"id":"area-server-1", "host":"127.0.0.1", "port":6050},
+             {"id":"area-server-2", "host":"127.0.0.1", "port":6051},
+             {"id":"area-server-3", "host":"127.0.0.1", "port":6052}
+        ],
+        "chat":[
+            {"id":"chat-server-1", "host":"127.0.0.1", "port":9050},
+            {"id":"chat-server-2", "host":"127.0.0.1", "port":9051},
+            {"id":"chat-server-3", "host":"127.0.0.1", "port":9052}
         ],
         "gate":[
 	     {"id": "gate-server-1", "host": "127.0.0.1", "wsPort": 3014}

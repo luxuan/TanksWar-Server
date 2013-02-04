@@ -1,6 +1,13 @@
 var pomelo = require('pomelo');
 var routeUtil = require('./app/util/routeUtil');
+var userinfoDAO = require('./app/dao/userinfoDAO');
+var schedule = require('pomelo-schedule');
+
 var act = require('./app/util/activate');
+
+
+
+
 /**
  * Init app for client.
  */
@@ -26,7 +33,8 @@ app.configure('production|development', function() {
 app.configure('production|development', 'gate', function() {
     //chenyl 因为数据库只有一个，服务器有多个，如果配置在app.configure('production|development'中的话每启动一个服务器
     //就会调用一次actResourceIncrease方法，而gate服务器只有一个，所以配置在gate服务器中正好
-    act.actResourceIncrease();
+    //chenyl 5秒后执行一次act.actResourceIncrease 不重复 只执行一次 其他执行方案可参考pomelo-schedule api
+    schedule.scheduleJob({start:Date.now()+5000}, act.actResourceIncrease);
 });
 
 // start app

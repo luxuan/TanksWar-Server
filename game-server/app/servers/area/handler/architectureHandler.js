@@ -31,10 +31,10 @@ handler.increaseArchitectureLevel = function(msg,session,next){
 handler.getArchitecture = function(msg, session, next) {
     console.log("invoke getArchitecture");
     //得到数据库的建筑的信息
-//console.log("session.get(rid)="+session.get("rid"));
+console.log("session.get(rid)="+session.get("rid"));
 
 
-    architectureDAO.getArchitectureByCategory(msg.category,session.get("rid"),function(err,Resources) {
+    architectureDAO.getArchitectureByCategory(msg.category,msg.userid,function(err,Resources) {
         if (err) {
             logger.error('getResourceByCategory failed!');
             next(new Error('fail to getResourceByCategory'));
