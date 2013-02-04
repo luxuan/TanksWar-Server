@@ -1663,3 +1663,20 @@
     at pro.handle (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
 [2013-02-02 06:08:11.466] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "area.architectureHandler.getArchitecture" timeout.
 [2013-02-02 06:08:11.468] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "area.architectureHandler.getArchitecture" timeout.
+[2013-02-04 13:01:19.476] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-02-04 13:01:19.481] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 13:01:20.009] [INFO] console - info: 'socket.io started'
+[2013-02-04 13:01:20.099] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 13:01:20.176] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
+[2013-02-04 13:01:20.176] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
+[2013-02-04 13:03:15.916] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-02-04 13:03:15.918] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 13:03:16.332] [INFO] console - info: 'socket.io started'
+[2013-02-04 13:03:16.367] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 13:03:16.455] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
+[2013-02-04 13:03:16.456] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.
+[2013-02-04 13:07:31.952] [INFO] /node_modules/pomelo/lib/application.js - application inited: "chat-server-1"
+[2013-02-04 13:07:32.347] [INFO] console - info: 'socket.io started'
+[2013-02-04 13:07:32.378] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-04 13:07:32.455] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "chat-server-1"
+[2013-02-04 13:07:32.456] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "chat-server-1" started.

@@ -123,3 +123,21 @@
 [2013-02-02 06:08:06.876] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
 [2013-02-02 06:08:06.880] [INFO] console - info: 'socket.io started'
 [2013-02-02 06:08:06.881] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 13:01:19.491] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 13:01:19.493] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 13:01:20.065] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 13:01:20.176] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 13:01:20.179] [INFO] console - info: 'socket.io started'
+[2013-02-04 13:01:20.180] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 13:03:15.948] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 13:03:15.950] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 13:03:16.376] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 13:03:16.455] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 13:03:16.459] [INFO] console - info: 'socket.io started'
+[2013-02-04 13:03:16.459] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
+[2013-02-04 13:07:31.974] [INFO] /node_modules/pomelo/lib/application.js - application inited: "gate-server-1"
+[2013-02-04 13:07:31.984] [INFO] console - &&&&&&&&&&actResourceIncrease&&&&&&&&&&
+[2013-02-04 13:07:32.385] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "gate", "127.0.0.1", 3005
+[2013-02-04 13:07:32.456] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "gate-server-1"
+[2013-02-04 13:07:32.459] [INFO] console - info: 'socket.io started'
+[2013-02-04 13:07:32.459] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "gate-server-1" started.
