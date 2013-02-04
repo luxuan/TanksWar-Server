@@ -8,6 +8,7 @@
         ,"log4js": ">= 0.4.1"
          , "generic-pool": ">=1.0.9"
          , "pomelo-logger": "0.0.2"
+         ,"pomelo-schedule":">=0.3.4"
          , "mysql": ">=2.0"
     }
 }
