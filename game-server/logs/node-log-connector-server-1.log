@@ -1003,3 +1003,444 @@
 [2013-02-04 20:01:16.263] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
 [2013-02-04 20:01:16.264] [INFO] console - info: 'socket.io started'
 [2013-02-04 20:01:16.265] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-09 21:05:04.138] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-09 21:05:04.722] [INFO] console - info: 'socket.io started'
+[2013-02-09 21:05:04.775] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-09 21:05:04.862] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-09 21:05:04.864] [INFO] console - info: 'socket.io started'
+[2013-02-09 21:05:04.865] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-09 21:21:54.199] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-09 21:21:54.620] [INFO] console - info: 'socket.io started'
+[2013-02-09 21:21:54.639] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-09 21:21:54.721] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-09 21:21:54.723] [INFO] console - info: 'socket.io started'
+[2013-02-09 21:21:54.723] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-09 21:22:25.189] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-09 21:22:25.603] [INFO] console - info: 'socket.io started'
+[2013-02-09 21:22:25.627] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-09 21:22:25.697] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-09 21:22:25.698] [INFO] console - info: 'socket.io started'
+[2013-02-09 21:22:25.699] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-09 21:23:28.393] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-09 21:23:28.823] [INFO] console - info: 'socket.io started'
+[2013-02-09 21:23:28.837] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-09 21:23:28.915] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-09 21:23:28.917] [INFO] console - info: 'socket.io started'
+[2013-02-09 21:23:28.918] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-09 21:31:30.732] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-09 21:31:31.155] [INFO] console - info: 'socket.io started'
+[2013-02-09 21:31:31.176] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-09 21:31:31.251] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-09 21:31:31.254] [INFO] console - info: 'socket.io started'
+[2013-02-09 21:31:31.254] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-09 21:40:40.675] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-09 21:40:41.081] [INFO] console - info: 'socket.io started'
+[2013-02-09 21:40:41.102] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-09 21:40:41.189] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-09 21:40:41.190] [INFO] console - info: 'socket.io started'
+[2013-02-09 21:40:41.191] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-09 21:44:17.733] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-09 21:44:18.172] [INFO] console - info: 'socket.io started'
+[2013-02-09 21:44:18.194] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-09 21:44:18.259] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-09 21:44:18.261] [INFO] console - info: 'socket.io started'
+[2013-02-09 21:44:18.262] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 21:18:06.422] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 21:18:06.963] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:18:06.993] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 21:18:07.064] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 21:18:07.066] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:18:07.067] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 21:20:07.853] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 21:20:08.266] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:20:08.286] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 21:20:08.365] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 21:20:08.367] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:20:08.367] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 21:26:16.546] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 21:26:16.962] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:26:16.987] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 21:26:17.045] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 21:26:17.047] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:26:17.048] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 21:27:14.046] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 21:27:14.460] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:27:14.474] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 21:27:14.555] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 21:27:14.557] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:27:14.558] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 21:29:14.859] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 21:29:15.263] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:29:15.284] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 21:29:15.377] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 21:29:15.379] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:29:15.380] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 21:33:30.903] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 21:33:31.318] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:33:31.332] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 21:33:31.412] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 21:33:31.414] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:33:31.414] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 21:36:07.616] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 21:36:08.061] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:36:08.075] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 21:36:08.136] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 21:36:08.137] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:36:08.138] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 21:39:50.675] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 21:39:51.096] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:39:51.111] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 21:39:51.164] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 21:39:51.165] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:39:51.165] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 21:41:04.735] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 21:41:05.165] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:41:05.179] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 21:41:05.245] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 21:41:05.246] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:41:05.246] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 21:43:00.522] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 21:43:00.943] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:43:00.960] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 21:43:01.026] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 21:43:01.028] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:43:01.028] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 21:43:15.731] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 21:43:16.160] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:43:16.175] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 21:43:16.242] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 21:43:16.244] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:43:16.244] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 21:47:26.163] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 21:47:26.575] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:47:26.590] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 21:47:26.663] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 21:47:26.665] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:47:26.665] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 21:51:44.630] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 21:51:45.057] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:51:45.073] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 21:51:45.143] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 21:51:45.144] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:51:45.144] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 21:52:22.419] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 21:52:22.843] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:52:22.860] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 21:52:22.919] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 21:52:22.921] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:52:22.921] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 21:57:32.187] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 21:57:32.600] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:57:32.614] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 21:57:32.701] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 21:57:32.702] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:57:32.703] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 21:58:24.066] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 21:58:24.484] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:58:24.498] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 21:58:24.593] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 21:58:24.594] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:58:24.594] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 22:02:49.932] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 22:02:50.367] [INFO] console - info: 'socket.io started'
+[2013-02-10 22:02:50.384] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 22:02:50.451] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 22:02:50.452] [INFO] console - info: 'socket.io started'
+[2013-02-10 22:02:50.453] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 22:03:17.238] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 22:03:17.668] [INFO] console - info: 'socket.io started'
+[2013-02-10 22:03:17.688] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 22:03:17.754] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 22:03:17.755] [INFO] console - info: 'socket.io started'
+[2013-02-10 22:03:17.755] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 22:04:15.916] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 22:04:16.328] [INFO] console - info: 'socket.io started'
+[2013-02-10 22:04:16.349] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 22:04:16.419] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 22:04:16.420] [INFO] console - info: 'socket.io started'
+[2013-02-10 22:04:16.421] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 22:49:29.978] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 22:49:30.391] [INFO] console - info: 'socket.io started'
+[2013-02-10 22:49:30.408] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 22:49:30.500] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 22:49:30.501] [INFO] console - info: 'socket.io started'
+[2013-02-10 22:49:30.502] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 22:49:44.275] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 22:49:44.708] [INFO] console - info: 'socket.io started'
+[2013-02-10 22:49:44.728] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 22:49:44.798] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 22:49:44.799] [INFO] console - info: 'socket.io started'
+[2013-02-10 22:49:44.799] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 22:54:57.937] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 22:54:58.331] [INFO] console - info: 'socket.io started'
+[2013-02-10 22:54:58.340] [ERROR] console -  Caught exception: Error: write EPIPE
+    at errnoException (net.js:770:11)
+    at Object.afterWrite (net.js:594:19)
+[2013-02-10 22:54:58.348] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 22:54:58.362] [ERROR] /node_modules/pomelo/lib/application.js - [pomelo application] fail to operate component, method:start, err:undefined
+[2013-02-10 22:55:37.362] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 22:55:37.782] [INFO] console - info: 'socket.io started'
+[2013-02-10 22:55:37.787] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:770:11)
+    at Server._listen2 (net.js:910:14)
+    at listen (net.js:937:10)
+    at Server.listen (net.js:986:5)
+    at Object.exports.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:20)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:16)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at Application._optComponents (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/application.js:383:19)
+    at async.forEachSeries.iterate (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/async/lib/async.js:108:13)
+[2013-02-10 22:55:37.806] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 22:55:37.888] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 22:55:37.889] [INFO] console - info: 'socket.io started'
+[2013-02-10 22:55:37.889] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 22:58:26.947] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 22:58:27.392] [INFO] console - info: 'socket.io started'
+[2013-02-10 22:58:27.396] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:770:11)
+    at Server._listen2 (net.js:910:14)
+    at listen (net.js:937:10)
+    at Server.listen (net.js:986:5)
+    at Object.exports.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:20)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:16)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at Application._optComponents (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/application.js:383:19)
+    at async.forEachSeries.iterate (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/async/lib/async.js:108:13)
+[2013-02-10 22:58:27.410] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 22:58:27.457] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 22:58:27.459] [INFO] console - info: 'socket.io started'
+[2013-02-10 22:58:27.459] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 22:59:26.101] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 22:59:26.518] [INFO] console - info: 'socket.io started'
+[2013-02-10 22:59:26.522] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:770:11)
+    at Server._listen2 (net.js:910:14)
+    at listen (net.js:937:10)
+    at Server.listen (net.js:986:5)
+    at Object.exports.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:20)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:16)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at Application._optComponents (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/application.js:383:19)
+    at async.forEachSeries.iterate (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/async/lib/async.js:108:13)
+[2013-02-10 22:59:26.536] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 22:59:26.598] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 22:59:26.599] [INFO] console - info: 'socket.io started'
+[2013-02-10 22:59:26.600] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 22:59:52.339] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 22:59:52.755] [INFO] console - info: 'socket.io started'
+[2013-02-10 22:59:52.759] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:770:11)
+    at Server._listen2 (net.js:910:14)
+    at listen (net.js:937:10)
+    at Server.listen (net.js:986:5)
+    at Object.exports.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:20)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:16)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at Application._optComponents (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/application.js:383:19)
+    at async.forEachSeries.iterate (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/async/lib/async.js:108:13)
+[2013-02-10 22:59:52.773] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 22:59:52.856] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 22:59:52.857] [INFO] console - info: 'socket.io started'
+[2013-02-10 22:59:52.857] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 23:07:44.736] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 23:07:45.163] [INFO] console - info: 'socket.io started'
+[2013-02-10 23:07:45.169] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:770:11)
+    at Server._listen2 (net.js:910:14)
+    at listen (net.js:937:10)
+    at Server.listen (net.js:986:5)
+    at Object.exports.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:20)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:16)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at Application._optComponents (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/application.js:383:19)
+    at async.forEachSeries.iterate (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/async/lib/async.js:108:13)
+[2013-02-10 23:07:45.182] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 23:07:45.249] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 23:07:45.251] [INFO] console - info: 'socket.io started'
+[2013-02-10 23:07:45.251] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 23:09:22.490] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 23:09:22.909] [INFO] console - info: 'socket.io started'
+[2013-02-10 23:09:22.914] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:770:11)
+    at Server._listen2 (net.js:910:14)
+    at listen (net.js:937:10)
+    at Server.listen (net.js:986:5)
+    at Object.exports.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:20)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:16)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at Application._optComponents (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/application.js:383:19)
+    at async.forEachSeries.iterate (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/async/lib/async.js:108:13)
+[2013-02-10 23:09:22.930] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 23:09:23.017] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 23:09:23.018] [INFO] console - info: 'socket.io started'
+[2013-02-10 23:09:23.019] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 23:15:08.211] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 23:15:08.631] [INFO] console - info: 'socket.io started'
+[2013-02-10 23:15:08.636] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:770:11)
+    at Server._listen2 (net.js:910:14)
+    at listen (net.js:937:10)
+    at Server.listen (net.js:986:5)
+    at Object.exports.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:20)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:16)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at Application._optComponents (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/application.js:383:19)
+    at async.forEachSeries.iterate (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/async/lib/async.js:108:13)
+[2013-02-10 23:15:08.652] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 23:15:08.752] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 23:15:08.754] [INFO] console - info: 'socket.io started'
+[2013-02-10 23:15:08.754] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 23:15:37.849] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 23:15:38.275] [INFO] console - info: 'socket.io started'
+[2013-02-10 23:15:38.279] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:770:11)
+    at Server._listen2 (net.js:910:14)
+    at listen (net.js:937:10)
+    at Server.listen (net.js:986:5)
+    at Object.exports.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:20)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:16)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at Application._optComponents (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/application.js:383:19)
+    at async.forEachSeries.iterate (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/async/lib/async.js:108:13)
+[2013-02-10 23:15:38.293] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 23:15:38.371] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 23:15:38.373] [INFO] console - info: 'socket.io started'
+[2013-02-10 23:15:38.373] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 23:22:31.307] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 23:22:31.729] [INFO] console - info: 'socket.io started'
+[2013-02-10 23:22:31.733] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:770:11)
+    at Server._listen2 (net.js:910:14)
+    at listen (net.js:937:10)
+    at Server.listen (net.js:986:5)
+    at Object.exports.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:20)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:16)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at Application._optComponents (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/application.js:383:19)
+    at async.forEachSeries.iterate (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/async/lib/async.js:108:13)
+[2013-02-10 23:22:31.748] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 23:22:31.823] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 23:22:31.824] [INFO] console - info: 'socket.io started'
+[2013-02-10 23:22:31.825] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 23:23:49.864] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 23:23:50.285] [INFO] console - info: 'socket.io started'
+[2013-02-10 23:23:50.289] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:770:11)
+    at Server._listen2 (net.js:910:14)
+    at listen (net.js:937:10)
+    at Server.listen (net.js:986:5)
+    at Object.exports.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:20)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:16)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at Application._optComponents (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/application.js:383:19)
+    at async.forEachSeries.iterate (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/async/lib/async.js:108:13)
+[2013-02-10 23:23:50.302] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 23:23:50.380] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 23:23:50.382] [INFO] console - info: 'socket.io started'
+[2013-02-10 23:23:50.382] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 23:24:16.948] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 23:24:17.363] [INFO] console - info: 'socket.io started'
+[2013-02-10 23:24:17.367] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:770:11)
+    at Server._listen2 (net.js:910:14)
+    at listen (net.js:937:10)
+    at Server.listen (net.js:986:5)
+    at Object.exports.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:20)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:16)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at Application._optComponents (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/application.js:383:19)
+    at async.forEachSeries.iterate (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/async/lib/async.js:108:13)
+[2013-02-10 23:24:17.381] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 23:24:17.466] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 23:24:17.467] [INFO] console - info: 'socket.io started'
+[2013-02-10 23:24:17.467] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 23:24:55.486] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 23:24:55.913] [INFO] console - info: 'socket.io started'
+[2013-02-10 23:24:55.917] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:770:11)
+    at Server._listen2 (net.js:910:14)
+    at listen (net.js:937:10)
+    at Server.listen (net.js:986:5)
+    at Object.exports.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:20)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:16)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at Application._optComponents (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/application.js:383:19)
+    at async.forEachSeries.iterate (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/async/lib/async.js:108:13)
+[2013-02-10 23:24:55.931] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 23:24:55.997] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 23:24:55.998] [INFO] console - info: 'socket.io started'
+[2013-02-10 23:24:55.999] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 23:27:24.824] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 23:27:25.245] [INFO] console - info: 'socket.io started'
+[2013-02-10 23:27:25.249] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:770:11)
+    at Server._listen2 (net.js:910:14)
+    at listen (net.js:937:10)
+    at Server.listen (net.js:986:5)
+    at Object.exports.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:20)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:16)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at Application._optComponents (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/application.js:383:19)
+    at async.forEachSeries.iterate (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/async/lib/async.js:108:13)
+[2013-02-10 23:27:25.262] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 23:27:25.341] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 23:27:25.343] [INFO] console - info: 'socket.io started'
+[2013-02-10 23:27:25.343] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-10 23:46:11.729] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-10 23:46:12.144] [INFO] console - info: 'socket.io started'
+[2013-02-10 23:46:12.148] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:770:11)
+    at Server._listen2 (net.js:910:14)
+    at listen (net.js:937:10)
+    at Server.listen (net.js:986:5)
+    at Object.exports.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:20)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:16)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at Application._optComponents (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/application.js:383:19)
+    at async.forEachSeries.iterate (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/async/lib/async.js:108:13)
+[2013-02-10 23:46:12.164] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-10 23:46:12.260] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-10 23:46:12.261] [INFO] console - info: 'socket.io started'
+[2013-02-10 23:46:12.261] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-11 01:37:01.595] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-11 01:37:02.142] [INFO] console - info: 'socket.io started'
+[2013-02-11 01:37:02.179] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-11 01:37:02.243] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-11 01:37:02.245] [INFO] console - info: 'socket.io started'
+[2013-02-11 01:37:02.245] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-11 01:41:44.395] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-11 01:41:44.808] [INFO] console - info: 'socket.io started'
+[2013-02-11 01:41:44.842] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-11 01:41:44.885] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-11 01:41:44.887] [INFO] console - info: 'socket.io started'
+[2013-02-11 01:41:44.887] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-11 01:45:49.196] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-11 01:45:49.622] [INFO] console - info: 'socket.io started'
+[2013-02-11 01:45:49.654] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-11 01:45:49.727] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-11 01:45:49.729] [INFO] console - info: 'socket.io started'
+[2013-02-11 01:45:49.729] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-11 01:46:55.013] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-11 01:46:55.434] [INFO] console - info: 'socket.io started'
+[2013-02-11 01:46:55.464] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-11 01:46:55.554] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-11 01:46:55.556] [INFO] console - info: 'socket.io started'
+[2013-02-11 01:46:55.556] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-11 03:11:54.852] [INFO] console - the content is null!
+[2013-02-11 03:31:54.853] [INFO] console - the content is null!
+[2013-02-11 03:56:54.849] [INFO] console - the content is null!
+[2013-02-11 05:31:54.851] [INFO] console - the content is null!

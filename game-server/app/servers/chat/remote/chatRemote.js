@@ -47,6 +47,7 @@ ChatRemote.prototype.get = function(name, flag) {
     if( !! channel) {
         users = channel.getMembers();
     }
+    console.log("biaoji:users.length="+users.length);
     for(var i = 0; i < users.length; i++) {
         users[i] = users[i].split('*')[0];
     }
@@ -74,3 +75,6 @@ ChatRemote.prototype.kick = function(uid, sid, name) {
     };
     channel.pushMessage(param);
 };
+
+
+

@@ -54,7 +54,7 @@ userinfoDao.updateIncrease = function(date,cb)
 {
 
 
-    console.log(date.uid+" "+date.foodadd+" "+date.oiladd+" "+date.ironadd+" "+date.mineadd);
+    //console.log(date.uid+" "+date.foodadd+" "+date.oiladd+" "+date.ironadd+" "+date.mineadd);
     var sql = ' update userinfo SET food = food+?,oil = oil+?,iron=iron+?,mine=mine+? where userid =?';
     var args = [date.foodadd,date.oiladd,date.ironadd,date.mineadd,date.uid];
     pomelo.app.get('dbclient').query(sql,args, function(err,res)
@@ -66,7 +66,7 @@ userinfoDao.updateIncrease = function(date,cb)
             return;
         } else {
 
-            console.log("res="+res);
+            //console.log("res="+res);
             utils.invokeCallback(cb,null, res);
 
 

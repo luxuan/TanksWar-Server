@@ -22,6 +22,10 @@ module.exports = {
 
     Event:{
         chat:'onChat'
+    },
+
+    Channel:{
+        ALL                         :1
     }
 
 

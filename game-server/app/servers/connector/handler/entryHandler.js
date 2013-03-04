@@ -1,7 +1,7 @@
 var schedule = require('pomelo-schedule');
 
 var userinfoDAO = require('../../../dao/userinfoDAO');
-
+var consts = require('../../../consts/consts.js');
 var logger = require('pomelo-logger').getLogger(__filename);
 module.exports = function(app) {
 	return new Handler(app);
@@ -88,7 +88,7 @@ handler.enter = function(msg, session, next) {
 //                   });
 
                    //put user into channel
-                   self.app.rpc.chat.chatRemote.add(session, uid, self.app.get('serverId'), rid, true, function(users){
+                   self.app.rpc.chat.chatRemote.add(session, uid, self.app.get('serverId'), consts.Channel.ALL, true, function(users){
                        next(null, {code: 200,userinfo: res,users:users});
                    });
 

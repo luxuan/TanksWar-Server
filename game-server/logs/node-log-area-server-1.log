@@ -406,3 +406,407 @@
 [2013-02-04 20:01:16.195] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
 [2013-02-04 20:01:16.263] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
 [2013-02-04 20:01:16.263] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-09 21:05:04.150] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-09 21:05:04.706] [INFO] console - info: 'socket.io started'
+[2013-02-09 21:05:04.787] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-09 21:05:04.863] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-09 21:05:04.864] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-09 21:21:54.214] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-09 21:21:54.617] [INFO] console - info: 'socket.io started'
+[2013-02-09 21:21:54.634] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-09 21:21:54.721] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-09 21:21:54.722] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-09 21:22:25.191] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-09 21:22:25.588] [INFO] console - info: 'socket.io started'
+[2013-02-09 21:22:25.604] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-09 21:22:25.697] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-09 21:22:25.698] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-09 21:23:28.417] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-09 21:23:28.815] [INFO] console - info: 'socket.io started'
+[2013-02-09 21:23:28.836] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-09 21:23:28.916] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-09 21:23:28.916] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-09 21:31:30.742] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-09 21:31:31.134] [INFO] console - info: 'socket.io started'
+[2013-02-09 21:31:31.151] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-09 21:31:31.251] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-09 21:31:31.252] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-09 21:40:40.666] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-09 21:40:41.071] [INFO] console - info: 'socket.io started'
+[2013-02-09 21:40:41.088] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-09 21:40:41.189] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-09 21:40:41.189] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-09 21:44:17.755] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-09 21:44:18.156] [INFO] console - info: 'socket.io started'
+[2013-02-09 21:44:18.175] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-09 21:44:18.259] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-09 21:44:18.260] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 21:18:06.435] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 21:18:06.948] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:18:06.977] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 21:18:07.064] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 21:18:07.065] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 21:20:07.864] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 21:20:08.259] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:20:08.278] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 21:20:08.365] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 21:20:08.365] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 21:26:16.555] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 21:26:16.956] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:26:16.978] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 21:26:17.045] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 21:26:17.046] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 21:27:14.057] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 21:27:14.463] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:27:14.480] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 21:27:14.555] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 21:27:14.556] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 21:29:14.864] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 21:29:15.264] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:29:15.288] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 21:29:15.377] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 21:29:15.377] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 21:33:30.900] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 21:33:31.302] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:33:31.319] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 21:33:31.412] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 21:33:31.413] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 21:36:07.631] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 21:36:08.034] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:36:08.051] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 21:36:08.136] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 21:36:08.136] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 21:39:50.654] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 21:39:51.049] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:39:51.065] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 21:39:51.163] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 21:39:51.164] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 21:41:04.711] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 21:41:05.110] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:41:05.139] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 21:41:05.244] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 21:41:05.245] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 21:43:00.509] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 21:43:00.910] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:43:00.929] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 21:43:01.026] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 21:43:01.027] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 21:43:15.736] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 21:43:16.150] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:43:16.169] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 21:43:16.242] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 21:43:16.243] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 21:47:26.171] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 21:47:26.570] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:47:26.587] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 21:47:26.663] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 21:47:26.664] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 21:51:44.642] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 21:51:45.035] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:51:45.054] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 21:51:45.143] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 21:51:45.143] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 21:52:22.404] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 21:52:22.808] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:52:22.825] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 21:52:22.919] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 21:52:22.921] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 21:57:32.199] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 21:57:32.614] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:57:32.632] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 21:57:32.702] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 21:57:32.702] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 21:58:24.086] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 21:58:24.486] [INFO] console - info: 'socket.io started'
+[2013-02-10 21:58:24.506] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 21:58:24.593] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 21:58:24.593] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 22:02:49.937] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 22:02:50.341] [INFO] console - info: 'socket.io started'
+[2013-02-10 22:02:50.361] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 22:02:50.451] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 22:02:50.451] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 22:03:17.211] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 22:03:17.637] [INFO] console - info: 'socket.io started'
+[2013-02-10 22:03:17.656] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 22:03:17.754] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 22:03:17.754] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 22:04:15.904] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 22:04:16.314] [INFO] console - info: 'socket.io started'
+[2013-02-10 22:04:16.334] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 22:04:16.419] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 22:04:16.420] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 22:49:30.018] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 22:49:30.425] [INFO] console - info: 'socket.io started'
+[2013-02-10 22:49:30.447] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 22:49:30.501] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 22:49:30.502] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 22:49:44.300] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 22:49:44.700] [INFO] console - info: 'socket.io started'
+[2013-02-10 22:49:44.719] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 22:49:44.798] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 22:49:44.798] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 22:54:57.956] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 22:54:58.333] [INFO] console - info: 'socket.io started'
+[2013-02-10 22:54:58.343] [ERROR] console -  Caught exception: Error: write EPIPE
+    at errnoException (net.js:770:11)
+    at Object.afterWrite (net.js:594:19)
+[2013-02-10 22:54:58.357] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 22:54:58.370] [ERROR] /node_modules/pomelo/lib/application.js - [pomelo application] fail to operate component, method:start, err:undefined
+[2013-02-10 22:55:37.377] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 22:55:37.771] [INFO] console - info: 'socket.io started'
+[2013-02-10 22:55:37.783] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:770:11)
+    at Server._listen2 (net.js:910:14)
+    at listen (net.js:937:10)
+    at Server.listen (net.js:986:5)
+    at Object.exports.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:20)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:16)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at Application._optComponents (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/application.js:383:19)
+    at async.forEachSeries.iterate (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/async/lib/async.js:108:13)
+[2013-02-10 22:55:37.796] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 22:55:37.888] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 22:55:37.888] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 22:58:26.935] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 22:58:27.338] [INFO] console - info: 'socket.io started'
+[2013-02-10 22:58:27.346] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:770:11)
+    at Server._listen2 (net.js:910:14)
+    at listen (net.js:937:10)
+    at Server.listen (net.js:986:5)
+    at Object.exports.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:20)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:16)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at Application._optComponents (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/application.js:383:19)
+    at async.forEachSeries.iterate (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/async/lib/async.js:108:13)
+[2013-02-10 22:58:27.365] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 22:58:27.456] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 22:58:27.457] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 22:59:26.077] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 22:59:26.483] [INFO] console - info: 'socket.io started'
+[2013-02-10 22:59:26.494] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:770:11)
+    at Server._listen2 (net.js:910:14)
+    at listen (net.js:937:10)
+    at Server.listen (net.js:986:5)
+    at Object.exports.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:20)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:16)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at Application._optComponents (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/application.js:383:19)
+    at async.forEachSeries.iterate (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/async/lib/async.js:108:13)
+[2013-02-10 22:59:26.507] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 22:59:26.597] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 22:59:26.598] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 22:59:52.358] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 22:59:52.752] [INFO] console - info: 'socket.io started'
+[2013-02-10 22:59:52.767] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:770:11)
+    at Server._listen2 (net.js:910:14)
+    at listen (net.js:937:10)
+    at Server.listen (net.js:986:5)
+    at Object.exports.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:20)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:16)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at Application._optComponents (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/application.js:383:19)
+    at async.forEachSeries.iterate (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/async/lib/async.js:108:13)
+[2013-02-10 22:59:52.779] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 22:59:52.856] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 22:59:52.856] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 23:07:44.732] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 23:07:45.135] [INFO] console - info: 'socket.io started'
+[2013-02-10 23:07:45.146] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:770:11)
+    at Server._listen2 (net.js:910:14)
+    at listen (net.js:937:10)
+    at Server.listen (net.js:986:5)
+    at Object.exports.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:20)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:16)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at Application._optComponents (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/application.js:383:19)
+    at async.forEachSeries.iterate (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/async/lib/async.js:108:13)
+[2013-02-10 23:07:45.161] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 23:07:45.249] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 23:07:45.250] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 23:09:22.501] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 23:09:22.907] [INFO] console - info: 'socket.io started'
+[2013-02-10 23:09:22.918] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:770:11)
+    at Server._listen2 (net.js:910:14)
+    at listen (net.js:937:10)
+    at Server.listen (net.js:986:5)
+    at Object.exports.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:20)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:16)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at Application._optComponents (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/application.js:383:19)
+    at async.forEachSeries.iterate (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/async/lib/async.js:108:13)
+[2013-02-10 23:09:22.933] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 23:09:23.017] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 23:09:23.018] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 23:15:08.219] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 23:15:08.621] [INFO] console - info: 'socket.io started'
+[2013-02-10 23:15:08.632] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:770:11)
+    at Server._listen2 (net.js:910:14)
+    at listen (net.js:937:10)
+    at Server.listen (net.js:986:5)
+    at Object.exports.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:20)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:16)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at Application._optComponents (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/application.js:383:19)
+    at async.forEachSeries.iterate (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/async/lib/async.js:108:13)
+[2013-02-10 23:15:08.646] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 23:15:08.752] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 23:15:08.753] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 23:15:37.852] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 23:15:38.253] [INFO] console - info: 'socket.io started'
+[2013-02-10 23:15:38.264] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:770:11)
+    at Server._listen2 (net.js:910:14)
+    at listen (net.js:937:10)
+    at Server.listen (net.js:986:5)
+    at Object.exports.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:20)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:16)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at Application._optComponents (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/application.js:383:19)
+    at async.forEachSeries.iterate (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/async/lib/async.js:108:13)
+[2013-02-10 23:15:38.278] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 23:15:38.371] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 23:15:38.372] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 23:22:31.309] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 23:22:31.720] [INFO] console - info: 'socket.io started'
+[2013-02-10 23:22:31.732] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:770:11)
+    at Server._listen2 (net.js:910:14)
+    at listen (net.js:937:10)
+    at Server.listen (net.js:986:5)
+    at Object.exports.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:20)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:16)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at Application._optComponents (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/application.js:383:19)
+    at async.forEachSeries.iterate (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/async/lib/async.js:108:13)
+[2013-02-10 23:22:31.747] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 23:22:31.823] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 23:22:31.823] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 23:23:49.874] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 23:23:50.275] [INFO] console - info: 'socket.io started'
+[2013-02-10 23:23:50.287] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:770:11)
+    at Server._listen2 (net.js:910:14)
+    at listen (net.js:937:10)
+    at Server.listen (net.js:986:5)
+    at Object.exports.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:20)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:16)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at Application._optComponents (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/application.js:383:19)
+    at async.forEachSeries.iterate (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/async/lib/async.js:108:13)
+[2013-02-10 23:23:50.300] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 23:23:50.380] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 23:23:50.381] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 23:24:16.969] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 23:24:17.377] [INFO] console - info: 'socket.io started'
+[2013-02-10 23:24:17.388] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:770:11)
+    at Server._listen2 (net.js:910:14)
+    at listen (net.js:937:10)
+    at Server.listen (net.js:986:5)
+    at Object.exports.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:20)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:16)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at Application._optComponents (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/application.js:383:19)
+    at async.forEachSeries.iterate (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/async/lib/async.js:108:13)
+[2013-02-10 23:24:17.401] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 23:24:17.466] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 23:24:17.466] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 23:24:55.490] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 23:24:55.904] [INFO] console - info: 'socket.io started'
+[2013-02-10 23:24:55.915] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:770:11)
+    at Server._listen2 (net.js:910:14)
+    at listen (net.js:937:10)
+    at Server.listen (net.js:986:5)
+    at Object.exports.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:20)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:16)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at Application._optComponents (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/application.js:383:19)
+    at async.forEachSeries.iterate (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/async/lib/async.js:108:13)
+[2013-02-10 23:24:55.935] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 23:24:55.997] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 23:24:55.997] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 23:27:24.838] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 23:27:25.239] [INFO] console - info: 'socket.io started'
+[2013-02-10 23:27:25.245] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:770:11)
+    at Server._listen2 (net.js:910:14)
+    at listen (net.js:937:10)
+    at Server.listen (net.js:986:5)
+    at Object.exports.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:20)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:16)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at Application._optComponents (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/application.js:383:19)
+    at async.forEachSeries.iterate (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/async/lib/async.js:108:13)
+[2013-02-10 23:27:25.264] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 23:27:25.341] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 23:27:25.342] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-10 23:46:11.749] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-10 23:46:12.159] [INFO] console - info: 'socket.io started'
+[2013-02-10 23:46:12.165] [ERROR] console -  Caught exception: Error: listen EADDRINUSE
+    at errnoException (net.js:770:11)
+    at Server._listen2 (net.js:910:14)
+    at listen (net.js:937:10)
+    at Server.listen (net.js:986:5)
+    at Object.exports.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.io.js:74:12)
+    at pro.listen (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/acceptors/ws-acceptor.js:29:20)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-server/gateway.js:42:16)
+    at pro.start (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/components/remote.js:46:15)
+    at Application._optComponents (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/lib/application.js:383:19)
+    at async.forEachSeries.iterate (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/async/lib/async.js:108:13)
+[2013-02-10 23:46:12.186] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-10 23:46:12.260] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-10 23:46:12.260] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-11 01:37:01.594] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-11 01:37:02.128] [INFO] console - info: 'socket.io started'
+[2013-02-11 01:37:02.160] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-11 01:37:02.243] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-11 01:37:02.243] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-11 01:41:44.372] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-11 01:41:44.779] [INFO] console - info: 'socket.io started'
+[2013-02-11 01:41:44.815] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-11 01:41:44.885] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-11 01:41:44.885] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-11 01:45:49.218] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-11 01:45:49.635] [INFO] console - info: 'socket.io started'
+[2013-02-11 01:45:49.671] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-11 01:45:49.728] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-11 01:45:49.728] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-11 01:45:54.021] [ERROR] console -  Caught exception: Error: Cannot find module '../domain/area/area'
+    at Function.Module._resolveFilename (module.js:338:15)
+    at Function.Module._load (module.js:280:25)
+    at Module.require (module.js:362:17)
+    at require (module.js:378:17)
+    at Module.monitorHandler (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/app/modules/sceneInfo.js:24:13)
+    at ConsoleService.execute (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js:163:16)
+    at SocketNamespace.MonitorAgent.connect.socket.on.self.state (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-admin/lib/monitorAgent.js:75:23)
+    at SocketNamespace.EventEmitter.emit [as $emit] (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-admin/node_modules/socket.io-client/lib/events.js:165:15)
+    at SocketNamespace.onPacket (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-admin/node_modules/socket.io-client/lib/namespace.js:182:20)
+    at Socket.onPacket (/Users/xiaohei107/Documents/资料/Github资料/TanksWar-Server/game-server/node_modules/pomelo/node_modules/pomelo-admin/node_modules/socket.io-client/lib/socket.js:443:30)
+[2013-02-11 01:46:55.023] [INFO] /node_modules/pomelo/lib/application.js - application inited: "area-server-1"
+[2013-02-11 01:46:55.434] [INFO] console - info: 'socket.io started'
+[2013-02-11 01:46:55.478] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "area", "127.0.0.1", 3005
+[2013-02-11 01:46:55.554] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "area-server-1"
+[2013-02-11 01:46:55.555] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "area-server-1" started.
+[2013-02-11 02:36:54.849] [INFO] console - the content is null!
+[2013-02-11 02:41:54.849] [INFO] console - the content is null!

@@ -74,6 +74,7 @@ function enterGame(username,password,host,port)
 
 
 
+
             }
         });
     });
@@ -123,6 +124,13 @@ function showLogin() {
 
 $(document).ready(function() {
     //when first time into chat room.
+    pomelo.on('onUpdateResource', function(data) {
+//                    var user = data.user;
+//                    tip('online', user);
+//                    addUser(user);
+        console.log('更新！！！');
+        console.log(data.shuju);
+    });
     showLogin();
 
 
